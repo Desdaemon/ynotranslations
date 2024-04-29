@@ -1,0 +1,7065 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 19, Pos (43,54)
+#. Choice (4 options)
+msgid ""
+"\\>ご挨拶\n"
+"\\>うろつき誕生秘話\n"
+"\\>あとがき\n"
+"\\>終了"
+msgstr ""
+"\\>Foreword\n"
+"\\>Urotsuki's Origin Story\n"
+"\\>Afterword\n"
+"\\>Return"
+
+#. ID 2, Page 2, Line 25, Pos (43,54)
+msgid ""
+"20\n"
+"はじめまして製作者の20です"
+msgstr ""
+"20\n"
+"Hello, this is 20,\n."
+"one of the developers."
+
+#. ID 2, Page 2, Line 27, Pos (43,54)
+msgid ""
+"20\n"
+"私は主にメインシステムとマップ製作を\n"
+"担当させてもらいました"
+msgstr ""
+"20\n"
+"I was responsible for the main system\n"
+"and map creation."
+
+#. ID 2, Page 2, Line 30, Pos (43,54)
+msgid ""
+"20\n"
+"「ゆめ２っき」\n"
+"楽しんで頂けましたか？"
+msgstr ""
+"20\n"
+"Were you able to enjoy \"Yume 2kki\"?"
+
+#. ID 2, Page 2, Line 33, Pos (43,54)
+#. ID 2, Page 2, Line 66, Pos (43,54)
+msgid ""
+"20\n"
+"……"
+msgstr ""
+
+#. ID 2, Page 2, Line 35, Pos (43,54)
+msgid ""
+"20\n"
+"とにかく「ゆめ２っき」のプレイ\n"
+"ありがとうございました！"
+msgstr ""
+"20\n"
+"Either way, thank you for playing\n"
+"\"Yume 2kki\"!"
+
+#. ID 2, Page 2, Line 38, Pos (43,54)
+msgid ""
+"20\n"
+"そして……\\!　このマップに来るまで\n"
+"やりこんだあなたはスゴイ！！"
+msgstr ""
+"20\n"
+"And...\\! You're amazing for\n"
+"making it to this room!"
+
+#. ID 2, Page 2, Line 41, Pos (43,54)
+msgid ""
+"20\n"
+"なにせ製作者ですら\n"
+"全体を把握できていない世界です"
+msgstr ""
+"20\n"
+"After all, this is a world not even\n"
+"us devs have fully understood."
+
+#. ID 2, Page 2, Line 44, Pos (43,54)
+msgid ""
+"20\n"
+"プレイ動画でサクっとエンディングを\n"
+"見るのもいいですが……"
+msgstr ""
+"20\n"
+"One could easily watch a playthrough\n"
+"to see the ending, but..."
+
+#. ID 2, Page 2, Line 47, Pos (43,54)
+msgid ""
+"20\n"
+"私共といたしましては実際にプレイして\n"
+"ここまで来てもらえたほうが\n"
+"\"製作者みょうり\"につきます"
+msgstr ""
+"20\n"
+"We would be more pleased if you\n"
+"actually played through to this point.\n"
+"You could call it a dev's pride."
+
+#. ID 2, Page 2, Line 51, Pos (43,54)
+msgid ""
+"20\n"
+"プレイヤーのあなたに感謝いたします"
+msgstr ""
+"20\n"
+"Thank you so much for playing."
+
+#. ID 2, Page 2, Line 63, Pos (43,54)
+msgid ""
+"20\n"
+"あなたは「うろつき」に対してどんな\n"
+"イメージを持っていますか？"
+msgstr ""
+"20\n"
+"What kind of impression do you have\n"
+"of \"Urotsuki\"?"
+
+#. ID 2, Page 2, Line 68, Pos (43,54)
+msgid ""
+"20\n"
+"プロジェクト立ち上げ期に\n"
+"ロダにアップされたラフ画をお見せします"
+msgstr ""
+"20\n"
+"I'd like to show you some drafts\n"
+"from around when the project started."
+
+#. ID 2, Page 2, Line 71, Pos (43,54)
+msgid ""
+"20\n"
+"見終わったら\n"
+"何かキーを押してください"
+msgstr ""
+"20\n"
+"Press any key when you're done."
+
+#. ID 2, Page 2, Line 79, Pos (43,54)
+msgid ""
+"20\n"
+"どうでしたか？"
+msgstr ""
+"20\n"
+"How was it?"
+
+#. ID 2, Page 2, Line 81, Pos (43,54)
+msgid ""
+"20\n"
+"製作者は不明。あるのは2枚のラフ画だけ"
+msgstr ""
+"20\n"
+"The artist is unknown.\n"
+"All we have are these two drafts."
+
+#. ID 2, Page 2, Line 84, Pos (43,54)
+# TODO
+msgid ""
+"20\n"
+"左下のラフ画からドットが起こされ\n"
+"皆に描かれて　ここまで成長しました"
+msgstr ""
+"20\n"
+"From the bottom-left draft, pixel arts\n"
+"were made, everyone drew it,\n"
+"and it has grown to this point."
+
+#. ID 2, Page 2, Line 87, Pos (43,54)
+msgid ""
+"20\n"
+"左下から初期ドットを起こしたのは\n"
+"私ですが\n"
+"なぜ左下を選んだかというと……"
+msgstr ""
+"20\n"
+"The first pixel arts was made by\n"
+"me, but as for why I chose it..."
+
+#. ID 2, Page 2, Line 91, Pos (43,54)
+msgid ""
+"20\n"
+"・窓付きさんと正反対のイメージ\n"
+"・ドットのしやすさ\n"
+"いたって単純な理由で気軽に選びました"
+msgstr ""
+"- It was the polar opposite of Madotsuki\n"
+"- It was easy to make pixel art\n"
+"I chose it for these simple reasons."
+
+#. ID 2, Page 2, Line 95, Pos (43,54)
+msgid ""
+"20\n"
+"当初は参加者数人の\n"
+"極小規模なものでした"
+msgstr ""
+"20\n"
+"At the time, it was a very small project\n"
+"with only a few participants."
+
+#. ID 2, Page 2, Line 98, Pos (43,54)
+msgid ""
+"20\n"
+"まさかここまで大きくなるとは\n"
+"夢にも思いませんでした"
+msgstr ""
+"20\n"
+"I never dreamed it would grow\n"
+"to be this big."
+
+#. ID 2, Page 2, Line 101, Pos (43,54)
+msgid ""
+"20\n"
+"ニッチな市場の製作者、絵師、\n"
+"プレイヤーの方々に愛され、\n"
+"育ても親の一人として目を細める思いです"
+msgstr ""
+"20\n"
+"It's well-loved by a niche community\n"
+"of developers, artists, and players.\n"
+"I'm proud to have been a part of it."
+
+#. ID 2, Page 2, Line 105, Pos (43,54)
+msgid ""
+"20\n"
+"名前の由来とかは\n"
+"別に言わなくてもいいですよね？"
+msgstr ""
+"20\n"
+"I don't have to tell you\n"
+"where the name comes from, right?"
+
+#. ID 2, Page 2, Line 121, Pos (43,54)
+msgid ""
+"20\n"
+"私は開発初期からいた\n"
+"立ち上げメンバーの一人でしたが"
+msgstr ""
+"20\n"
+"I've been one of the founding members\n"
+"from the beginning, but..."
+
+#. ID 2, Page 2, Line 124, Pos (43,54)
+msgid ""
+"20\n"
+"気が付けば、当時のメンバーは\n"
+"私一人になっていました"
+msgstr ""
+"20\n"
+"Before I knew it, I became the only one\n"
+"working on the game."
+
+#. ID 2, Page 2, Line 127, Pos (43,54)
+msgid ""
+"20\n"
+"かなりの長いスパンで続けていたので\n"
+"仕方ないですが　寂しいところもあります"
+msgstr ""
+"20\n"
+"They have been working on it for a long time,\n"
+"so it can't be helped, but it's a bit lonely."
+
+#. ID 2, Page 2, Line 130, Pos (43,54)
+msgid ""
+"20\n"
+"しかし、\n"
+"開発が進むにつれ新たな参加者が増え\n"
+"より一層 製作が楽しくなりました"
+msgstr ""
+"20\n"
+"However, as development progressed,\n"
+"new contributors joined, making\n"
+"the development even more enjoyable."
+
+#. ID 2, Page 2, Line 134, Pos (43,54)
+msgid ""
+"20\n"
+"絵、音、ツクラー、各分野の素晴らしい\n"
+"製作者さんとの出会いがありました"
+msgstr ""
+"20\n"
+"I met many wonderful artists,\n"
+"composers, and developers in RPG Maker\n"
+"and various fields."
+
+#. ID 2, Page 2, Line 137, Pos (43,54)
+msgid ""
+"20\n"
+"皆さんからインスピレーションを貰い\n"
+"製作者の端くれとして\n"
+"良い刺激になりました"
+msgstr ""
+"20\n"
+"I was inspired by everyone\n"
+"and it was good motivation for me\n"
+"as a developer."
+
+#. ID 2, Page 2, Line 141, Pos (43,54)
+msgid ""
+"20\n"
+"協力してくださったクリエイターの皆さん\n"
+"どうもありがとうございました！"
+msgstr ""
+"20\n"
+"Thank you so much to all\n"
+"our creators and contributors!"
+
+#. ID 2, Page 2, Line 144, Pos (43,54)
+msgid ""
+"20\n"
+"エンディングは実装されましたが\n"
+"他の製作者さんがいる限り\n"
+"まだまだ製作は続くことでしょう"
+msgstr ""
+"20\n"
+"The ending has been implemented,\n"
+"but as long as there are other creators,\n"
+"development will continue."
+
+#. ID 2, Page 2, Line 148, Pos (43,54)
+msgid ""
+"20\n"
+"ツクール2000が動くその日まで\n"
+"ゆめ２っきを\n"
+"つむいでいってくれたらなと思います"
+msgstr ""
+"20\n"
+"I hope that you will continue to\n"
+"enjoy \"Yume 2kki\"\n"
+"until the day RPG Maker 2000 stops working."
+
+#. ID 2, Page 2, Line 152, Pos (43,54)
+msgid ""
+"20\n"
+"それでは\n"
+"またどこかでお会いしましょう！"
+msgstr ""
+"20\n"
+"Until then,\n"
+"let's meet again somewhere!"
+
+#. ID 2, Page 2, Line 155, Pos (43,54)
+msgid ""
+"20\n"
+"あなたに良い夢を！"
+msgstr ""
+"20\n"
+"Sweet dreams!"
+
+#. ID 3, Page 1, Line 1, Pos (25,77)
+msgid ""
+"かめりあ\n"
+"俺の作った他の曲聞くかい？"
+msgstr ""
+"Camellia\n"
+"Wanna listen to some of my other music?"
+
+#. ID 3, Page 1, Line 3, Pos (25,77)
+#. Choice (3 options)
+msgid ""
+"はい\n"
+"このままでいい\n"
+"デフォルトの曲で"
+msgstr ""
+"Yes\n"
+"Don't change\n"
+"Set to default"
+
+#. ID 3, Page 1, Line 60, Pos (25,77)
+#. Contains choice at line 2 (2 options)
+msgid "デフォの曲だけど　OK?"
+msgstr "Is the default music okay?"
+
+#. ID 3, Page 1, Line 61, Pos (25,77)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 73, Pos (25,77)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 5, Pos (41,62)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 2, Line 12, Pos (52,64)
+#. Choice (2 options)
+#. ID 80, Page 2, Line 11, Pos (38,65)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 2, Line 28, Pos (38,65)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Yes\n"
+"No"
+
+#. ID 3, Page 1, Line 72, Pos (25,77)
+#. Contains choice at line 2 (2 options)
+msgid "これでOK?"
+msgstr "Is this OK?"
+
+#. ID 3, Page 1, Line 88, Pos (25,77)
+msgid ""
+"かめりあ\n"
+"OK ゆっくりしていってね"
+msgstr ""
+"Camellia\n"
+"OK, kick back and relax."
+
+#. ID 6, Page 1, Line 1, Pos (45,78)
+msgid ""
+"\n"
+"制作者の部屋にようこそ。"
+msgstr ""
+"\n"
+"Welcome to Developer's Room."
+
+#. ID 6, Page 1, Line 3, Pos (45,78)
+msgid ""
+"\n"
+"北側がツクラーさんのお部屋、\n"
+"西側が音職人さんのお部屋、\n"
+"東側が絵師さんのお部屋となっています。"
+msgstr ""
+"\n"
+"The northern room is for the creators,\n"
+"the western room is for the audio contributors,\n"
+"and the eastern room is for the illustrators."
+
+#. ID 6, Page 1, Line 7, Pos (45,78)
+msgid ""
+"\n"
+"あぁ、出口は南側にありますよ。\n"
+"ふふふ。それでは、ごゆっくり。"
+msgstr ""
+"\n"
+"Oh, the exit is to the south.\n"
+"Fufufu. Well then, take your time."
+
+#. ID 6, Page 1, Line 11, Pos (45,78)
+msgid ""
+"\n"
+"・・・あら。\n"
+"なるほど、デバッグモードの方ですね。"
+msgstr ""
+"\n"
+"...Oh.\n"
+"I see, you're in debug mode."
+
+#. ID 6, Page 1, Line 14, Pos (45,78)
+msgid ""
+"\n"
+"この部屋はすべてのエンディングを見た\n"
+"プレイヤーさんだけが入れるお部屋です。\n"
+"いわゆる、おまけ、ですね。"
+msgstr ""
+"\n"
+"This room is for players\n"
+"who have seen all the endings.\n"
+"It's a kind of bonus room."
+
+#. ID 6, Page 1, Line 18, Pos (45,78)
+msgid ""
+"\n"
+"なお、ここでのエフェクト使用は\n"
+"デバッグモードの方のみ、となっております。\n"
+"お気をつけくださいませ。"
+msgstr ""
+"\n"
+"Please note that only those in debug mode\n"
+"can use effects in this room.\n"
+"Please be mindful of this."
+
+#. ID 8, Page 1, Line 163, Pos (48,30)
+#. ID 8, Page 1, Line 310, Pos (48,30)
+msgid ""
+"なんだか恥ずかしいので、\n"
+"パソコンだけ置いておきます。\\!\n"
+"\n"
+"遊んでくれてありがとう。良い夢を。"
+msgstr ""
+"I'm a bit embarrassed, so I'll just\n"
+"leave the computer here.\\!\n"
+"\n"
+"Thank you for playing. Sweet dreams."
+
+#. ID 8, Page 1, Line 274, Pos (48,30)
+#. Condition (Actor Name = 移転しました)
+msgctxt "actors.name"
+msgid "移転しました"
+msgstr "Moved"
+
+#. ID 8, Page 1, Line 307, Pos (48,30)
+#. Choice (4 options)
+msgid ""
+"\\>ご挨拶\n"
+"\\>自己紹介\n"
+"\\>なんかその他\n"
+"\\>×閉じる"
+msgstr ""
+"\\>Foreword\n"
+"\\>Introduction\n"
+"\\>Anything else\n"
+"\\>×Close"
+
+#. ID 8, Page 1, Line 315, Pos (48,30)
+msgid "……それにしても……。"
+msgstr "...Regardless..."
+
+#. ID 8, Page 1, Line 316, Pos (48,30)
+msgid ""
+"ここまで来た、ってことは、\n"
+"ゆめ２っきを遊びつくしたんだよね。\\!\n"
+"月並みな表現だけど、すごいなぁ。"
+msgstr ""
+"By making it here,\n"
+"you must've left no stone unturned. \\!\n"
+"Sorry for the cliché, but that's amazing."
+
+#. ID 8, Page 1, Line 319, Pos (48,30)
+msgid ""
+"ゆめ２っきは色々な人が作っているから、\n"
+"制作はどこまでも続くかもしれないし、\n"
+"どこかで区切りがついて終わるかもしれない。"
+msgstr ""
+"Since many people are working on Yume 2kki,\n"
+"development could continue indefinitely,\n"
+"or it could come to an end at some point."
+
+#. ID 8, Page 1, Line 322, Pos (48,30)
+msgid ""
+"アップデートで更に何か増えるかもしれないし、\n"
+"何か減るかもしれないし、何か変わるかもしれないし、\n"
+"……何も変わらずそのままかもしれない。"
+msgstr ""
+"Updates could add more content,\n"
+"remove content, or change something.\n"
+"...Or nothing might change at all."
+
+#. ID 8, Page 1, Line 325, Pos (48,30)
+msgid ""
+"でも、まぁ。それはそれとして。\n"
+"遊びたい時に遊んでくれたら。\n"
+"そして楽しいって思ってくれたら、私は嬉しいです。"
+msgstr ""
+"But, well. That aside,\n"
+"I'd be happy if you played when you\n"
+"wanted to and enjoyed it."
+
+#. ID 8, Page 1, Line 328, Pos (48,30)
+msgid "……。…………。はい、恥ずかしい話はここまで！"
+msgstr "... ... Okay, that's enough embarrassing talk!"
+
+#. ID 8, Page 1, Line 331, Pos (48,30)
+msgid ""
+"2009年から参加している者で、\n"
+"制作まとめWiki管理人(2代目)です。"
+msgstr ""
+"I've been involved since 2009\n"
+"and I'm the (2nd) admin of the developer wiki."
+
+#. ID 8, Page 1, Line 338, Pos (48,30)
+msgid "この画面とか、"
+msgstr "Like this screen,"
+
+#. ID 8, Page 1, Line 344, Pos (48,30)
+msgid "\\>この画面とか、\\<このミニゲームとか、"
+msgstr "\\>Like this screen, \\<this minigame,"
+
+#. ID 8, Page 1, Line 347, Pos (48,30)
+msgid ""
+"\\>この画面とか、このミニゲームとか、\\<\n"
+"こんな感じの世界とか、"
+msgstr ""
+"\\>Like this screen, this minigame,\\<\n"
+"this kind of world,"
+
+#. ID 8, Page 1, Line 351, Pos (48,30)
+msgid ""
+"\\>この画面とか、このミニゲームとか、\\<\n"
+"\\>こんな感じの世界とか、\\<これとか、"
+msgstr ""
+"\\>Like this screen, this minigame,\\<\n"
+"\\>this kind of world, \\<this,"
+
+#. ID 8, Page 1, Line 354, Pos (48,30)
+msgid ""
+"\\>この画面とか、このミニゲームとか、\\<\n"
+"\\>こんな感じの世界とか、これとか、\\<\n"
+"……を作りました。"
+msgstr ""
+"\\>Like this screen, this minigame,\\<\n"
+"\\>this kind of world, this,\\<\n"
+"...I made them all."
+
+#. ID 8, Page 1, Line 360, Pos (48,30)
+msgid ""
+"なんだなんだ。何を書けって言うんだ。\\!\n"
+"わざわざTime Trial Modeでここまで来て。\\!\n"
+"\n"
+"……おめでとう！"
+msgstr ""
+"What do you want me to write?\\!\n"
+"You came all the way here for Time Trial Mode.\\!\n"
+"\n"
+"...Congratulations!"
+
+#. ID 8, Page 1, Line 364, Pos (48,30)
+msgid ""
+"ここまで遊びこむプレイヤーなら\n"
+"もう知っていそうな感じもするけど、\n"
+"一応こういう台本だから言うね。"
+msgstr ""
+"Players who have played until now\n"
+"probably already know this,\n"
+"but I'll say it anyway."
+
+#. ID 8, Page 1, Line 369, Pos (48,30)
+msgid ""
+"なんだなんだ。何を書けって言うんだ。\\!\n"
+"こっそり仕込んだ裏技か。\\!\n"
+"\n"
+"うむ。"
+msgstr ""
+"What do you want me to write?\\!\n"
+"Is this a secret cheat code?\\!\n"
+"\n"
+"Hmm."
+
+#. ID 8, Page 1, Line 375, Pos (48,30)
+msgid ""
+"タイトル画面で\"はじめて\"を選ぶ時に、\n"
+"\\C[2]シフトキー\\C[0]と\\C[2]Lキー\\C[0]を押したままにすると\n"
+"セーブ不可で左上にプレイ時間が出るモードになるよ。\n"
+"……タイムアタックモードみたいなものです。"
+msgstr ""
+"When selecting \"New Game\" on the title screen,\n"
+"hold down \\C[2]Shift\\C[0] and \\C[2]Left\\C[0] to enter a mode where\n"
+"you can't save and the play time is shown in the\n"
+"top left corner. ...It's like a time attack mode."
+
+#. ID 8, Page 1, Line 379, Pos (48,30)
+msgid ""
+"\\C[2]シフトキー\\C[0]を押したままセーブすると、\n"
+"セーブ画面に表示されている\n"
+"「うろつき」のところを別の名前にできるよ。\n"
+"……2周目や検証用にどうぞ。"
+msgstr ""
+"Holding down the \\C[2]Shift\\C[0] key while saving\n"
+"allows you to change the name of \"Urotsuki\"\n"
+"on the save screen. ...Feel free to use it for a\n"
+"2nd playthrough or testing."
+
+#. ID 8, Page 1, Line 383, Pos (48,30)
+msgid ""
+"PC画面のBGMにある\\C[2]NoMusic\\C[0]は\n"
+"実は ゆめ2っき\\\\pc_back.mp3 を再生するよ。\n"
+".wav か .midi でもオッケーです。\n"
+"……No Music No Lifeなひとへ。"
+msgstr ""
+"The \\C[2]NoMusic\\C[0] option in the PC screen BGM\n"
+"actually plays \"ゆめ2っき\\\\pc_back.mp3\".\n"
+".wav or .midi files are also okay.\n"
+"...For all you music aficionados."
+
+#. ID 8, Page 1, Line 442, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"ソデのとこは重ね着なのかそういうデザインなのか、\n"
+"エリのある服なのか、スカート丈はどれくらいなのか、\n"
+"……うーん、なんともシュレーディンガー。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Are the sleeves layered or is it just the design?\n"
+"Is it a shirt with a collar or a skirt?\n"
+"...Hmm, it's like Schrödinger's cat."
+
+#. ID 8, Page 1, Line 450, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"腕、手首、そして指。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Arms, wrists, and fingers."
+
+#. ID 8, Page 1, Line 456, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"地球と月は、地球30コ分くらい離れてるお隣さん。\n"
+"でも空想や夢の中でなら、コンビニ感覚で星間旅行。\n"
+"個人的には冬の寒い日にするのがオススメです。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"The Earth and the Moon are neighbors\n"
+"about 30 Earths apart.\n"
+"But in one's imagination or dreams,\n"
+"it's like a cosmic trip to the konbini.\n"
+"I personally recommend doing it on a cold winter day."
+
+#. ID 8, Page 1, Line 464, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"夢の中にもう一人の自分。\n"
+"さてはて一体どっちが\"ホンモノ\"？\n"
+"それとも二人そろって実は……？"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Another self in a dream.\n"
+"I wonder which one is the \"real\" one?\n"
+"Or maybe they're both actually...?"
+
+#. ID 8, Page 1, Line 472, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"自分がもう一人いたらなぁ、なんて思うけど、\n"
+"きっとそれはもう一人の自分も思ってる。\n"
+"……本当に？"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"I wish I had another me, but\n"
+"I'm sure that other me is thinking the same thing.\n"
+"...Really?"
+
+#. ID 8, Page 1, Line 480, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"ビルの窓に映りこむ手。道路を埋め尽くす足。\n"
+"優しさを投げ捨て、大きな身体を破壊の力に変えて、\n"
+"そこにあるのは一体なんなのだろう。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"A hand reflected in a building's window.\n"
+"Feet as large as roads.\n"
+"Casting aside compassion, turning a large body\n"
+"into a force of destruction,\n"
+"what could be there?"
+
+#. ID 8, Page 1, Line 488, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"深い深い海の底。\n"
+"その手は優しく包み込んでくれるのでしょうか……。\n"
+"はたしてそれで良いんでしょうか……。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Beneath the deep, deep sea.\n"
+"Will that hand gently embrace you...?\n"
+"And will you let fate take its course...?"
+
+#. ID 8, Page 1, Line 496, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"透明人間になったことで\n"
+"\"関わらなくていい\"と思うか、\n"
+"\"関われない\"と思うか。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"By becoming invisible,\n"
+"do you think \"It's not my business\"\n"
+"or \"I shouldn't get involved\"?"
+
+#. ID 8, Page 1, Line 504, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"両手で抱えるような鉛筆に、見上げるほどの箪笥。\n"
+"小さな身体で辿り着く先は身近な別世界。\n"
+"その先にあるのは……"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"A pencil held with both hands, a chest of drawers\n"
+"as tall as you are. A small body reaching a nearby\n"
+"alternate world. What lies beyond...?"
+
+#. ID 8, Page 1, Line 512, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"スクール水着やタオル以外で、となると、\n"
+"どういうのを着るんだろう。\n"
+"…………ぺんぎん……？"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Besides a school swimsuit or a towel,\n"
+"what would you wear?\n"
+"...A penguin...?"
+
+#. ID 8, Page 1, Line 520, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"狼耳が付いてるなら人耳は無くなるのかな、とか\n"
+"度数どれくらいなのかな、ダテなのかな、とか\n"
+"ついてるのかな、とか。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"If you have wolf ears, do you lose human ears?\n"
+"Are they prescriptions? Are they fake?\n"
+"Do they come off?"
+
+#. ID 8, Page 1, Line 528, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"今は何を育ててるのかな。\n"
+"元気かな。……元気だといいなぁ。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"I wonder what you're growing now.\n"
+"I hope you're doing well. ...I really do."
+
+#. ID 8, Page 1, Line 535, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"一回くらい、生で見てみたいなぁ、イルカ……。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"I'd like to see a dolphin in person at least once..."
+
+#. ID 8, Page 1, Line 541, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"このへんまで来ると、こう、いつの間にか\n"
+"二度と帰れないくらい遠くへ行っちゃいそうで\n"
+"ちょっと怖いよね。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"By this point, you're so far away\n"
+"that you might not be able to return.\n"
+"It's a little scary, isn't it?"
+
+#. ID 8, Page 1, Line 549, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"遠近感とか視野角とか、\n"
+"彼の眼から見る景色はどうなってるんだろう。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Perspective, field of view...\n"
+"What does the scenery look like through his eyes?"
+
+#. ID 8, Page 1, Line 556, Pos (48,30)
+# TODO
+msgid ""
+"\\>【壁紙の話】\n"
+"足元のあの演出。最初に見た時ワクワクしたよね。\n"
+"カチッと音と噛み合う演出、いいよね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 563, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"思春期のことを指して、\n"
+"とある心理学者は「マージナル・マン」……\n"
+"大人と子供の境界にいる人、と呼んだそうですよ。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"A certain psychologist referred to adolescents\n"
+"as \"marginal men\"...\n"
+"Someone who straddles the line between adult and child."
+
+#. ID 8, Page 1, Line 571, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"「お天道様が見てる」「お月様が見てる」とくれば\n"
+"遠い未来には「土星さんが見てる」なんてことに……？"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"If you say \"The sun is watching\" or \"The moon is watching\",\n"
+"will it be \"Saturn is watching\" in the distant future...?"
+
+#. ID 8, Page 1, Line 578, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"太陽光という画材で描けば\n"
+"赤色から青紫色のグラデーションに。\n"
+"虹も、夕焼けも、朝焼けも。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"If you draw with sunlight as your medium,\n"
+"you get a gradient from red to blue-violet.\n"
+"Rainbows, sunsets, sunrises too."
+
+#. ID 8, Page 1, Line 586, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"海が７割、陸が３割。\n"
+"そう聞くと、呑まれたら帰れなさそうで怖い。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"70% ocean, 30% land.\n"
+"It's scary to think that you might not be able to return\n"
+
+#. ID 8, Page 1, Line 593, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"蜘蛛の糸。\n"
+"……編むととても丈夫だと聞きました。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Spider silk.\n"
+"...I heard it's very strong when woven."
+
+#. ID 8, Page 1, Line 600, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"お腹に目があるなら、\n"
+"服も目のとこだけ開いてるのかな"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"If there are eyes on the stomach,\n"
+"does the clothing have an opening for them?"
+
+#. ID 8, Page 1, Line 607, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"あなたの好きなエフェクトはどれ？\n"
+"……と、聞いたはいいけど、\n"
+"ここで答えてもらっても私には聞こえないや……。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Which effect do you like?\n"
+"...so I asked, but even if you answer here,\n"
+"I won't be able to hear you..."
+
+#. ID 8, Page 1, Line 615, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"？？？？"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"????"
+
+#. ID 8, Page 1, Line 621, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"最近は一番上の段のボタンが届かない時用に\n"
+"下の方にも代わりのボタンがある自販機あるよね。\n"
+"……届くけど、なんか押したくなる。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Lately, there are vending machines\n"
+"with alternative buttons at the bottom\n"
+"for when you can't reach the top row.\n"
+"...You're tall enough, but you still want to press them."
+
+#. ID 8, Page 1, Line 629, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"実はこの世界はですね、\n"
+"あなたが遊んでいるその裏側で\n"
+"私がこっそり見ていまして(うそうそ)"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"In this world, you see,\n"
+"while you're playing,\n"
+"I'm secretly watching from behind the scenes. (lie)"
+
+#. ID 8, Page 1, Line 637, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"君はもう見た……？"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Have you seen it...?"
+
+#. ID 8, Page 1, Line 643, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"実はこの世界はですね、あなたが遊んでる時に\n"
+"アルバイトのおばちゃんが\n"
+"あの閉じ込めてくる人を操作してまして(うそです)"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"In this world, you see,\n"
+"while you're playing,\n"
+"I'm secretly controlling the person who traps you. (lie)"
+
+#. ID 8, Page 1, Line 651, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"自動販売機って飲食物のイメージがあるけど、\n"
+"乾電池やタオルを売っているのもあるんですよ。\n"
+"……見たことはないけど。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"Vending machines are associated with food and drink,\n"
+"but some sell batteries and towels.\n"
+"...I've never seen one, though."
+
+#. ID 8, Page 1, Line 659, Pos (48,30)
+msgid ""
+"\\>【壁紙の話】\n"
+"私がうろつきと出会った頃、バイクは\"案のひとつ\"で\n"
+"移動速度が速くなるエフェクトはありませんでした。\n"
+"……なんて、思い出話されても困りますね。"
+msgstr ""
+"\\> \"About the Wallpaper\"\n"
+"When I first met Urotsuki, I thought of the bike as\n"
+"just an \"idea\", and there wasn't an effect to increase\n"
+"movement speed.\n"
+"...Sorry for rambling about past memories."
+
+#. ID 9, Page 1, Line 1, Pos (50,60)
+msgid ""
+"oudn\n"
+"設置してみました"
+msgstr ""
+"oudn\n"
+"I've tried signing up."
+
+#. ID 9, Page 1, Line 3, Pos (50,60)
+msgid ""
+"oudn\n"
+"アイコンはまた変わるかもしれないですね"
+msgstr ""
+"oudn\n"
+"The icon might change again."
+
+#. ID 9, Page 1, Line 5, Pos (50,60)
+msgid ""
+"oudn\n"
+"EDを迎える条件も考えないといけないですね…"
+msgstr ""
+"oudn\n"
+"I need to think about the conditions for reaching the ending..."
+
+#. ID 9, Page 1, Line 7, Pos (50,60)
+msgid ""
+"oudn\n"
+"ところであなたは…"
+msgstr ""
+"oudn\n"
+"By the way..."
+
+#. ID 9, Page 1, Line 9, Pos (50,60)
+#. Choice (4 options)
+msgid ""
+"ホタルが好き？\n"
+"ニジイロクワガタが好き？\n"
+"バッタが好き？\n"
+"どれも嫌い？"
+msgstr ""
+"Do you like fireflies?\n"
+"Do you like rainbow stag beetles?\n"
+"Do you like grasshoppers?\n"
+"Do you dislike all of them?"
+
+#. ID 9, Page 2, Line 1, Pos (50,60)
+#. Choice (2 options)
+msgid ""
+"もとに戻る？\n"
+"このまま？"
+msgstr ""
+"Go back to normal?\n"
+"Stay like this?"
+
+#. ID 18, Page 1, Line 1, Pos (41,62)
+msgid ""
+"Bokun\n"
+"あ、どうもBokunです。"
+msgstr ""
+"Bokun\n"
+"Oh hi, I'm Bokun."
+
+#. ID 18, Page 1, Line 3, Pos (41,62)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Bokun\n"
+"私の話、聞きますか？"
+msgstr ""
+"Bokun\n"
+"Would you like to hear my story?"
+
+#. ID 18, Page 1, Line 7, Pos (41,62)
+msgid "では……。"
+msgstr "Well then..."
+
+#. ID 18, Page 1, Line 8, Pos (41,62)
+msgid ""
+"Bokun\n"
+"ゆめ２っきの存在を知ったとき、大した\n"
+"技術が無いにも関わらず「参加したい！」\n"
+"という衝動が抑えられず……"
+msgstr ""
+"Bokun\n"
+"When I learned about Yume 2kki, despite\n"
+"not having much skill, I couldn't resist the urge\n"
+"to contribute..."
+
+#. ID 18, Page 1, Line 12, Pos (41,62)
+msgid ""
+"Bokun\n"
+"気がつけば参加していました。"
+msgstr ""
+"Bokun\n"
+"Before I knew it, I was already contributing."
+
+#. ID 18, Page 1, Line 14, Pos (41,62)
+msgid ""
+"Bokun\n"
+"参加当時のあのマップ達……\n"
+"微妙に面影を残しているものもありますが\n"
+"今思えばどうも酷いものでしたね。"
+msgstr ""
+"Bokun\n"
+"The maps from when I first joined...\n"
+"Some of them still leave a faint resemblance,\n"
+"but looking back, they were pretty bad."
+
+#. ID 18, Page 1, Line 18, Pos (41,62)
+msgid ""
+"Bokun\n"
+"今残っているマップがいいもの、とも言え\n"
+"ませんが、当時のはとにかく酷いものだと\n"
+"思います。ああ、恥ずかしい。"
+msgstr ""
+"Bokun\n"
+"I can't say the maps that remain now are good,\n"
+"but I think the ones from back then were just\n"
+"terrible. Oh, how embarrassing."
+
+#. ID 18, Page 1, Line 22, Pos (41,62)
+msgid ""
+"Bokun\n"
+"ですが、色々と更新などを繰り返していく\n"
+"うちにだんだんと慣れていき、少しずつ\n"
+"改善していけたと思います。"
+msgstr ""
+"Bokun\n"
+"However, as I continued to update and improve,\n"
+"I gradually got used to it and made progress."
+
+#. ID 18, Page 1, Line 26, Pos (41,62)
+msgid ""
+"Bokun\n"
+"当時を知る方は、本当にごめんなさい。\n"
+"でも個人的にはとても楽しかったです。\n"
+"これからも多分頑張ります。"
+msgstr ""
+"Bokun\n"
+"I'm really sorry to those who knew me back then.\n"
+"But personally, I had a lot of fun.\n"
+"I'll probably keep doing my best."
+
+#. ID 18, Page 1, Line 30, Pos (41,62)
+msgid ""
+"Bokun\n"
+"はい、私話し始めると止まらないんですが\n"
+"終わり方も分からないんです。てなわけで\n"
+"グダグダにさようなら。"
+msgstr ""
+"Bokun\n"
+"I tend to ramble on once I start talking,\n"
+"and I don't know how to wrap things up.\n"
+"So, peace out, I guess."
+
+#. ID 18, Page 1, Line 42, Pos (41,62)
+msgid ""
+"Bokun\n"
+"そうかそうか。"
+msgstr ""
+"Bokun\n"
+"I see, I see."
+
+#. ID 24, Page 1, Line 17, Pos (45,90)
+#. Contains choice at line 2 (3 options)
+msgid "\\>デバッグルームに戻りますか？"
+msgstr "\\>Return to the Debug Room?"
+
+#. ID 24, Page 1, Line 18, Pos (45,90)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ\n"
+"\\>現実自室に戻る"
+msgstr ""
+"\\>Yes\n"
+"\\>No\n"
+"\\>Return to the real world"
+
+#. ID 26, Page 1, Line 7, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「よく標識に話しかける気になったな」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"You've got some nerve talking to a sign.\""
+
+#. ID 26, Page 1, Line 9, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「俺は製作者陣の一人で、\n"
+"　新参者でひねくれで暇人の\n"
+"　◆9G87ZOr0ksだよ\\!　元気か？」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"I'm one of the creators,\n"
+"◆9G87ZOr0ks, a newcomer, a contrarian,\n"
+"and a slacker.\\! Wassup?\""
+
+#. ID 26, Page 1, Line 15, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「俺はまだエンディングは\n"
+"　まだ作ってないんだが……」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"I haven't made the ending yet...\""
+
+#. ID 26, Page 1, Line 18, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「……それよりうろつき、\\!\n"
+"　頼むから心を落ち着けて聞いてくれ」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"...Urotsuki,\\!\n"
+"Please, calm down and listen to me.\""
+
+#. ID 26, Page 1, Line 22, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「お前はきっと記憶をなくして\n"
+"　何も覚えてはいないだろうが…」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"You've probably lost your memory\n"
+"and don't remember anything...\""
+
+#. ID 26, Page 1, Line 25, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「…お前は実は……\n"
+"　\\c[4]異星人だったんだ\\c[0]！」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"...You're actually... \\c[4]an alien!\\c[0]\""
+
+#. ID 26, Page 1, Line 28, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「故郷をティッシュッシュ星人に滅ぼされ\n"
+"　長い長い放浪の果てに\n"
+"　辿り着いた第二の故郷…\\c[4]地球\\c[0]！」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"Your home planet was destroyed by the\n"
+"Tissunians, and after a long time wandering,\n"
+"you arrived at your second home... \\c[4]Earth!\\c[0]\""
+
+#. ID 26, Page 1, Line 32, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「追ってきたティッシュッシュ星人に\n"
+"　対してお前は必死に抗戦するも…」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"You fought desperately against the\n"
+"Tissunians who were chasing you, but...\""
+
+#. ID 26, Page 1, Line 35, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「親愛なる友人や新しい家族、その全てを\n"
+"　ティッシュッシュ星人に奪われお前は、\n"
+"　記憶をなくすまで絶望の底に落された」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"The Tissunians took everything from you, dear\n"
+"friends and new family, and you were plunged into\n"
+"the depths of despair until you lost your memory\""
+
+#. ID 26, Page 1, Line 39, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「薄々勘付いてはいただろうが、\n"
+"　この夢の世界の全ては、君の今までの\n"
+"　思い出の欠片だったんだ…」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"You probably had a hunch, but everything in\n"
+"this dream world was a fragment of your memories...\""
+
+#. ID 26, Page 1, Line 45, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「さあ！全てを取り戻した今、\n"
+"　絶望を怒りに変え、反撃に出るんだ！\n"
+"　行け、うろつ\\^」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"Now that you've regained everything,\n"
+"turn despair into anger and fight back!\n"
+"Go, Urot\\^\""
+
+#. ID 26, Page 2, Line 3, Pos (39,30)
+msgid ""
+"\\>◆9G8(ry\\<\n"
+"「スレのみんなには申し訳ないと思っている\n"
+"　だけど俺はやりたいことを成し遂げた\n"
+"　もう悔いはない、ありがとうゆめ2っき！」"
+msgstr ""
+"\\>◆9G8(ry\\<\n"
+"\"I feel bad for everyone on the thread,\n"
+"but I've accomplished what I wanted to do.\n"
+"I have no regrets. Thank you, Yume 2kki!\""
+
+#. ID 41, Page 1, Line 1, Pos (71,67)
+msgid ""
+"蒼椈森Haya\n"
+"壁紙「涙の曲がり」「水底に沈み或」作成\n"
+"めっせーじヲ預カッテオリマス"
+msgstr ""
+"蒼椈森Haya\n"
+"Artist of \"水底に沈み或\" and \"水底に沈み或\"\n"
+"Has Left A Message For You"
+
+#. ID 41, Page 1, Line 4, Pos (71,67)
+msgid ""
+"蒼椈森Haya\n"
+"不思議な所に謎絵を落とす樹林、蒼椈森Hayaです。\n"
+"２っきの多彩な夢にぐるぐるされながらも\n"
+"はまっております"
+msgstr ""
+"蒼椈森Haya\n"
+"I'm 蒼椈森Haya the mysterious forest that leaves\n"
+"mystery pictures in strange places.\n"
+"I'm hooked on the variegated dreams of 2kki."
+
+#. ID 41, Page 1, Line 8, Pos (71,67)
+msgid ""
+"蒼椈森Haya\n"
+"録音停止。\n"
+"当あいこんハ自動デ消滅シマス"
+msgstr ""
+"蒼椈森Haya\n"
+"Recording Stopped\n"
+"This Icon Will Disappear Automatically"
+
+#. ID 55, Page 1, Line 3, Pos (63,90)
+msgid ""
+"aruva\n"
+"私の壁紙ですが、あの体の大きくなった\n"
+"うろちゃん見てすぐ浮かびました。"
+msgstr ""
+"aruva\n"
+"My wallpaper was inspired by Uro-chan\n"
+"when she grew larger."
+
+#. ID 55, Page 1, Line 6, Pos (63,90)
+msgid ""
+"aruva\n"
+"大きいっていいですよね。\n"
+"いろいろ。ね。"
+msgstr ""
+"aruva\n"
+"Being big is nice.\n"
+"In many ways."
+
+#. ID 61, Page 1, Line 1, Pos (60,71)
+msgid ""
+"ヤミキノ\n"
+"こんにちは、壁紙企画参加者のヤミキノです。\n"
+"クリアおめでとうございます。"
+msgstr ""
+"Dark Kino\n"
+"Hello, I'm Dark Kino, a wallpaper contributor.\n"
+"Congratulations on clearing the game."
+
+#. ID 61, Page 1, Line 4, Pos (60,71)
+msgid ""
+"ヤミキノ\n"
+"私は本家「ゆめ２っき」が好きだったので、\n"
+"素材提供という形で製作に参加しています。"
+msgstr ""
+"Dark Kino\n"
+"I liked the original Yume 2kki,\n"
+"so I'm contributing assets to this project."
+
+#. ID 61, Page 1, Line 7, Pos (60,71)
+msgid ""
+"ヤミキノ\n"
+"無限に広がる夢の世界、\n"
+"あなたも参加してみませんか？"
+msgstr ""
+"Dark Kino\n"
+"Wouldn't you like to join us\n"
+"in the infinitely expanding world of dreams?"
+
+#. ID 61, Page 1, Line 10, Pos (60,71)
+msgid ""
+"ヤミキノ\n"
+"皆で一つの世界を作り上げていくのは、\n"
+"参加の仕方がどうであれ、楽しいものですよ"
+msgstr ""
+"Dark Kino\n"
+"Creating a world together with everyone\n"
+"is fun, no matter how you participate."
+
+#. ID 67, Page 1, Line 4, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>よぉ"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>Yo"
+
+#. ID 67, Page 1, Line 6, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>SR(サウンドルーム)、\n"
+"\\>楽しんでもらえてるかね"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>Are you enjoying the SR (Sound Room)?"
+
+#. ID 67, Page 1, Line 9, Pos (32,68)
+#. Choice (3 options)
+msgid ""
+"\\>見てるぜ\n"
+"\\>見てないぜ\n"
+"\\>それよりあんた誰なんだぜ？"
+msgstr ""
+""
+"\\>I've seen it\n"
+"\\>I haven't seen it\n"
+"\\>Who the hell are you?"
+
+#. ID 67, Page 1, Line 12, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>そうか　ありがとな"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>I see. Thanks."
+
+#. ID 67, Page 1, Line 14, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>今は2つのSRを行き来できるから\n"
+"\\>見比べてみてもいいかもな"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>You can switch between the two SRs now,\n"
+"\\>so you might want to compare them."
+
+#. ID 67, Page 1, Line 17, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>そうそう"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>Yes, yes."
+
+#. ID 67, Page 1, Line 19, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>SRの曲を開放しまくると\n"
+"\\>何かあるかもな\n"
+"\\>どっちのSRでもいいぞ"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>If you unlock a lot of SR songs,\n"
+"\\>something might happen.\n"
+"\\>It works with either SR."
+
+#. ID 67, Page 1, Line 26, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>SRED見たんだな　おめっとさん"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>You saw the SRED. Congrats."
+
+#. ID 67, Page 1, Line 28, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>何度もSREDに突入するのは「仕様」だ\n"
+"\\>部屋に入ったら\n"
+"\\>よく目を凝らしてみるといい"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>Entering the SRED multiple times is a \"feature.\"\n"
+"\\>When you enter a room,\n"
+"\\>it'd do well to look closely."
+
+#. ID 67, Page 1, Line 34, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>裏SREDまで見たか\n"
+"\\>ここまでやりこんでくれるのは嬉しいね"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>Did you see the secret SRED?\n"
+"\\>I'm glad you've played this far."
+
+#. ID 67, Page 1, Line 37, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>これからもSRとゆめ2っきを\n"
+"\\>楽しんでってくれよな"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>Enjoy the SR and Yume 2kki from now on."
+
+#. ID 67, Page 1, Line 46, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>そうか"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>I see."
+
+#. ID 67, Page 1, Line 48, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>SRは夢の一部じゃあないが\n"
+"\\>夢探索の結果が反映される場所だ\n"
+"\\>気が向いたら見てくれると嬉しいね"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>The SR isn't a part of the dream, but it's a\n"
+"\\>place where the dreams you see are reflected.\n"
+"\\>I'd be glad if you visited it when you feel like it."
+
+#. ID 67, Page 1, Line 54, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>　　↑\n"
+"\\>　これな"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>　　↑\n"
+"\\>　This guy"
+
+#. ID 67, Page 1, Line 57, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>俺は音素材ツクった訳じゃないんだが\n"
+"\\>SR分室の編集者ってことで\n"
+"\\>ここに居座ってる"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>I didn't create any sound assets,\n"
+"\\>but I'm just hanging around here\n"
+"\\>as editor of the SR."
+
+#. ID 67, Page 1, Line 61, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>ツクラー部屋$w　もう手狭だし\n"
+"\\>まぁアリかなって"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>The developer's room$w is getting cramped,\n"
+"\\>so I guess it's fine."
+
+#. ID 67, Page 1, Line 64, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>マップは分室以外ツクってない\n"
+"\\>既存マップの改変はしてるが"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>I haven't created any maps other than\n"
+"\\>the SR. I've only modified existing maps."
+
+#. ID 67, Page 1, Line 67, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>そんなとこだな"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>That's about it."
+
+#. ID 67, Page 2, Line 3, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>俺の製作/改変箇所に飛ばすぜ\n"
+"\\>製作箇所把握用に使ってくれ"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>I'll take you to the areas I created/modified.\n"
+"\\>Use it to keep track of them."
+
+#. ID 67, Page 2, Line 6, Pos (32,68)
+#. Choice (4 options)
+msgid ""
+"\\>SR分室(620)\n"
+"\\>改変アルバム(453)\n"
+"\\>SRED開始(456-457)\n"
+"\\>おいたEV開始(456)"
+msgstr ""
+"\\>SR (620)\n"
+"\\>Modified Album (453)\n"
+"\\>SRED Start (456-457)\n"
+"\\>Placed Event Start (456)"
+
+#. ID 67, Page 2, Line 12, Pos (32,68)
+msgid "\\>♪デバッグオプション"
+msgstr "\\>♪Debug Options"
+
+#. ID 67, Page 2, Line 14, Pos (32,68)
+#. Choice (4 options)
+msgid ""
+"\\>疑似100％化\n"
+"\\>旧SR直行\n"
+"\\>裏背景化\n"
+"\\>曲リスト色調変化"
+msgstr ""
+"\\>Pseudo 100% Completion\n"
+"\\>Old SR\n"
+"\\>Set as BGM\n"
+"\\>Change Song List Colors"
+
+#. ID 67, Page 2, Line 28, Pos (32,68)
+msgid ""
+"\\>♪デバッグ確認\n"
+"\\>\n"
+"\\>＞処理状況を画面に表示しますか？\n"
+"\\>　（快適な視聴はできません）"
+msgstr ""
+"\\>♪Debug Confirmation\n"
+"\\>\n"
+"\\> Display processing status on the screen?\n"
+"\\>  (Not recommended for comfortable viewing)"
+
+#. ID 67, Page 2, Line 32, Pos (32,68)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"\\>♪デバッグ確認\n"
+"\\>\n"
+"\\>＞処理状況を画面に表示しますか？"
+msgstr ""
+"\\>♪Debug Confirmation\n"
+"\\>\n"
+"\\> Display processing status on the screen?"
+
+#. ID 67, Page 2, Line 35, Pos (32,68)
+#. Choice (1 options, embedded in a message)
+msgid "\\>はい = Z / いいえ = X"
+msgstr "\\>Yes = Z / No = X"
+
+#. ID 67, Page 2, Line 37, Pos (32,68)
+msgid ""
+"\\>♪デバッグ確認\n"
+"\\>\n"
+"\\>＞表示有無の再変更は\n"
+"\\>　F9⇒ｽｲｯﾁ11のON/OFFで行えます"
+msgstr ""
+"\\>♪Debug Confirmation\n"
+"\\>\n"
+"\\> You can change the display status\n"
+"\\> with F9⇒Switch 11 ON/OFF."
+
+#. ID 67, Page 2, Line 44, Pos (32,68)
+msgid ""
+"\\>♪デバッグ確認\n"
+"\\>\n"
+"\\>＞SR分室を出るまで\n"
+"\\>　一時的にデバッグ処理から退避します"
+msgstr ""
+"\\>♪Debug Confirmation\n"
+"\\>\n"
+"\\> Until you leave the SR,\n"
+"\\> you will temporarily exit debug mode."
+
+#. ID 67, Page 2, Line 57, Pos (32,68)
+#. ChangeHeroName (Actor 1)
+#. ID 96, Page 1, Line 2, Pos (9,12)
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Urotsuki"
+
+#. ID 67, Page 2, Line 63, Pos (32,68)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【SR分室へ入室する】"
+msgstr "\"Enter the SR\""
+
+#. ID 67, Page 2, Line 151, Pos (32,68)
+# TODO
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>いつまでも自由気ままに\n"
+"\\>tkり続けていってほしい"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>I hope you'll continue\n"
+"\\>to enjoy yourself freely."
+
+#. ID 67, Page 2, Line 154, Pos (32,68)
+msgid ""
+"\\>【12部屋目の310】\n"
+"\\>俺は　そう思うよ"
+msgstr ""
+"\\>\"12th Room, 310\"\n"
+"\\>I really hope so."
+
+#. ID 69, Page 1, Line 3, Pos (69,76)
+msgid ""
+"懺悔\n"
+"誰のとも同じじゃない貴方様だけの\n"
+"考察はまとまりましたか？"
+msgstr ""
+"Zange\n"
+"Have you compiled your own thoughts\n"
+"that are different from anyone else's?"
+
+#. ID 70, Page 1, Line 1, Pos (38,31)
+msgid ""
+"Zoo\n"
+"………。\n"
+"えーと、しゃべってもいいでしょうか？"
+msgstr ""
+"Zoo\n"
+"......\n"
+"Uhh, is it okay if I talk?"
+
+#. ID 70, Page 1, Line 4, Pos (38,31)
+#. Choice (3 options)
+msgid ""
+"いいんじゃない？\n"
+"しゃべるな\n"
+"目障りだ"
+msgstr ""
+"Sure, go ahead.\n"
+"Don't talk.\n"
+"You're annoying."
+
+#. ID 70, Page 1, Line 6, Pos (38,31)
+msgid ""
+"Zoo\n"
+"(*・ω・*)わぁい\n"
+"ではお言葉に甘えて・・・"
+msgstr ""
+"Zoo\n"
+"(*・ω・*) Yay\n"
+"Then, if you don't mind..."
+
+#. ID 70, Page 1, Line 11, Pos (38,31)
+msgid ""
+"Zoo\n"
+"こんにちは、新参ツクラーのZooと申します\n"
+"僭越ながら設置させていただきました。"
+msgstr ""
+"Zoo\n"
+"Hello, I'm Zoo, a newcomer creator.\n"
+"It's a pleasure to be part of the project."
+
+#. ID 70, Page 1, Line 14, Pos (38,31)
+msgid ""
+"Zoo\n"
+"初め、友人に２っきの壁紙募集の話を聞き、\n"
+"見てみたときは募集期間終了直後でした…\n"
+"しかしスレを見るとツクラー募集の文字！"
+msgstr ""
+"Zoo\n"
+"At first, I heard about the wallpaper contest\n"
+"from a friend, and when I checked it out,\n"
+"it was right after the deadline...\n"
+"But I saw the words \"Creators Wanted\" on the thread!"
+
+#. ID 70, Page 1, Line 18, Pos (38,31)
+msgid ""
+"Zoo\n"
+"それでツクールに手を出した訳です。\n"
+"初めはドットばっか打ってましたけど。"
+msgstr ""
+"Zoo\n"
+"So I started using RPG Maker.\n"
+"At first, I was just making pixel art."
+
+#. ID 70, Page 1, Line 21, Pos (38,31)
+msgid ""
+"Zoo\n"
+"初めてツクール触るくせに２っき参加なんて\n"
+"無謀なことやちゃった結果が\n"
+"あの酷いMAPだったわけで。"
+msgstr ""
+"Zoo\n"
+"Participating in 2kki was reckless\n"
+"for someone who had just started using RPG Maker,\n"
+"and the result was that terrible map."
+
+#. ID 70, Page 1, Line 25, Pos (38,31)
+msgid ""
+"Zoo\n"
+"まだまだバグとか色々見つかるでしょうね。\n"
+"ご迷惑をおかけします…"
+msgstr ""
+"Zoo\n"
+"There are still plenty of bugs and other issues.\n"
+"I apologize for any inconvenience..."
+
+#. ID 70, Page 1, Line 28, Pos (38,31)
+msgid ""
+"Zoo\n"
+"では最後に\n"
+"プレイヤーの皆様、スタッフの皆様、\n"
+"ここまでのプレイ、お疲れ様です！"
+msgstr ""
+"Zoo\n"
+"Finally,\n"
+"Players and staff,\n"
+"Thank you for playing until now!"
+
+#. ID 70, Page 1, Line 32, Pos (38,31)
+msgid ""
+"Zoo\n"
+"私なんぞの文を最後まで読んでいただき、\n"
+"有難うございました！\n"
+"さらば、また会う日まで！"
+msgstr ""
+"Zoo\n"
+"Thank you for reading my message to the end!\n"
+"Goodbye, until we meet again!"
+
+#. ID 70, Page 1, Line 41, Pos (38,31)
+msgid "(´・ω・`)"
+msgstr ""
+
+#. ID 70, Page 2, Line 1, Pos (38,31)
+msgid ""
+"Zoo\n"
+"巡回ご苦労様です\n"
+"ところで、この部屋でもエフェクト使えたら\n"
+"良いと思うんですが。いかかでしょう？"
+msgstr ""
+"Zoo\n"
+"Thank you for visiting.\n"
+"By the way, I think it would be nice\n"
+"if you could use effects in this room.\n"
+"What do you think?"
+
+#. ID 71, Page 1, Line 31, Pos (71,82)
+msgid ""
+"戀雅　鵺\n"
+"初期で一番好きな場所を描かせていただきました\n"
+"ドッペルイベント大好きです！"
+msgstr ""
+"Renga Nue\n"
+"I drew my favorite place from the beginning.\n"
+"I love the Doppel event!"
+
+#. ID 71, Page 1, Line 34, Pos (71,82)
+msgid ""
+"戀雅　鵺\n"
+"うろつきちゃん\n"
+"500人位に分身してくれないかなあ…"
+msgstr ""
+"Renga Nue\n"
+"Urotsuki-chan,\n"
+"I wish you could split into about 500 people..."
+
+#. ID 72, Page 1, Line 2, Pos (53,65)
+msgid ""
+"トレンディ鯖味噌\n"
+"　…　…　…　…　…。\n"
+"　…　…　…　…　…　…。"
+msgstr ""
+"Trendy Sabamiso\n"
+"......\n"
+"......"
+
+#. ID 73, Page 1, Line 1, Pos (49,53)
+msgid ""
+"うをのぞき\n"
+"はじめまして。新参製作者のうをのぞきです。"
+msgstr ""
+"Uwo Nozoki\n"
+"Nice to meet you. I'm Uwo Nozoki, a newcomer creator."
+
+#. ID 73, Page 1, Line 3, Pos (49,53)
+msgid ""
+"暇でしたらちょいと話でも聞きませんか？\n"
+"もちろん今はいいのなら待っておきますよ。"
+msgstr ""
+"If you're free, would you like to chat for a bit?\n"
+"Of course, I'll wait if you're busy."
+
+#. ID 73, Page 1, Line 5, Pos (49,53)
+#. Choice (3 options)
+msgid ""
+"聞いてみる\n"
+"今忙しい\n"
+"寝ながら話すとはどうゆうことだ"
+msgstr ""
+"Sure, I'll listen\n"
+"I'm busy right now\n"
+"What do you mean by talking while sleeping?"
+
+#. ID 73, Page 1, Line 7, Pos (49,53)
+msgid ""
+"じゃあ、長くなりますが・・・\n"
+"私はゆめ２っきどこで知ったかは忘れましたが\n"
+"2年ほど前に存在を知ってどんなものかと思って\n"
+"プレイし始めました"
+msgstr ""
+"Well, it's a long story...\n"
+"I don't remember where I heard about Yume 2kki,\n"
+"but I found out about it two years ago and started\n"
+"playing to see what it was like."
+
+#. ID 73, Page 1, Line 11, Pos (49,53)
+msgid ""
+"最初はパソコン音痴だったのでダウンロードと\n"
+"ツクールのインストールで四苦八苦し\n"
+"存在を知ってから初めてプレイするまでに\n"
+"一年弱はかかってしまいました。"
+msgstr ""
+"At first, I was computer illiterate,\n"
+"so I struggled with downloading and installing RPG\n"
+"Maker. It took me almost a year to start playing\n"
+"from the time I found out about it."
+
+#. ID 73, Page 1, Line 15, Pos (49,53)
+msgid ""
+"そんな感じなので制作に参加するのは夢のまた夢\n"
+"アイディア案を少し書くぐらいでしたが\n"
+"やっぱり自分の思う世界やイベントは簡単なものでも\n"
+"自分でしか作れないと考えて思い切って参加。"
+msgstr ""
+"Because of that, participating in the project was a\n"
+"pipe dream. I only wrote a few ideas, but I thought\n"
+"that the world and events I wanted could only be\n"
+"created by me, so I decided to contribute."
+
+#. ID 73, Page 1, Line 19, Pos (49,53)
+msgid ""
+"ドット絵をかくのもツクールをいじるのも\n"
+"まったくの初めてで試行錯誤を繰り返しましたが\n"
+"何とか制作できるまでこぎつけ今に至ります。"
+msgstr ""
+"Drawing pixel art and messing around with RPG Maker\n"
+"were completely new to me, so I struggled through\n"
+"trial and error. But I managed to create something\n"
+"and here I am now."
+
+#. ID 73, Page 1, Line 22, Pos (49,53)
+msgid ""
+"今でも技術はつたないですが\n"
+"グラフィックがちゃんとそれらしくかけたり\n"
+"何より自分の望んでた世界やイベントが実現できると\n"
+"うれしさもひとしおです。"
+msgstr ""
+"My skills are still lacking,\n"
+"but I can draw graphics that look decent\n"
+"and, more than anything, I'm overjoyed that I can\n"
+"realize the world and events I wanted."
+
+#. ID 73, Page 1, Line 26, Pos (49,53)
+msgid ""
+"・・・とこんなに長くなりましたが\n"
+"制作に参加したいけど技術がないと考えてる方が\n"
+"こんなやつもできるんだと思って参加してくれたら\n"
+"幸いです。"
+msgstr ""
+"...I've rambled on for so long, but if you're\n"
+"thinking of contributing in the project even though\n"
+"you lack the skills, I'd be happy if you joined,\n"
+"thinking that even someone like me can do it."
+
+#. ID 73, Page 1, Line 30, Pos (49,53)
+msgid ""
+"夢は見る人と眠る数だけあるようなものなので\n"
+"これからも不思議な夢を楽しみましょう。\n"
+"\n"
+"それでは・・・\\|よい夢を！"
+msgstr ""
+"People have as many dreams as times they sleep,\n"
+"so let's continue to enjoy strange dreams.\n"
+"\n"
+"Well then...\\|Sweet dreams!"
+
+#. ID 73, Page 1, Line 37, Pos (49,53)
+msgid "ではまたあとで。"
+msgstr "See you later."
+
+#. ID 73, Page 1, Line 40, Pos (49,53)
+msgid ""
+"すみませんね、寝転がるのが好きなので。\n"
+"別に見下してるとかふざけてるわけではありませんよ"
+msgstr ""
+"Sorry, I like to lie down.\n"
+"I'm not looking down on you or joking around."
+
+#. ID 73, Page 2, Line 1, Pos (49,53)
+msgid ""
+"なんでか知らないけど昔、プールや噴水など\n"
+"水がある夢をよく見てました。\n"
+"なのでそんな世界を作っては見たけど\n"
+"記憶頼りなのでかなり苦労しました"
+msgstr ""
+"I don't know why, but I used to have a lot of dreams\n"
+"with water, like pools and fountains.\n"
+"So I tried to create a world like that,\n"
+"but I had a hard time because I had to rely on my memory."
+
+#. ID 73, Page 3, Line 1, Pos (49,53)
+msgid ""
+"うをのぞきの個人メモ\n"
+"夢の世界を作るにあたってゆめにっき本家の\n"
+"世界に似すぎないようにする"
+msgstr ""
+"Uwo Nozoki's Personal Notes\n"
+"When creating a dream world, I try not to make it\n"
+"too similar to the original Yume Nikki."
+
+#. ID 73, Page 3, Line 4, Pos (49,53)
+msgid ""
+"もちろんゆめにっき派生の世界も。\n"
+"雰囲気を重視したいので目新しくないというのは\n"
+"結構重要だと思う。"
+msgstr ""
+"Of course, that includes the worlds of Yume Nikki fangames.\n"
+"I think it's quite important to not be too novel\n"
+"because I want to focus on the atmosphere."
+
+#. ID 73, Page 3, Line 7, Pos (49,53)
+msgid ""
+"考察とかは基本的に気にしないようにする。\n"
+"ゆめ２っきはどんな感じのものなのかは\n"
+"自分で考えて作る。"
+msgstr ""
+"I try not to worry about theorizing.\n"
+"I think about what kind of game Yume 2kki is\n"
+"and create it myself."
+
+#. ID 73, Page 3, Line 10, Pos (49,53)
+msgid ""
+"そのほうが製作者が複数いるだけにメリハリの\n"
+"あるものができると思う。"
+msgstr ""
+"I think that way, there can be some ebb and flow\n"
+"between many different creators."
+
+#. ID 73, Page 3, Line 12, Pos (49,53)
+msgid ""
+"・・・・なんか愚痴みたいになってしまったけれど\n"
+"作品を作るにあたってしっかり考えていこうと\n"
+"思っています。"
+msgstr ""
+"...I ended up sounding like I was complaining,\n"
+"but I'm thinking about creating my work carefully."
+
+#. ID 74, Page 1, Line 6, Pos (47,30)
+msgid ""
+"kuraud\n"
+"……？"
+msgstr ""
+"kuraud\n"
+"...?"
+
+#. ID 74, Page 3, Line 6, Pos (47,30)
+msgid ""
+"kuraud\n"
+"壁紙の設定ヨシ。あとは……。"
+msgstr ""
+"kuraud\n"
+"Wallpaper's set. Now..."
+
+#. ID 74, Page 3, Line 12, Pos (47,30)
+msgid ""
+"kuraud\n"
+"うわっ！？\\!\n"
+"あぁびっくりした、デバッグ中の人か……。"
+msgstr ""
+"kuraud\n"
+"Whoa!?\\!\n"
+"Oh, that freaked me out. You're debugging, huh..."
+
+#. ID 74, Page 3, Line 29, Pos (47,30)
+msgid ""
+"kuraud\n"
+"靴、見えてますよー。"
+msgstr ""
+"kuraud\n"
+"I can see your shoes~."
+
+#. ID 74, Page 3, Line 33, Pos (47,30)
+msgid ""
+"kuraud\n"
+"えーっと、デバッグお疲れ様です。"
+msgstr ""
+"kuraud\n"
+"Umm, good work on the debugging."
+
+#. ID 74, Page 3, Line 35, Pos (47,30)
+msgid ""
+"kuraud\n"
+"私はプレイヤーさんがここに来る前に、\n"
+"どこかに行こうかな、と思ってます。\n"
+"……面と向かって話すの、苦手で。"
+msgstr ""
+"kuraud\n"
+"I was thinking of going somewhere\n"
+"before the player came here.\n"
+"...I'm not good at talking face-to-face."
+
+#. ID 76, Page 1, Line 1, Pos (51,29)
+msgid ""
+"どうもdedpです。\n"
+"喋ってもいいですか？"
+msgstr ""
+"Hello, I'm dedp.\n"
+"Is it okay if I talk?"
+
+#. ID 76, Page 1, Line 3, Pos (51,29)
+#. Choice (4 options)
+msgid ""
+"OKですよ\n"
+"どこつくってるひと？\n"
+"なんで落書きなの？\n"
+"ダメですよ"
+msgstr ""
+"Sure\n"
+"What are you making?\n"
+"Why are you scribbling?\n"
+"Nope"
+
+#. ID 76, Page 1, Line 5, Pos (51,29)
+msgid ""
+"まずゆめ２っきプレイして頂いて\n"
+"まことにありがとうございます。\n"
+"ここまで来るということは相当\n"
+"やりこまれたということで"
+msgstr ""
+"First of all, thank you very much\n"
+"for playing Yume 2kki.\n"
+"Coming this far means you've\n"
+"played quite a lot."
+
+#. ID 76, Page 1, Line 9, Pos (51,29)
+msgid "作成者の一人として感無量です。"
+msgstr "As one of the creators, I'm overwhelmed."
+
+#. ID 76, Page 1, Line 10, Pos (51,29)
+msgid ""
+"しかし無限拡張していく（はずの）「ゆめ２っき」。\n"
+"これで終わりではありません。バージョンアップ後も\n"
+"またプレイできますよ！"
+msgstr ""
+"However, Yume 2kki is (supposed to be)\n"
+"an infinitely expanding game.\n"
+"This isn't the end. You can play it again\n"
+"after the next update!"
+
+#. ID 76, Page 1, Line 13, Pos (51,29)
+msgid ""
+"私がどのように「ゆめ２っき」に携わっているかと\n"
+"申し上げますと\n"
+"ツクラーとして製作活動/利用されずに終わる素材などを\n"
+"アップしたりしております。"
+msgstr ""
+"I'll tell you how I'm involved in Yume 2kki.\n"
+"I upload assets that I've created\n"
+"as a creator, which would otherwise go unused."
+
+#. ID 76, Page 1, Line 17, Pos (51,29)
+msgid ""
+"また私自身は作成を楽しむより\n"
+"企画自体を楽しんでる人です。\n"
+"詳細に関してはhttp://d.hatena.ne.jp/dedp/\n"
+"手前味噌のブログですがご参照ください。"
+msgstr ""
+"I'm someone who enjoys the project itself\n"
+"more than creating.\n"
+"For more details, please visit my blog\n"
+"http://d.hatena.ne.jp/dedp/."
+
+#. ID 76, Page 1, Line 21, Pos (51,29)
+msgid ""
+"ゆめ２っきの企画自体の考察などを書いております。\n"
+"お時間あればどうぞ。"
+msgstr ""
+"I write about the project itself and theory-crafting.\n"
+"If you have time, please take a look."
+
+#. ID 76, Page 1, Line 23, Pos (51,29)
+msgid ""
+"実はこの企画今年で5年目になって\n"
+"私は携わって3年位になるのかな？"
+msgstr ""
+"Actually, this project is in its 5th year,\n"
+"and I've been involved for about 3 years."
+
+#. ID 76, Page 1, Line 25, Pos (51,29)
+msgid ""
+"私が参加するきっかけになったのは\n"
+"ニコニコ動画で「ゆめにっき」の動画をみてから\n"
+"あれこれ調べるようになってこの企画を発見しました。"
+msgstr ""
+"The reason I joined was\n"
+"because I watched a video of Yume Nikki on NicoNicoDouga\n"
+"and started researching it, which led me to this project."
+
+#. ID 76, Page 1, Line 28, Pos (51,29)
+msgid ""
+"私が見たときは2ヶ月ほど走者が居ない状態でした。\n"
+"（今から思うとなんでもない数字ですが）\n"
+"それまでは週2位のハイスペースで\n"
+"バージョンアップされていたのに"
+msgstr ""
+"When I saw it, there were nobody updating for about 2 months.\n"
+"(Now I realize it's not a big deal.)\n"
+"Until then, it was updated about twice a week\n"
+"at a rapid pace."
+
+#. ID 76, Page 1, Line 32, Pos (51,29)
+msgid ""
+"プッツリ走者が途切れている状態でした。\n"
+"よく練られた企画なのにもったいないということで\n"
+"ツクールの知識0　ドット絵不可　という状況で"
+msgstr ""
+"The devs had stopped updating.\n"
+"It was a well-thought-out project, and I thought it was a waste.\n"
+"So I joined, even though I had no knowledge of RPG Maker\n"
+"nor could I draw pixel art."
+
+#. ID 76, Page 1, Line 35, Pos (51,29)
+msgid ""
+"走者希望を出して走り始めました。\n"
+"2回目でエフェクトを実装するという\n"
+"狂ったこともしてましたｗｗ\n"
+"でいつも通りバグを多発させていました。"
+msgstr ""
+"I started updating with the hope of continuing the project.\n"
+"I even did something crazy like implementing effects on my second try.\n"
+"And as usual, I caused a lot of bugs."
+
+#. ID 76, Page 1, Line 39, Pos (51,29)
+msgid ""
+"まぁそんなこんなで今に至っております。\n"
+"相変わらずドット絵は書けませんが、\n"
+"素材を利用させて頂いたり、画像編集で\n"
+"なんとかMAPを作成しております。"
+msgstr ""
+"And that's how I got to where I am now.\n"
+"I still can't draw pixel art, but I use assets\n"
+"and edit images to create maps."
+
+#. ID 76, Page 1, Line 47, Pos (51,29)
+#. ID 76, Page 1, Line 49, Pos (51,29)
+#. ID 76, Page 1, Line 51, Pos (51,29)
+msgid "こことか"
+msgstr "Like here"
+
+#. ID 76, Page 1, Line 53, Pos (51,29)
+msgid "こことか　"
+msgstr "And here"
+
+#. ID 76, Page 1, Line 55, Pos (51,29)
+msgid ""
+"とか　つくってる人だよ。\n"
+"他にもあるけど知りたい人は攻略wikiみてね。"
+msgstr ""
+"I'm the one who made these.\n"
+"There are others, but if you want to know more, check the wiki."
+
+#. ID 76, Page 1, Line 60, Pos (51,29)
+msgid ""
+"落書きである最大の理由はドット絵が\n"
+"書けないからです。これが一番大きな理由ですね。\n"
+"作成MAPの大概のものは頂き物だったり"
+msgstr ""
+"The biggest reason I scribble is because\n"
+"I can't draw pixel art. That's the main reason.\n"
+"Most of the maps I create are made from materials I received,"
+
+#. ID 76, Page 1, Line 63, Pos (51,29)
+msgid "素材だったり少し加工したものだったり。"
+msgstr "assets or slightly edited images."
+
+#. ID 76, Page 1, Line 64, Pos (51,29)
+msgid ""
+"かといって私はツクールも苦手です。\n"
+"イベントは大概他の製作者さんのコピペで編集です。"
+msgstr ""
+"But I'm not good at RPG Maker either.\n"
+"Most of the events are copied and edited from other creators."
+
+#. ID 76, Page 1, Line 66, Pos (51,29)
+msgid ""
+"それでも作成に参加はできるので、ちょっとやってみよ\n"
+"うかなという方は是非とも参加することをお勧めいたし\n"
+"ます。\n"
+"プレイより作成側の方が面白かったりしますよ！"
+msgstr ""
+"Even so, you can participate in the project,\n"
+"so I highly recommend that those who are interested\n"
+"give it a try.\n"
+"Creating is more fun than playing!"
+
+#. ID 76, Page 1, Line 70, Pos (51,29)
+msgid ""
+"私的にいえる事はゆめ２っきに関しては\n"
+"プレイするより参加する方が面白いと思うので\n"
+"文化祭的なノリで参加してみてくださいな。"
+msgstr ""
+"Personally, I think that participating in Yume 2kki\n"
+"is more fun than playing it,\n"
+"so think of it as a cultural festival and give it a try."
+
+#. ID 76, Page 1, Line 75, Pos (51,29)
+msgid "えっ・・"
+msgstr "Huh..."
+
+#. ID 77, Page 1, Line 1, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"こんにちは、\\.ゆきひつじと申します。\n"
+"\\.\\.何をお聞きになりますか？"
+msgstr ""
+"\\>  Yukihitsuji\\<\n"
+"Hello, \\.I'm Yukihitsuji.\n"
+"\\.\\.What would you like to ask me?"
+
+#. ID 77, Page 1, Line 5, Pos (52,37)
+#. Choice (4 options)
+msgid ""
+"\\>やっぱりいいや\n"
+"\\>伝えたいことはある？\n"
+"\\>どうして製作に参加したの？\n"
+"\\>質問していいよ"
+msgstr ""
+"\\>Never mind\n"
+"\\>Do you have something to say?\n"
+"\\>Why did you join the project?\n"
+"\\>You can ask me a question"
+
+#. ID 77, Page 1, Line 7, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"そうですか。\n"
+"\\.では、\\.どうぞごゆるりとなさっていってください。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"I see.\n"
+"\\.Well then, \\.please enjoy yourself."
+
+#. ID 77, Page 1, Line 13, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"では、\n"
+"\\.お言葉に甘えて…"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Well then,\n"
+"\\.I'll take up on your offer..."
+
+#. ID 77, Page 1, Line 16, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"私は製作者としては新参ですが、\n"
+"プレイヤーとしてはわりと古参で…\n"
+"\\.\\.…と、\\.そんな話をしたいのではなくて…"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"I'm a newcomer as a creator,\n"
+"but I've been playing for quite a while...\n"
+"\\.\\...No, \\.that's not what I want to talk about..."
+
+#. ID 77, Page 1, Line 20, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"タイトル画面やオープニングでも\n"
+"触れられている通り、ゆめ２っきは\n"
+"製作者を募集しています。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"As mentioned in the title screen and opening,\n"
+"Yume 2kki is recruiting creators."
+
+#. ID 77, Page 1, Line 24, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"私も、プレイするだけでは飽き足らず\n"
+"製作者になってしまった一人です。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"I too got bored of just playing\n"
+"and decided to become a creator."
+
+#. ID 77, Page 1, Line 27, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"初めてスレで走者宣言したときは\n"
+"相当ビビってました。\n"
+"\\|…今じゃやりたい放題やっちゃってますが。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"When I first declared that I was updating\n"
+"on the thread, I was quite nervous.\n"
+"...Now I'm doing whatever I want."
+
+#. ID 77, Page 1, Line 31, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"ゆめ２っきは、共同製作ですが自由度が高く\n"
+"様々なアイデアを実現できます。\n"
+"\\.\\.新人でも快く受け入れてくれますし。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Yume 2kki is a collaborative project with a high\n"
+"degree of freedom, and you can realize your ideas.\n"
+"\\.\\.They welcome newcomers warmly."
+
+#. ID 77, Page 1, Line 35, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"ツクラー、\\.ドッター、\\.絵師、\\.音師、\n"
+"\\.デバッガー、\\.アイデアマン\\.などなど…\n"
+"\\.\\.どんな形でも構いません。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Creators, \\.pixel artists, \\.illustrators, \\.sound designers,\n"
+"\\.testers, \\.theorists, \\.etc...\n"
+"\\.\\.Any form of contribution is fine."
+
+#. ID 77, Page 1, Line 39, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"あなたもぜひ参加してみませんか？\n"
+"\\|…なんだかスカウトマンみたいに\n"
+"なっちゃったなぁ。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Why don't you join us?\n"
+"\\|...I feel like I've become a scout."
+
+#. ID 77, Page 1, Line 43, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"長くなってしまいましたが、\n"
+"\\.\\.最後に一言。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"I've rambled on for so long,\n"
+"\\.\\.One last thing from me."
+
+#. ID 77, Page 1, Line 46, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"これからもバージョンアップしていくと\n"
+"思いますので、気が向いたらまた\n"
+"プレイしてみてください。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"I think we'll continue to update,\n"
+"so please play again if you feel like it."
+
+#. ID 77, Page 1, Line 52, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"スレ自体はかなり昔から見ていました。\n"
+"バージョンアップがある度に嬉々として\n"
+"ダウンロードし、プレイしていました。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"I've been watching the thread for a long time.\n"
+"I was thrilled every time there was an update,\n"
+"and I downloaded and played it."
+
+#. ID 77, Page 1, Line 56, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"ただ、製作に参加したのはスレにして10部屋目。\n"
+"かなり後期になります。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"But I joined the project in the 10th thread,\n"
+"so it was quite late."
+
+#. ID 77, Page 1, Line 59, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"その頃は、ちょうどEDが実装され、\n"
+"ゆめ２っきが完成したと囁かれていました。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"At that time, the ending was just implemented,\n"
+"and it was rumored that Yume 2kki was complete."
+
+#. ID 77, Page 1, Line 62, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"そしてその後まもなく、製作者様方が\n"
+"次々と引退・休養の宣言をされました。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"And shortly after that, the creators announced\n"
+"their retirements or hiatuses one after another."
+
+#. ID 77, Page 1, Line 65, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"その宣言の中に、こんな言葉がありました。\n"
+"\\|\\>「これからはプレイヤーとして楽しませてもらいます」"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Among those announcements was this phrase:\n"
+"\\|\\>\"From now on, I'll enjoy it as a player.\""
+
+#. ID 77, Page 1, Line 68, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"その時に思ったんです。\n"
+"\\|\\>「今まで楽しませてもらった分の恩返しがしたい」\n"
+"\\|そのために、自分も製作者になろう…\\.と。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"That's when I thought,\n"
+"\\|\\>\"I want to repay them for all the fun I've had.\"\n"
+"\\|So I decided to become a creator...\\.and."
+
+#. ID 77, Page 1, Line 72, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"…\\.結局大したことはできませんでしたが、\n"
+"皆様に少しでも楽しんでいただけたなら光栄です。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"...\\.In the end, I didn't do much,\n"
+"but I'm honored if you enjoyed it even a little."
+
+#. ID 77, Page 1, Line 75, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"プレイヤーの皆様にとって、ゆめ２っきが\n"
+"楽しいひとときを提供するものであることを、\n"
+"私は切に願っています。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"I sincerely hope that Yume 2kki\n"
+"provides you with a fun time."
+
+#. ID 77, Page 1, Line 81, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"では、\\.一つだけお聞かせください。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Then, \\.please tell me one thing."
+
+#. ID 77, Page 1, Line 83, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"ゆめ２っきは、\n"
+"あなたにとってどのようなゲームでしたか？"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"What kind of game was Yume 2kki for you?"
+
+#. ID 77, Page 1, Line 86, Pos (52,37)
+#. Choice (4 options)
+msgid ""
+"\\>まだまだ未完成\n"
+"\\>十分面白い\n"
+"\\>トラウマになった\n"
+"\\>ノーコメント"
+msgstr ""
+"\\>Still incomplete\n"
+"\\>Quite interesting\n"
+"\\>Traumatizing\n"
+"\\>No comment"
+
+#. ID 77, Page 1, Line 88, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"私もそう思います。\n"
+"これからも更新され続けるのでしょうが、\n"
+"「完成」はないような気がします。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"I think so too.\n"
+"I think it will continue to be updated,\n"
+"but it feels like there will never be a \"completion.\""
+
+#. ID 77, Page 1, Line 92, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"でも、いつまでも未完のままの方が、\n"
+"夢があっていいのかな？\n"
+"\\|…なんてね。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"But isn't it nice to have a dream\n"
+"that remains incomplete forever?\n"
+"\\|...Just kidding."
+
+#. ID 77, Page 1, Line 98, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"ありがとうございます。\n"
+"そういっていただけると、製作者冥利に尽きます。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Thank you.\n"
+"I'm honored to hear that as a creator."
+
+#. ID 77, Page 1, Line 103, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"あらら…\n"
+"\\|でも、そう言いつつここまでやりこむあなたを、\n"
+"私は尊敬します。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Oh my...\n"
+"\\|But I respect you for playing this far\n"
+"even though you say that."
+
+#. ID 77, Page 1, Line 109, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"急に言われても困っちゃったかしら？"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Did I put you on the spot by saying that suddenly?"
+
+#. ID 77, Page 1, Line 115, Pos (52,37)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"まだ何かお聞きになりますか？"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Is there anything else you'd like to ask?"
+
+#. ID 77, Page 1, Line 117, Pos (52,37)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>もういいや\n"
+"\\>うん"
+msgstr ""
+"\\>Never mind\n"
+"\\>Yes"
+
+#. ID 77, Page 1, Line 125, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"ご拝聴ありがとうございました。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"Thank you for listening."
+
+#. ID 77, Page 3, Line 1, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"\\>ver0.099gより、開発から身を引かせていただきました。\n"
+"\\>私の使用領域は、誰でもご自由に利用可能です。\n"
+"\\>というより、むしろ改変してやってください。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"\\>From ver0.099g, I have retired from development.\n"
+"\\>My worlds are free to use by anyone.\n"
+"\\>In fact, I'd rather you improve upon them."
+
+#. ID 77, Page 3, Line 5, Pos (52,37)
+msgid ""
+"\\>　　　ゆきひつじ\\<\n"
+"\\>これからもゆめ２っきが更新され、\n"
+"\\>夢の世界が紡がれていくことを期待しています。"
+msgstr ""
+"\\>　　　Yukihitsuji\\<\n"
+"\\>I hope that Yume 2kki will continue to be updated\n"
+"\\>and that the world of dreams\n"
+"\\>will continue to be woven."
+
+#. ID 78, Page 1, Line 2, Pos (52,64)
+#. ID 78, Page 2, Line 2, Pos (52,64)
+#. ID 78, Page 2, Line 4, Pos (52,64)
+#. ID 78, Page 2, Line 6, Pos (52,64)
+#. ID 78, Page 2, Line 21, Pos (52,64)
+#. ID 78, Page 2, Line 29, Pos (52,64)
+#. ID 78, Page 3, Line 2, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"・・・・・・・・・・・・・・・・・・・"
+msgstr ""
+"Zenmaigahara Resident\n"
+"........................"
+
+#. ID 78, Page 2, Line 8, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"・・・・・・・・・・・・・・・・・・・\n"
+"・・・・・・・・・・・・・・・・・・・\n"
+"・・・・・・・・・・そんなに話がしたいの？"
+msgstr ""
+"Zenmaigahara Resident\n"
+"........................\n"
+"........................\n"
+"....................Do you want to talk that much?"
+
+#. ID 78, Page 2, Line 14, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"・・・・・・・・・・・・・・・・・・・\n"
+"・・・・どうも、ぜんまいヶ原の住人です。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"........................\n"
+"........Hello, it's Zenmaigahara Resident."
+
+#. ID 78, Page 2, Line 17, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"ゆめ２っきのプレイお疲れ様でした。\n"
+"楽しんでここまで来て頂けたなら、\n"
+"参加者として幸いです。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"Thank you for playing Yume 2kki.\n"
+"If you enjoyed it and made it this far,\n"
+"I'm grateful as a contributor."
+
+#. ID 78, Page 2, Line 23, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"・・・・・・・・・・・・・・・・・・・\n"
+"もっとなにか話します？"
+msgstr ""
+"Zenmaigahara Resident\n"
+"........................\n"
+"Is there anything else you'd like to talk about?"
+
+#. ID 78, Page 2, Line 27, Pos (52,64)
+#. Choice (4 options)
+msgid ""
+"ゆきぐにっき\n"
+"衣装部屋\n"
+"好きな場所\n"
+"もういい"
+msgstr ""
+"Yukiguni Diary\n"
+"Dressing Room\n"
+"Favorite Places\n"
+"Never mind"
+
+#. ID 78, Page 2, Line 31, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"ゆめにっきっぽいゲームの中に、\n"
+"ゆめにっきっぽいゲームがある。\n"
+"そんなネタを見かけて実装しました。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"In a game that looks like Yume Nikki,\n"
+"there's a game that looks like Yume Nikki.\n"
+"I saw that joke and implemented it."
+
+#. ID 78, Page 2, Line 35, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"ミニゲーム用に世界観や要素はぐっと絞って、\n"
+"1マップに収まってしまうコンパクトな状態に\n"
+"してあります。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"For the mini-game, I've condensed the world view\n"
+"and its elements into a compact state that fits\n"
+"in one map."
+
+#. ID 78, Page 2, Line 39, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"・・・・・・・・・・・・・・・・・・・\n"
+"マップサイズ最大でコンパクトもくそもないですね。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"........................\n"
+"The map size is at its maximum, so it's not\n"
+"compact at all."
+
+#. ID 78, Page 2, Line 45, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"うろつき…というかゆめ２っきは、\n"
+"派生作品のの総元締めだと思っていたので\n"
+"こんな部屋を実装してみました。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"Urotsuki...or rather, Yume 2kki, I thought,\n"
+"was the culmination of all the derivative works,\n"
+"so I implemented this room."
+
+#. ID 78, Page 2, Line 49, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"メイド服という「萌え」衣装をここに実装したのは\n"
+"個人的にエフェクトとして存在して欲しくないからです。\n"
+"持ちだせないのもそのためです。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"I implemented the \"moe\" costume of a maid outfit\n"
+"here because I personally didn't want it to exist\n"
+"as an effect. That's why you can't take it out."
+
+#. ID 78, Page 2, Line 53, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"チェーンソーメイドを期待した方はごめんなさい。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"I'm sorry to those who were expecting\n"
+"a chainsaw maid."
+
+#. ID 78, Page 2, Line 58, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"20氏の下水道や釘の世界、倉庫や植物園が好きです。\n"
+"あとn3氏の植物の世界も。植物はいいですね。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"I like 20's sewers, Nail World, Warehouse, and\n"
+"Botanical Garden. And n3's plant world.\n"
+"Plants are nice."
+
+#. ID 78, Page 2, Line 61, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"あとは、すごく昔あったマップですが、\n"
+"耳に痛いBGMと赤いレースの\n"
+"水音のするマップが好きでした。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"And there was a map I liked a long time ago,\n"
+"with a painful BGM and red lace\n"
+"that made a sound like water."
+
+#. ID 78, Page 2, Line 65, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"キャラクターで言うと、釘マップにいるげっぺるさんが\n"
+"とても可愛くて大好きです。なでたい。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"As for characters, I love Geppel-san, who is in\n"
+"the Nail World. So cute. I want to pet him."
+
+#. ID 78, Page 2, Line 71, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"・・・・・・・・・・・・・・・・・・・\n"
+"・・・・・・・・・・・・そう。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"........................\n"
+"........................I see."
+
+#. ID 78, Page 2, Line 80, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"・・・・・・・・・・・・・・・・・・・\n"
+"・・・・・・まあ、喋らない方がいいこともあるよね。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"........................\n"
+"..........Well, sometimes it's better not to talk."
+
+#. ID 78, Page 4, Line 2, Pos (52,64)
+msgid ""
+"ぜんまいヶ原の住人\n"
+"・・・・・・・・・・・・・・・・・・・\n"
+"ショートケーキ好きかい？\n"
+"僕は角砂糖が好き。"
+msgstr ""
+"Zenmaigahara Resident\n"
+"........................\n"
+"Do you like shortcake?\n"
+"I like sugar cubes."
+
+#. ID 79, Page 1, Line 1, Pos (42,41)
+msgid ""
+"\\>スターマン\n"
+"「どうかおこしいただきありがとうございます。\n"
+"スターマンです。\n"
+"\\!どんな用件で話しかけたのですか？」"
+msgstr ""
+"\\>Starman\n"
+"\"Thank you for coming here.\n"
+"I'm Starman.\n"
+"\\!What did you want to talk to me about?\""
+
+#. ID 79, Page 1, Line 5, Pos (42,41)
+#. Choice (4 options)
+msgid ""
+"\\>どうして製作に参加したの？\n"
+"\\>誰だ\n"
+"\\>なぜそこにいる\n"
+"\\>聞きたいことってあるの？"
+msgstr ""
+"\\>Why did you join the project?\n"
+"\\>Who are you?\n"
+"\\>Why are you there?\n"
+"\\>Do you have something you want to ask?"
+
+#. ID 79, Page 1, Line 7, Pos (42,41)
+msgid ""
+"「では、長くなりますが・・・\n"
+"\\!私は元々壁紙提供者の絵師としての参加を希望していま\n"
+"した。\\!いわば素材提供者です。\\!まぁ、実装されてない\n"
+"ですが。一部は酷すぎて消しました。」"
+msgstr ""
+"\"Well, it's a long story...\n"
+"\\!Originally, I wanted to participate as a wallpaper artist.\n"
+"\\!In other words, as an assets provider.\n"
+"\\!Well, they weren't put in the game.\n"
+"\\!Some of them were so bad that I deleted them.\n"
+
+#. ID 79, Page 1, Line 11, Pos (42,41)
+msgid ""
+"「何故ならば、当時の壁紙の画力があまりにも酷すぎる\n"
+"から。見たくもありませんｗｗ\n"
+"\\!でもその後、絵師としての実力を発揮する為、ドット絵\n"
+"も作成することに決めました。」"
+msgstr ""
+"\"Because my wallpaper drawing skills at the time were\n"
+"too terrible. I don't even want to see them lol\n"
+"\\!But later, in order to demonstrate my skills as an artist,\n"
+"I decided to create pixel art.\""
+
+#. ID 79, Page 1, Line 15, Pos (42,41)
+msgid ""
+"「素材を作っている間につくづく思いました・・・\n"
+"\\!私も製作者になって独自の世界観を作ろう・・・と。\n"
+"そんな訳で製作に参加したのです。」"
+msgstr ""
+"\"While I was creating the assets, I thought to myself...\n"
+"\\!I want to become a creator and create my own world...\n"
+"So I decided to join the project.\""
+
+#. ID 79, Page 1, Line 18, Pos (42,41)
+msgid ""
+"「\\c[1]ところが！\\c[0]私の世界はゆめにっきっぽくない、\n"
+"非常に問題だ、とのことで私の評判はとっても悪くなり\n"
+"ました・・・私は自身をなくしました。\n"
+"\\!あのイベントについては本当に後悔しています。」"
+msgstr ""
+"\"\\c[1]However!\\c[0] My world wasn't like Yume Nikki,\n"
+"and it was a big problem. My reputation became very bad...\n"
+"I lost confidence in myself.\n"
+"\\!I really regret that event.\""
+
+#. ID 79, Page 1, Line 22, Pos (42,41)
+msgid ""
+"「そしてこの先は思い出したくありません。スレの住人\n"
+"と血を見るような大反乱をしてしまったのです。当時私\n"
+"は復帰すると言っていましたが、約束の時になっても復\n"
+"帰せず、月日が経っていく上でだんだん自分の忍耐が」"
+msgstr ""
+"\"And I don't want to remember what happened after that.\n"
+"I caused a bloody rebellion with the thread regulars.\n"
+"I said I would return at the time, but when the time came,\n"
+"I didn't return, and as time passed, my patience\""
+
+#. ID 79, Page 1, Line 26, Pos (42,41)
+msgid ""
+"「限界に達し、2017年3月、製作をやめることを決意し\n"
+"たのです。他の製作のことで忙しくなりそうなのともう\n"
+"2っきの製作の場にいてもしょうがない…と思ったので。\n"
+"当時を知る方は本当に申し訳ございませんでした。」"
+msgstr ""
+"\"reached its limit, and in March 2017, I decided to quit\n"
+"the project. I thought it would be useless to be in the\n"
+"Yume 2kki dev community anymore, as I was going to be\n"
+"busy with other projects...I'm really sorry to those who\n"
+"were active around that time.\""
+
+#. ID 79, Page 1, Line 30, Pos (42,41)
+msgid ""
+"私のマップ、素材に関しては著作権放棄したので自由に\n"
+"改変しちゃって構いません。むしろしちゃって下さい。\n"
+"みなさんにご迷惑をかけたことをお詫び申し上げます」"
+msgstr ""
+"\"I've waived the copyright for my maps and assets,\n"
+"so feel free to modify them. In fact, please do.\n"
+"I apologize for causing trouble for everyone.\""
+
+#. ID 79, Page 1, Line 35, Pos (42,41)
+msgid ""
+"「スターマンです。2014年の12月後半、作るスレ13部屋\n"
+"目から活動していました。何よりも最も問題ある製作者\n"
+"です。」"
+msgstr ""
+"\"I'm Starman. I was active from the 13th thread in late\n"
+"December 2014. I'm the most problematic creator of all.\""
+
+#. ID 79, Page 1, Line 38, Pos (42,41)
+msgid ""
+"「当時はツクール知識全くないせいかピクチャー表示に\n"
+"困ったりしたり・・・」\\.\\.\\^"
+msgstr ""
+"\"At the time, I had no knowledge of RPG Maker,\n"
+"so I had trouble displaying pictures...\""
+
+#. ID 79, Page 1, Line 40, Pos (42,41)
+# TODO
+msgid "「用を済ませる動作はあまり再現出来なくて・・・」\\.\\.\\^"
+msgstr "\"I couldn't reproduce the actions needed to complete the game...\""
+
+#. ID 79, Page 1, Line 41, Pos (42,41)
+msgid "「中では史上最悪な反撃イベントも作ったり・・・」\\.\\.\\^"
+msgstr "\"I also created the worst backlash event in history...\""
+
+#. ID 79, Page 1, Line 42, Pos (42,41)
+msgid "「その後スレの住人と反乱を起こしたり・・・」\\.\\.\\^"
+msgstr "\"After that, I caused a rebellion with the thread regulars...\""
+
+#. ID 79, Page 1, Line 43, Pos (42,41)
+msgid ""
+"「ベルトコンベアー動きもめんどくさくて一部しか動か\n"
+"さなかった結果、おかしなことになったりしたりと、」\\.\\.\\^"
+msgstr ""
+"\"The conveyor belt movement was a pain, so I only made\n"
+"part of it move, which resulted in strange things happening...\""
+
+#. ID 79, Page 1, Line 45, Pos (42,41)
+msgid ""
+"「本当に迷惑な製作者でした。スレの住人には申し訳な\n"
+"いと思っています。当時の私は2っき制作に熱を込めて\n"
+"いたので。もう二度とあのようなことはしません」"
+msgstr ""
+"\"I was a really annoying creator. I'm sorry to the thread\n"
+"regulars. I was passionate about making Yume 2kki at the time.\n"
+"I won't do that again.\""
+
+#. ID 79, Page 1, Line 50, Pos (42,41)
+#. Contains choice at line 2 (2 options)
+msgid "「えっ・・・ひょっとして・・・ここにいちゃダメ？」"
+msgstr "\"Eh...should I...not be here?\""
+
+#. ID 79, Page 1, Line 51, Pos (42,41)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>あったりめーだ！\n"
+"\\>いや、そんなことないよ"
+msgstr ""
+"\\>No way!\n"
+"\\>No it's fine"
+
+#. ID 79, Page 1, Line 59, Pos (42,41)
+msgid "「ありがとう！製作以外でもよろしくね！」"
+msgstr "\"Thank you! Let's get along outside of development too!\""
+
+#. ID 79, Page 1, Line 64, Pos (42,41)
+msgid ""
+"「いいわよ。じゃあ・・・\n"
+"私のマップ、イベントはどう思う？」"
+msgstr ""
+"\"Sure. So...\n"
+"What do you think of my maps and events?\""
+
+#. ID 79, Page 1, Line 66, Pos (42,41)
+#. Choice (4 options)
+msgid ""
+"\\>GOOD\n"
+"\\>NORMAL\n"
+"\\>BAD\n"
+"\\>どこ作ってんの？"
+msgstr ""
+"\\>GOOD\n"
+"\\>NORMAL\n"
+"\\>BAD\n"
+"\\>Where did you make them?"
+
+#. ID 79, Page 1, Line 70, Pos (42,41)
+msgid "「わーい、ありがとう！嬉しいな♪」"
+msgstr "\"Yay, thank you! I'm happy♪\""
+
+#. ID 79, Page 1, Line 74, Pos (42,41)
+msgid "「そうね。やっぱ他の製作者のマップはいいわね」"
+msgstr "\"Fair. Other creators' maps are better after all.\""
+
+#. ID 79, Page 1, Line 83, Pos (42,41)
+msgid ""
+"「具体的に言うと\n"
+"\\!サイバーの通路\n"
+"\\!胡麻横丁\n"
+"\\!シュガー"
+msgstr ""
+"\"Specifically,\n"
+"\\!Cyber Maze\n"
+"\\!GALAXY Town\n"
+"\\!Sugar World"
+
+#. ID 79, Page 1, Line 87, Pos (42,41)
+msgid ""
+"人形工場\n"
+"\\!とかを作ってた人よ。詳しくは楽しむwikiを見てね」"
+msgstr ""
+"Doll Factory\n"
+"\\!I made things like that. Check the wiki for details.\""
+
+#. ID 79, Page 1, Line 93, Pos (42,41)
+msgid "「あら、そうなの。気が向いたらまた話しかけてね」"
+msgstr "\"Oh, I see. Talk to me again when you feel like it.\""
+
+#. ID 79, Page 2, Line 1, Pos (42,41)
+msgid ""
+"\\>スターマン\n"
+"「デバック解除してから私に話しかけてくれない？」"
+msgstr ""
+"\\>Starman\n"
+"\"Can you talk to me after you're done debugging?\""
+
+#. ID 80, Page 1, Line 3, Pos (38,65)
+msgid ""
+"710\n"
+"どうしましたか？"
+msgstr ""
+"710\n"
+"What's wrong?"
+
+#. ID 80, Page 1, Line 5, Pos (38,65)
+#. Choice (3 options)
+msgid ""
+"お話して。\n"
+"なんでもない。\n"
+"許さない。"
+msgstr ""
+"Talk to me.\n"
+"Nothing.\n"
+"I won't forgive you."
+
+#. ID 80, Page 1, Line 7, Pos (38,65)
+#. Choice (4 options)
+msgid ""
+"ゆめ2っきの話\n"
+"自分の世界の話\n"
+"好きな世界とかの話\n"
+"最初に話してた話"
+msgstr ""
+"Yume 2kki\n"
+"My worlds\n"
+"Favorite worlds\n"
+"What you were talking about earlier"
+
+#. ID 80, Page 1, Line 9, Pos (38,65)
+msgid ""
+"710\n"
+"まずは、貴方にとっての『ゆめ2っき』とは、\n"
+"何だったのかを聞きましょうか。"
+msgstr ""
+"710\n"
+"First, let's hear what Yume 2kki was to you."
+
+#. ID 80, Page 1, Line 12, Pos (38,65)
+msgid ""
+"710\n"
+"どうぞ。"
+msgstr ""
+"710\n"
+"Go ahead."
+
+#. ID 80, Page 1, Line 14, Pos (38,65)
+#. ID 80, Page 2, Line 44, Pos (38,65)
+msgid ""
+"710\n"
+"・・・。"
+msgstr ""
+"710\n"
+"..."
+
+#. ID 80, Page 1, Line 16, Pos (38,65)
+msgid ""
+"710\n"
+"なるほど、じゃあそういうことなんです。"
+msgstr ""
+"710\n"
+"I see, so that's how it is."
+
+#. ID 80, Page 1, Line 18, Pos (38,65)
+msgid ""
+"710\n"
+"『ゆめ2っき』の楽しみ方に、\n"
+"答えは出してないつもりです。"
+msgstr ""
+"710\n"
+"I don't have an answer to how to enjoy Yume 2kki."
+
+#. ID 80, Page 1, Line 21, Pos (38,65)
+msgid ""
+"710\n"
+"貴方がそう思うならそういうことなんです。\n"
+"たぶん。"
+msgstr ""
+"710\n"
+"If that's what you think, then that's how it is.\n"
+"Probably."
+
+#. ID 80, Page 1, Line 26, Pos (38,65)
+msgid ""
+"710\n"
+"あんまこーいう場所では言いたくないんすけど…"
+msgstr ""
+"710\n"
+"I don't really want to say this here, but..."
+
+#. ID 80, Page 1, Line 31, Pos (38,65)
+msgid ""
+"710\n"
+"まぁこことか、"
+msgstr ""
+"710\n"
+"Well, places like this..."
+
+#. ID 80, Page 1, Line 35, Pos (38,65)
+#. ID 80, Page 1, Line 38, Pos (38,65)
+#. ID 80, Page 1, Line 41, Pos (38,65)
+#. ID 80, Page 1, Line 63, Pos (38,65)
+#. ID 80, Page 1, Line 66, Pos (38,65)
+msgid ""
+"710\n"
+"こことか、"
+msgstr ""
+"710\n"
+"or here,"
+
+#. ID 80, Page 1, Line 44, Pos (38,65)
+msgid ""
+"710\n"
+"こことか作ってました～。"
+msgstr ""
+"710\n"
+"I made places like this~."
+
+#. ID 80, Page 1, Line 47, Pos (38,65)
+#. ID 80, Page 1, Line 87, Pos (38,65)
+msgid ""
+"710\n"
+"そんな感じっす。"
+msgstr ""
+"710\n"
+"That's about it."
+
+#. ID 80, Page 1, Line 52, Pos (38,65)
+msgid ""
+"710\n"
+"ちょっと長いので覚悟してね。"
+msgstr ""
+"710\n"
+"It's a bit long, so brace yourself."
+
+#. ID 80, Page 1, Line 54, Pos (38,65)
+msgid ""
+"710\n"
+"好きな世界は・・・"
+msgstr ""
+"710\n"
+"My favorite worlds are..."
+
+#. ID 80, Page 1, Line 69, Pos (38,65)
+#. ID 80, Page 1, Line 72, Pos (38,65)
+msgid ""
+"710\n"
+"このへんとか、"
+msgstr ""
+"710\n"
+"Places like this,"
+
+#. ID 80, Page 1, Line 75, Pos (38,65)
+msgid ""
+"710\n"
+"このあたりも、"
+msgstr ""
+"710\n"
+"and around here,"
+
+#. ID 80, Page 1, Line 78, Pos (38,65)
+msgid ""
+"710\n"
+"このへんも、"
+msgstr ""
+"710\n"
+"and here too,"
+
+#. ID 80, Page 1, Line 81, Pos (38,65)
+msgid ""
+"710\n"
+"ここも、"
+msgstr ""
+"710\n"
+"and here,"
+
+#. ID 80, Page 1, Line 84, Pos (38,65)
+msgid ""
+"710\n"
+"あとここも、"
+msgstr ""
+"710\n"
+"and here,"
+
+#. ID 80, Page 1, Line 94, Pos (38,65)
+msgid ""
+"710\n"
+"好きなキャラは基本的に全部好きです\n"
+"しいて挙げるとするなら、"
+msgstr ""
+"710\n"
+"I basically like all the characters,\n"
+"but if I had to choose,"
+
+#. ID 80, Page 1, Line 99, Pos (38,65)
+msgid ""
+"710\n"
+"この娘と、"
+msgstr ""
+"710\n"
+"This girl,"
+
+#. ID 80, Page 1, Line 103, Pos (38,65)
+msgid ""
+"710\n"
+"この人と、"
+msgstr ""
+"710\n"
+"this person,"
+
+#. ID 80, Page 1, Line 107, Pos (38,65)
+msgid ""
+"710\n"
+"こいつも好きだし、"
+msgstr ""
+"710\n"
+"and this one too,"
+
+#. ID 80, Page 1, Line 111, Pos (38,65)
+msgid ""
+"710\n"
+"こいつも好き"
+msgstr ""
+"710\n"
+"and this one."
+
+#. ID 80, Page 1, Line 117, Pos (38,65)
+msgid ""
+"710\n"
+"好きなBGMはメルヘン世界と遊園地のピエロのとこ。\n"
+"好きなエフェクトははにわとポリゴン。\n"
+"好きなミニゲームはFUJI。"
+msgstr ""
+"710\n"
+"My favorite BGM is the Theatre World and the clown in the Amusement Park.\n"
+"My favorite effects are Haniwa and Polygon.\n"
+"My favorite mini-game is FUJI."
+
+#. ID 80, Page 1, Line 121, Pos (38,65)
+msgid "以上です。"
+msgstr "That's all."
+
+#. ID 80, Page 1, Line 128, Pos (38,65)
+#. ID 80, Page 1, Line 138, Pos (38,65)
+#. ID 80, Page 2, Line 20, Pos (38,65)
+msgid ""
+"710\n"
+"すいません。"
+msgstr ""
+"710\n"
+"Sorry."
+
+#. ID 80, Page 1, Line 134, Pos (38,65)
+msgid ""
+"710\n"
+"あっ、はい。"
+msgstr ""
+"710\n"
+"Ah, yes."
+
+#. ID 80, Page 1, Line 145, Pos (38,65)
+msgid ""
+"710\n"
+"あっ、どうも710と申します。"
+msgstr ""
+"710\n"
+"Ah, I'm 710."
+
+#. ID 80, Page 1, Line 147, Pos (38,65)
+msgid ""
+"710\n"
+"まずは、どうもすみません。"
+msgstr ""
+"710\n"
+"First of all, I must apologize."
+
+#. ID 80, Page 1, Line 149, Pos (38,65)
+msgid ""
+"710\n"
+"私は確か2008/12/21にスレに書き込んで、\n"
+"『ゆめ2っき』の製作をだらだらしていました。"
+msgstr ""
+"710\n"
+"I'm sure I posted in the thread on 2008/12/21,\n"
+"and I was working on Yume 2kki."
+
+#. ID 80, Page 1, Line 152, Pos (38,65)
+msgid ""
+"710\n"
+"はじめた当時は中学生でしたが、\n"
+"今現在これを書いている2018年現在では…"
+msgstr ""
+"710\n"
+"I was in junior high when I started,\n"
+"but now, in 2018, as I write this..."
+
+#. ID 80, Page 1, Line 155, Pos (38,65)
+msgid ""
+"710\n"
+"社会人になってしまいました。"
+msgstr ""
+"710\n"
+"I've become a working adult."
+
+#. ID 80, Page 1, Line 157, Pos (38,65)
+msgid ""
+"710\n"
+"月日の経つのは早いもんですな…。"
+msgstr ""
+"710\n"
+"Time flies, doesn't it...?"
+
+#. ID 80, Page 1, Line 159, Pos (38,65)
+msgid ""
+"710\n"
+"うーん。"
+msgstr ""
+"710\n"
+"Hmm."
+
+#. ID 80, Page 1, Line 161, Pos (38,65)
+msgid ""
+"710\n"
+"まぁ、これからも楽しんでいってください。"
+msgstr ""
+"710\n"
+"Well, please continue to enjoy it."
+
+#. ID 80, Page 1, Line 169, Pos (38,65)
+msgid ""
+"710\n"
+"。。。"
+msgstr ""
+"710\n"
+"..."
+
+#. ID 80, Page 1, Line 174, Pos (38,65)
+msgid "710"
+msgstr ""
+
+#. ID 80, Page 2, Line 4, Pos (38,65)
+msgid ""
+"710\n"
+"なにか？"
+msgstr ""
+"710\n"
+"What is it?"
+
+#. ID 80, Page 2, Line 9, Pos (38,65)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"710\n"
+"とびます？"
+msgstr ""
+"710\n"
+"Jump here?"
+
+#. ID 80, Page 2, Line 27, Pos (38,65)
+#. Contains choice at line 2 (2 options)
+msgid "私的デバックルームとか見たい？"
+msgstr "Do you want to see my personal debug room?"
+
+#. ID 80, Page 2, Line 30, Pos (38,65)
+msgid ""
+"710\n"
+"あなたなら探し当てられるでしょう。"
+msgstr ""
+"710\n"
+"You should be able to find it."
+
+#. ID 80, Page 2, Line 40, Pos (38,65)
+msgid ""
+"710\n"
+"しっとりぴちぴち。"
+msgstr ""
+"710\n"
+"Moist and fresh."
+
+#. ID 80, Page 2, Line 56, Pos (38,65)
+msgid ""
+"710\n"
+"F9とかしてスイッチいじったでしょ。\n"
+"なかなかやりますね。"
+msgstr ""
+"710\n"
+"You pressed F9 and messed with the switches, didn't you?\n"
+"You're quite the troublemaker."
+
+#. ID 80, Page 3, Line 1, Pos (38,65)
+msgid ""
+"\n"
+"　　　　　　　　　　　（^ ^）\n"
+""
+msgstr ""
+
+#. ID 81, Page 1, Line 1, Pos (56,76)
+msgid "ここは絵師職人様方の部屋です。"
+msgstr "This is the room for illustrators."
+
+#. ID 81, Page 1, Line 2, Pos (56,76)
+msgid ""
+"壁紙、背景、キャラ素材など\n"
+"グラフィック面で制作に携わった方々、\n"
+"設置お待ちしています。"
+msgstr ""
+"Wallpaper, background, charset artists, etc.,\n"
+"anyone involved in graphics production,\n"
+"we welcome you to set up your avatar here."
+
+#. ID 82, Page 1, Line 1, Pos (35,76)
+msgid "ここは音職人様方の部屋です。"
+msgstr "This is the room for audio contributors."
+
+#. ID 82, Page 1, Line 2, Pos (35,76)
+msgid ""
+"BGM、SE面で制作に携わった方々、\n"
+"設置お待ちしています。"
+msgstr ""
+"BGM, sound effects artists, etc.,\n"
+"we welcome you to set up your avatar here."
+
+#. ID 83, Page 1, Line 3, Pos (42,59)
+msgid "…もうチェンソーはやめてね(遠い目)"
+msgstr "...Please stop with the chainsaw\n"
+"*distant gaze*"
+
+#. ID 83, Page 1, Line 12, Pos (42,59)
+msgid ""
+"\\>どうもCaです。\n"
+"\\>中の人はどこにでもいるただの蕎麦好き。\n"
+"\\>主にシステム面が気になる人。"
+msgstr ""
+"\\>Hello, I'm Ca.\n"
+"\\>I'm just a soba lover like anyone else.\n"
+"\\>I'm mainly interested in the system."
+
+#. ID 83, Page 1, Line 15, Pos (42,59)
+#. Contains choice at line 2 (3 options)
+msgid "\\>＼おまけ／"
+msgstr "\\>＼Extras／"
+
+#. ID 83, Page 1, Line 16, Pos (42,59)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>旧ﾒﾆｭｰﾀｲﾌﾟ17に切り替える\n"
+"\\>ｴﾌｪｸﾄ無し座り無効ﾓｰﾄﾞ(実験中)\n"
+"\\>－"
+msgstr ""
+"\\>Switch to the old menu type 17\n"
+"\\>Effectless sit disabled mode (experimental)\n"
+"\\>-"
+
+#. ID 83, Page 1, Line 18, Pos (42,59)
+msgid ""
+"\\>＊旧ﾒﾆｭｰﾀｲﾌﾟ17\n"
+"\\>ちょっと明るくなります"
+msgstr ""
+"\\>＊Old menu type 17\n"
+"\\>It will be a little brighter"
+
+#. ID 83, Page 1, Line 24, Pos (42,59)
+msgid ""
+"\\>旧ﾒﾆｭｰﾀｲﾌﾟ17ﾓｰﾄﾞに切り替えました。\n"
+"\\>※別のメニュータイプに切り替えても新/旧の\n"
+"\\>　切り替え状態は維持されます。\n"
+"\\>　変更する際は、製作者部屋まで。"
+msgstr ""
+"\\>Switched to the old menu type 17 mode.\n"
+"\\>※Even if you switch to another menu type, the new/old\n"
+"\\>　state will be maintained.\n"
+"\\>　If you want to change it, go to the developer's room."
+
+#. ID 83, Page 1, Line 30, Pos (42,59)
+msgid ""
+"\\>通常ﾒﾆｭｰﾀｲﾌﾟ17ﾓｰﾄﾞに切り替えました。\n"
+"\\>※別のメニュータイプに切り替えても新/旧の\n"
+"\\>　切り替え状態は維持されます。\n"
+"\\>　変更する際は、製作者部屋まで。"
+msgstr ""
+"\\>Switched to the normal menu type 17 mode.\n"
+"\\>※Even if you switch to another menu type, the new/old\n"
+"\\>　state will be maintained.\n"
+"\\>　If you want to change it, go to the developer's room."
+
+#. ID 83, Page 1, Line 38, Pos (42,59)
+msgid ""
+"\\>ﾒﾆｭｰﾀｲﾌﾟ17は未入手状態です。\n"
+"…秋っぽい場所にあるかも。"
+msgstr ""
+"\\>Menu type 17 is not available.\n"
+"...It might be in an autumn-like place."
+
+#. ID 83, Page 1, Line 44, Pos (42,59)
+msgid ""
+"\\>＊ｴﾌｪｸﾄ無し座り無効ﾓｰﾄﾞ\n"
+"\\>常時ｴﾌｪｸﾄ無し座りが出来なくなります\n"
+"\\>これで誤発動ともおさらば…？"
+msgstr ""
+"\\>＊Effectless sit disabled mode\n"
+"\\>You will no longer be able to sit without effects\n"
+"\\>Say goodbye to accidental activation...?"
+
+#. ID 83, Page 1, Line 49, Pos (42,59)
+msgid ""
+"\\>ｴﾌｪｸﾄ無し座り無効ﾓｰﾄﾞに設定しました。\n"
+"\\>※テスト中の機能です。強制的に座らせる\n"
+"\\>　イベントがあったりすると、若干変なことに\n"
+"\\>　なるかもしれません。不具合報告募集中。"
+msgstr ""
+"\\>Enabled effectless sit disabled mode.\n"
+"\\>※This is a feature under testing. If there is\n"
+"\\>　an event that forces you to sit, it may become\n"
+"\\>　a bit strange. We are looking for bug reports."
+
+#. ID 83, Page 1, Line 55, Pos (42,59)
+msgid ""
+"\\>ｴﾌｪｸﾄ無し座り無効ﾓｰﾄﾞを解除しました。\n"
+"\\>※テスト中の機能です。強制的に座らせる\n"
+"\\>　イベントがあったりすると、若干変なことに\n"
+"\\>　なるかもしれません。不具合報告募集中。"
+msgstr ""
+"\\>Disabled effectless sit disabled mode.\n"
+"\\>※This is a feature under testing. If there is\n"
+"\\>　an event that forces you to sit, it may become\n"
+"\\>　a bit strange. We are looking for bug reports."
+
+#. ID 84, Page 1, Line 1, Pos (42,31)
+msgid ""
+"spelude\n"
+"こんにちは\n"
+"…おはよう、それともこんばんは？"
+msgstr ""
+"spelude\n"
+"Hello\n"
+"...Good morning, or is it good evening?"
+
+#. ID 84, Page 1, Line 4, Pos (42,31)
+msgid ""
+"ともあれ、この場所まで来たという事は\n"
+"エンディング４種を全て見たのですね\n"
+"おめでとうございます"
+msgstr ""
+"Anyway, if you've come this far,\n"
+"you've seen all four endings.\n"
+"Congratulations."
+
+#. ID 84, Page 1, Line 8, Pos (42,31)
+#. Choice (4 options)
+msgid ""
+"何作った人？\n"
+"参加のきっかけは？\n"
+"他にも何か話して\n"
+"じゃあね"
+msgstr ""
+"What did you make?\n"
+"What made you join?\n"
+"Tell me something else\n"
+"See you later"
+
+#. ID 84, Page 1, Line 10, Pos (42,31)
+msgid ""
+"一番メジャーなマップは\n"
+"彼岸花、金平糖、星座あたりでしょうか\n"
+"素材として提供されたものをよく使用してます"
+msgstr ""
+"My most popular maps are Red Lily Lake, Candy\n"
+"World, and Constellation World.\n"
+"I often use assets provided to me."
+
+#. ID 84, Page 1, Line 14, Pos (42,31)
+#. Choice (3 options)
+msgid ""
+"マップについてもっと話して\n"
+"最初に戻る\n"
+"じゃあね"
+msgstr ""
+"Tell me more about the maps\n"
+"Return\n"
+"See you later"
+
+#. ID 84, Page 1, Line 19, Pos (42,31)
+msgid ""
+"蛍の舞うあの世界へ行ったんですね。\n"
+"あそこはBGMも含めて、自分でもお気に入りの世界です。\n"
+"個人的におすすめなのは、雪の降っている時ですね。\n"
+"雪と蛍…儚いもの同士が集まるの、良くないですか？"
+msgstr ""
+"So you went to the world where fireflies dance.\n"
+"That world, with its BGM, is one of my favorites.\n"
+"Personally, I recommend visiting when it's snowing.\n"
+"Isn't it great when fleeting things come together?"
+
+#. ID 84, Page 1, Line 25, Pos (42,31)
+msgid ""
+"絵本のような世界の中で、ピアニストが演奏している\n"
+"部屋があります。そこの南側の壁を調べてみると…？"
+msgstr ""
+"In the world that looks like a picture book, there\n"
+"is a room where a pianist plays. If you examine\n"
+"the south wall there...?"
+
+#. ID 84, Page 1, Line 34, Pos (42,31)
+msgid ""
+"自分と同じ姿の存在を突き落とす…\n"
+"そんな夢の経験、ありません？\n"
+"元々は自分で書いていたとある詩から着想を得た\n"
+"世界なのですが、けっこう思い入れも深くなりました"
+msgstr ""
+"Pushing off an existence looking the same as you...\n"
+"Have you ever had such a dream?\n"
+"It was a world inspired by a poem I wrote,\n"
+"but I've become quite attached to it."
+
+#. ID 84, Page 1, Line 40, Pos (42,31)
+msgid ""
+"彼岸花の咲く世界を歩く、住人が１人\n"
+"何度斬っても、別の世界を行き来すれば蘇る。\n"
+"…本当に、そうでしょうか？"
+msgstr ""
+"Strolling where red spider lilies bloom, there is\n"
+"one resident. No matter how many times you kill\n"
+"them, they will revive if you go back and forth\n"
+"between worlds. ...Is that really true?"
+
+#. ID 84, Page 1, Line 50, Pos (42,31)
+msgid ""
+"金平糖の雨。子供の頃にはお菓子が降ってくるのを\n"
+"空想したりなんかしてましたが、リアルというものを\n"
+"考えてしまうと、痛そうとかべとべとになりそうとか\n"
+"ついつい余計な事を考えてしまいます"
+msgstr ""
+"Rain of konpeito. As a child, I imagined candy\n"
+"would fall from the sky, but now when I considered\n"
+"the reality of it, I can't help thinking it would\n"
+"hurt or get sticky. I tend to think about unnecessary things."
+
+#. ID 84, Page 1, Line 56, Pos (42,31)
+msgid ""
+"金平糖の降り注ぐ世界には、行ってみましたか？\n"
+"道は直接つながっていませんが、実は奥まで\n"
+"進む事ができます。\n"
+"そこである事をすると…？"
+msgstr ""
+"Have you been to the world where konpeito rained\n"
+"down? The path is not directly connected, but you\n"
+"can actually go all the way to the back.\n"
+"If you do something there...?"
+
+#. ID 84, Page 1, Line 67, Pos (42,31)
+msgid ""
+"青い水の中、緑の木。赤い水の中、紫の木…。\n"
+"そんな世界に、辿り着いた事があるようですね。\n"
+"実はこの世界、あるゲームから着想を得て作りました。\n"
+"本当はもっと物を増やしたかったけどｺﾞﾆｮｺﾞﾆｮ…"
+msgstr ""
+"Green trees in blue water, purple trees in red...\n"
+"It seems you've arrived in such a world.\n"
+"I created this world inspired by a certain game.\n"
+"I wanted to add more, but I was too busy..."
+
+#. ID 84, Page 1, Line 73, Pos (42,31)
+msgid ""
+"赤く鼓動が響く、細胞だらけの世界に、少し分かりに\n"
+"くいですが、似たようで違うオブジェクトがあります。\n"
+"もし既に訪れているのなら、何か見落としが\n"
+"あるのかも…？"
+msgstr ""
+"In the world full of cells where red pulses echo,\n"
+"there are objects that are similar yet different.\n"
+"If you've already visited it, maybe you've over-\n"
+"looked something...?"
+
+#. ID 84, Page 1, Line 84, Pos (42,31)
+msgid ""
+"うろつきとピアニストのセッションはもう見ましたか？\n"
+"それとも、運悪くうろつきのソロ演奏?\n"
+"いずれにせよ、あのマップでのイベントは、ずっと\n"
+"私が実現してみたかったことでもあります。"
+msgstr ""
+"Have you already seen the session between Urotsuki\n"
+"and the pianist? Or did you unluckily see Uro-\n"
+"tsuki's solo performance? In any case, the event on\n"
+"that map is something I've always wanted to realize."
+
+#. ID 84, Page 1, Line 88, Pos (42,31)
+msgid ""
+"実は、絵本の世界でピアニストが弾いている曲も、\n"
+"実際に弾けなくはない、という音数で作っています。\n"
+"(１曲はどう頑張っても１人では弾けませんが…)\n"
+"ちなみに、演奏をもう１度行ってみると…？"
+msgstr ""
+"In fact, the song that the pianist plays in the world like a picture book\n"
+"is made with a number of notes that can actually be played.\n"
+"(One song can't be played by one person no matter how hard you try...)\n"
+"By the way, if you try playing it again...?"
+
+#. ID 84, Page 1, Line 94, Pos (42,31)
+msgid ""
+"多くの世界を巡ったあと、絵本の世界でとある事を\n"
+"すると…？\n"
+"たまには子供時代に戻るのも、いいかもしれませんね"
+msgstr ""
+"After traveling through many worlds, if you do\n"
+"something in the world like a picture book...?\n"
+"Sometimes it's nice to go back to your childhood."
+
+#. ID 84, Page 1, Line 104, Pos (42,31)
+msgid ""
+"この文章を読んでいるということは、１度はあの\n"
+"箱の世界へ飛んだのですね。\n"
+"何が起きたのかまるでわからないまま目が覚める。\n"
+"そんな理不尽さも、また夢の１つだと思ってます。"
+msgstr ""
+"If you're reading this, you've been to the box\n"
+"world at least once. You wake up without knowing\n"
+"what happened. I think that such irrationality is\n"
+"also part of dreaming."
+
+#. ID 84, Page 1, Line 110, Pos (42,31)
+msgid ""
+"青かったり、黄色っぽかったり、白黒だったり\n"
+"そんな部屋に入った事、ありますか？\n"
+"白黒だったら、彩ればいい…\n"
+"その先に、１つの世界を実は作っています。"
+msgstr ""
+"Have you ever entered a room that was blue, yellowish, or black and white?\n"
+"If it's black and white, you should color it...\n"
+"I'm actually creating a world beyond that."
+
+#. ID 84, Page 1, Line 124, Pos (42,31)
+#. ID 84, Page 1, Line 152, Pos (42,31)
+#. ID 113, Page 1, Line 18, Pos (32,65)
+msgid "良い夢を"
+msgstr "Sweet dreams."
+
+#. ID 84, Page 1, Line 129, Pos (42,31)
+msgid ""
+"図書館に本を置きたい、と思ったのが始まりです\n"
+"あの頃は下のスペースもまだできてませんでした\n"
+"いつの間にかマップやイベント作ってました\n"
+"人生何があるかわからないものです"
+msgstr ""
+"I wanted to put books in the library, and that's\n"
+"how it started. The space below wasn't created yet\n"
+"at that time. Before I knew it, I was making maps\n"
+"and events. You never know what life brings."
+
+#. ID 84, Page 1, Line 137, Pos (42,31)
+#. ID 84, Page 1, Line 144, Pos (42,31)
+msgid ""
+"更新の度に増やしていたけど、増えすぎて\n"
+"会話イベントが長くなったので(メタい)\n"
+"隣の子に話しかけてね"
+msgstr ""
+"I was adding to it with each update, but it got\n"
+"too much and the event dragged on too long (meta)\n"
+"So talk to the guy next to me."
+
+#. ID 84, Page 1, Line 140, Pos (42,31)
+msgid ""
+"あと、作った音楽の話は音職人のスペースで。\n"
+"右の子と似たような姿がいると思います。"
+msgstr ""
+"Also, ask about my music in the sound staff area.\n"
+"There should be a guy who looks similar to the one\n"
+"on the right."
+
+#. ID 84, Page 2, Line 1, Pos (42,31)
+msgid ""
+"spelude\n"
+"こんにちは\\!\n"
+"…\\S[15]誰か斬ったでしょ？"
+msgstr ""
+"spelude\n"
+"Hello\\!\n"
+"...\\S[15]You killed someone, didn't you?"
+
+#. ID 84, Page 2, Line 4, Pos (42,31)
+msgid ""
+"逆さの彼岸花が咲く世界に行ったら、\n"
+"またいらっしゃい"
+msgstr ""
+"If you go to the world where the upside-down red\n"
+"spider lilies bloom, welcome back."
+
+#. ID 84, Page 3, Line 1, Pos (42,31)
+msgid ""
+"spelude\n"
+"こんにちは\\!\n"
+"…なるほど、それも１つの選択ですね"
+msgstr ""
+"spelude\n"
+"Hello\\!\n"
+"...I see, that's also a choice."
+
+#. ID 84, Page 4, Line 3, Pos (42,31)
+msgid ""
+"spelude\n"
+"ねむたみのたみ\n"
+"(-ω-)ｽﾔｧ"
+msgstr ""
+"spelude\n"
+"eepy\n"
+"(-ω-) *yawn*"
+
+#. ID 84, Page 4, Line 9, Pos (42,31)
+msgid ""
+"spelude\n"
+"目隠れってなんかいいよね、ミステリアスで"
+msgstr ""
+"spelude\n"
+"Blindfolds are kind of nice, mysterious"
+
+#. ID 84, Page 4, Line 14, Pos (42,31)
+msgid ""
+"spelude\n"
+"見た夢が世界になって、世界はうろつきの夢になる\n"
+"そうやって、記憶は継承されていくんだなって"
+msgstr ""
+"spelude\n"
+"The dream you saw becomes a world, and the world becomes the dream of Urotsuki\n"
+"That's how memories are inherited."
+
+#. ID 84, Page 4, Line 20, Pos (42,31)
+msgid ""
+"spelude\n"
+"ゆめのなか　さまよいつづけ　そのはてで\n"
+"あなたとうろは、ここでしぬのよ"
+msgstr ""
+"spelude\n"
+"In the dream, keep wandering, and at the end\n"
+"You and Uro will die here"
+
+#. ID 84, Page 4, Line 26, Pos (42,31)
+# TODO
+msgid ""
+"spelude\n"
+"揚げると書いてフライ～♪"
+msgstr ""
+
+#. ID 84, Page 4, Line 31, Pos (42,31)
+msgid ""
+"spelude\n"
+"更新する度にここのランダム台詞増やしてるんだわ\n"
+"過去の自分との交換日記でも付けたら楽しいかなって"
+msgstr ""
+"spelude\n"
+"I'm adding random lines here every time I update\n"
+"I thought it would be fun to exchange a diary\n"
+"with my past self"
+
+#. ID 84, Page 4, Line 37, Pos (42,31)
+msgid ""
+"spelude\n"
+"感情って苦しいね\n"
+"苦しくても頑張れる人間がすごい"
+msgstr ""
+"spelude\n"
+"Emotions are painful\n"
+"People who can endure pain are amazing"
+
+#. ID 84, Page 4, Line 43, Pos (42,31)
+# TODO
+msgid ""
+"spelude\n"
+"オモロイド\n"
+"ああいう緊迫感に既視感あるなと思ったら\n"
+"グレートンネルだった"
+msgstr ""
+
+#. ID 84, Page 4, Line 50, Pos (42,31)
+msgid ""
+"spelude\n"
+"小夜曲と書いてセレナーデ\n"
+"かっこいいし趣もある\n"
+"ツユクサの花言葉でもあります"
+msgstr ""
+"spelude\n"
+"Written as nocturne, read as serenade\n"
+"It's cool and has a nice atmosphere\n"
+"It's also dew grass in flower language"
+
+#. ID 84, Page 4, Line 57, Pos (42,31)
+msgid ""
+"spelude\n"
+"ゆっくりしていってね！\n"
+"ニコニコがまた盛り上がるといいなぁ\n"
+"ゆめ２っきの動画はたまにエゴサしてます"
+msgstr ""
+"spelude\n"
+"Take it easy!\n"
+"I hope NicoNico will get lively again\n"
+"I sometimes egosurf for Yume 2kki videos"
+
+#. ID 84, Page 4, Line 64, Pos (42,31)
+msgid ""
+"spelude\n"
+"後悔がないかといえば嘘になる\n"
+"けれどそれが最善であると知っているから\n"
+"きっともう後悔していない"
+msgstr ""
+"spelude\n"
+"To say I have no regrets would be a lie\n"
+"But I know it's for the best\n"
+"So I'm sure I have no regrets anymore"
+
+#. ID 84, Page 4, Line 71, Pos (42,31)
+msgid ""
+"spelude\n"
+"74726…楽しむwikiでいう94nd0r4の検証動画を\n"
+"見つけました。よくやるなぁ…。\n"
+"あ、ちなみにver0.121cでイベント増やしました"
+msgstr ""
+"spelude\n"
+"74726...I found a verification video of 94nd0r4\n"
+"on the wiki. You're doing well...!\n"
+"Oh, by the way, I added events in ver0.121c"
+
+#. ID 84, Page 4, Line 75, Pos (42,31)
+msgid ""
+"spelude\n"
+"きっかけは1BPMっていう曲(？)のPV\n"
+"ただ椅子があったり揺れたりしてるだけなのに、\n"
+"音と見せ方でこんなに怖くできるんだ！って"
+msgstr ""
+"spelude\n"
+"The trigger was the PV of a song called 1BPM(?)\n"
+"Even though there's just a chair rocking,\n"
+"I thought it was so scary with just the sound and how it was shown!"
+
+#. ID 84, Page 4, Line 82, Pos (42,31)
+msgid ""
+"spelude\n"
+"こっくりさん、こっくりさん\n"
+"わたしはただのおきつねですよ"
+msgstr ""
+"spelude\n"
+"Kokkuri-san, Kokkuri-san\n"
+"I'm but a simple fox"
+
+#. ID 84, Page 4, Line 85, Pos (42,31)
+msgid ""
+"spelude\n"
+"九尾なのになぜ７回目で赤い空の崖へ飛ばされるのか\n"
+"単純に回数がめんどくさかったのかもしれないし、\n"
+"実は七尾なのかもしれない"
+msgstr ""
+"spelude\n"
+"Why is the nine-tailed fox sent to the\n"
+"Red Sky Cliff on the seventh time?\n"
+"Maybe it was just too much trouble to count the\n"
+"number of times, or maybe it's actually a seven-tailed fox"
+
+#. ID 84, Page 4, Line 92, Pos (42,31)
+msgid ""
+"spelude\n"
+"ver0.112で、私のマップの集大成みたいなのがようやく\n"
+"作れました。いやー、こうして振り返るっていいね。\n"
+"なんか他にも色々やりたかったけど、ひとまずこれで"
+msgstr ""
+"spelude\n"
+"In ver0.112, I was finally able to create something\n"
+"of a compilation. It's nice to look back like this.\n"
+"I wanted to do a lot of other things, but for now, this is it"
+
+#. ID 84, Page 4, Line 99, Pos (42,31)
+msgid ""
+"spelude\n"
+"恨み、憎み、祟り、滅せよ\n"
+"…私のマップが無価値だ、と断じるのは構いません\n"
+"但し､それでマップが消えても､文句言わないで下さい"
+msgstr ""
+"spelude\n"
+"Resentment, hatred, curse, perish\n"
+"...You're free to say that my maps are worthless\n"
+"However, if the maps disappear because of that,\n"
+"please don't complain"
+
+#. ID 85, Page 1, Line 1, Pos (19,88)
+msgid ""
+"【アノン】\n"
+"はじめまして、アノンです。\n"
+"ようこそいらっしゃいました(*´д｀*)"
+msgstr ""
+"\"Anon\"\n"
+"Nice to meet you, I'm Anon.\n"
+"Welcome (*´д｀*)"
+
+#. ID 85, Page 1, Line 4, Pos (19,88)
+msgid "何か聞きたいことはありますか(・ω・)？"
+msgstr "Is there anything you want to ask (・ω・)?"
+
+#. ID 85, Page 1, Line 5, Pos (19,88)
+#. Choice (4 options)
+msgid ""
+"どうして音楽素材を作るように？\n"
+"オススメの曲は？\n"
+"曲を戻して\n"
+"なんでもないよ"
+msgstr ""
+"Why did you start making music assets?\n"
+"What are your recommended tracks?\n"
+"Reset the music\n"
+"Nothing"
+
+#. ID 85, Page 1, Line 7, Pos (19,88)
+msgid ""
+"最初はプレーする側だったんですよね。\n"
+"知り合いに「ゆめにっきの派生作品でいいのがあるよ」\n"
+"ってカンジで教えてもらい、大体0.90代くらいから\n"
+"プレーをし始めました。"
+msgstr ""
+"At first, I was a player. I was told by an\n"
+"acquaintance, \"There's a good derivative work of\n"
+"Yume Nikki\" and I started playing around v0.90.\n"
+
+#. ID 85, Page 1, Line 11, Pos (19,88)
+msgid ""
+"本家もさることながら、初プレー時はエフェクト集めが\n"
+"すごく大変で、当時でもMAP広いなぁって思ってました。\n"
+"でもやりこみ要素もありますし、更新でMAPも増えます\n"
+"からハマっちゃうんですよね。"
+msgstr ""
+"Collecting effects was really difficult when I\n"
+"first played, even more than original game. At the\n"
+"time, I thought the maps were really big. But\n"
+"there are also collectibles, and the maps\n"
+"increased with updates, so I got hooked."
+
+#. ID 85, Page 1, Line 15, Pos (19,88)
+msgid ""
+"そのうち「自分はちょっとなら曲作れるし、政策の\n"
+"お手伝いができないかな」って思うようになって\n"
+"その想いがもうなんというか、我慢できなくなったので\n"
+"音素材を作って投稿したのがキッカケです。"
+msgstr ""
+"Eventually, I started thinking, \"I can make music\n"
+"to some extent, so maybe I can help with the pro-\n"
+"ject.\" Those thoughts became, how do I put it,\n"
+"too enticing, so I started making sound assets."
+
+#. ID 85, Page 1, Line 19, Pos (19,88)
+msgid ""
+"はじめて自分の作った効果音や曲が作中で流れた時\n"
+"すごく嬉しかったのを覚えています。\n"
+"自分はツクール扱いきれないのである意味適材適所\n"
+"だったといいますか...なんというかね。"
+msgstr ""
+"I remember being really happy when the SE and BGM\n"
+"I made were played in the game for the first time.\n"
+"I can't handle RPG Maker, so in a sense, it was a\n"
+"good fit or something like that."
+
+#. ID 85, Page 1, Line 23, Pos (19,88)
+msgid ""
+"なにはともあれ！\n"
+"いつも遊んでいただきありがとうございます！\n"
+"製作者のみなさん、素材提供さのみなさん、そして\n"
+"ゲームをプレーしてくださるみなさんに感謝感謝です！"
+msgstr ""
+"Anyway!\n"
+"Thank you for always playing!\n"
+"Many thanks to the creators, the assets providers,\n"
+"and everyone who played the game!"
+
+#. ID 85, Page 1, Line 29, Pos (19,88)
+msgid ""
+"そうですね...それでは私の作った曲の中から\n"
+"今のあなたの気分に似た雰囲気のオススメ曲を\n"
+"流すので、次の中からどれか選んでくださいね！"
+msgstr ""
+"Right...then I'll play one of my tracks\n"
+"that has a similar atmosphere to your current mood,\n"
+"so please choose one from the following!"
+
+#. ID 85, Page 1, Line 32, Pos (19,88)
+#. Choice (4 options)
+msgid ""
+"落ち込んでいる\n"
+"ノリノリな気持ち\n"
+"さわやかな気持ち\n"
+"幸せな気持ち"
+msgstr ""
+"Feeling down\n"
+"Feeling pumped\n"
+"Feeling refreshed\n"
+"Feeling happy"
+
+#. ID 85, Page 1, Line 49, Pos (19,88)
+msgid ""
+"......はいっ、これで戻りましたよ。\n"
+"...戻ってますよね？あれ？あれれ...。\n"
+"ツクールの方の機能はまだ扱いなれていないので\n"
+"戻っていなかったらすみません(´・ω・｀)！"
+msgstr ""
+"...Yes, I'm back now.\n"
+"...I'm back, right? Huh? Huhh...?\n"
+"I'm still not used to RPG Maker's functions,\n"
+"so I'm sorry if it didn't reset (´・ω・｀)!"
+
+#. ID 85, Page 1, Line 55, Pos (19,88)
+msgid ""
+"わかりました、何かありましたらまた\n"
+"いらしてくださいね(・ω・)！"
+msgstr ""
+"Understood, please come again if\n"
+"you have any questions (・ω・)!"
+
+#. ID 93, Page 1, Line 1, Pos (47,68)
+msgid "ここはツクラー方の部屋です。"
+msgstr "This is the room for the creators."
+
+#. ID 94, Page 1, Line 1, Pos (49,74)
+msgid ""
+"\n"
+"こころざしなかばで\n"
+"にじのように　きえていって　しまった\n"
+"だれかの　きもちを　あなたに"
+msgstr ""
+"\n"
+"As half-heartedly\n"
+"As a rainbow, all vanished\n"
+"These feelings to you"
+
+#. ID 94, Page 1, Line 5, Pos (49,74)
+msgid ""
+"\n"
+"かきかけの　ちいさな　あそび\n"
+"ミニゲームの　ひだりはしに　おいてきました"
+msgstr ""
+"\n"
+"A small game that was started\n"
+"Was left on the left side of the mini-game"
+
+#. ID 94, Page 1, Line 8, Pos (49,74)
+msgid ""
+"\n"
+"にゃ。"
+msgstr ""
+"\n"
+"Mrrow."
+
+#. ID 95, Page 1, Line 2, Pos (42,74)
+#. Contains choice at line 2 (2 options)
+msgid "\\>気分だけでも、降りて歩くかい？"
+msgstr "\\>Would you like to get off and walk around?"
+
+#. ID 95, Page 1, Line 3, Pos (42,74)
+#. Choice (2 options, embedded in a message)
+#. ID 95, Page 1, Line 14, Pos (42,74)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>Yes\n"
+"\\>No"
+
+#. ID 95, Page 1, Line 13, Pos (42,74)
+#. Contains choice at line 2 (2 options)
+msgid "\\>気分だけでも、乗っていくかい？"
+msgstr "\\>Would you like to get on and go?"
+
+#. ID 96, Page 1, Line 1, Pos (9,12)
+#. Condition (Actor Name = Player Name)
+msgctxt "actors.name"
+msgid "Player Name"
+msgstr ""
+
+#. ID 96, Page 1, Line 8, Pos (9,12)
+msgid ""
+"\\s[4]\n"
+"　　君は、\\.夢の果てを、\\.全てを見てここまで来た。\\|　　◆\n"
+"　　おめでとう。\\.\\.そして、\\.ありがとう。\\|\\n[7]。　　 　　 ◆"
+msgstr ""
+"\\s[4]\n"
+"　　You have seen everything, the end of the dream, and come here.\\|　　◆\n"
+"　　Congratulations... and thank you.\\|\\n[7]。　　 　　 ◆"
+
+#. ID 98, Page 1, Line 2, Pos (49,39)
+msgid ""
+"どうもです、shigurinです\n"
+"ゆめ2っきをここまで遊んでいただき\n"
+"ありがとうございます！"
+msgstr ""
+"Hello, I'm shigurin\n"
+"Thank you for playing Yume 2kki until now!"
+
+#. ID 98, Page 1, Line 5, Pos (49,39)
+msgid "とりあえずこの堅苦しい感じやめにしません？"
+msgstr "Shall we cease the formalities for now?"
+
+#. ID 98, Page 1, Line 6, Pos (49,39)
+#. Choice (4 options)
+msgid ""
+"やめよう！\n"
+"いいよ！\n"
+"帰る\n"
+"変な動きして"
+msgstr ""
+"Aight\n"
+"Sure\n"
+"I'm leaving\n"
+"Do something weird"
+
+#. ID 98, Page 1, Line 9, Pos (49,39)
+msgid ""
+"ありがとう！じゃあ何か話そうかな\n"
+"何が聞きたい？"
+msgstr ""
+"Thanks! So, shall we talk about something?\n"
+"What do you want to know?"
+
+#. ID 98, Page 1, Line 12, Pos (49,39)
+#. Choice (4 options)
+msgid ""
+"なぜ制作に参加したの？\n"
+"どこ作ってんの？\n"
+"好きなマップは？\n"
+">次のページへ"
+msgstr ""
+"Why did you participate in the project?\n"
+"What are you working on?\n"
+"What's your favorite map?\n"
+">Next page"
+
+#. ID 98, Page 1, Line 14, Pos (49,39)
+msgid ""
+"ええと、私実は2011年頃からゆめ2っきを知りました\n"
+"ずっとプレイしてた訳なじゃないけど・・"
+msgstr ""
+"Well, I actually knew about Yume 2kki around 2011\n"
+"I wasn't playing it all the time, though..."
+
+#. ID 98, Page 1, Line 16, Pos (49,39)
+msgid ""
+"ちらほらプレイしてた感じでしたが、2018年初め頃に\n"
+"再開したときに、あっこんなに広くなってるんだー\n"
+"だとか昔に比べて感じ方が変わったのか、とても魅力だ\n"
+"とかを感じ、ガッツリはまってしまいました"
+msgstr ""
+"I was playing it on and off, but when I resumed playing\n"
+"around the beginning of 2018, I thought, \"Wow, it's gotten so big!\"\n"
+"or maybe my perception has changed compared to before, and it's very attractive\n"
+"and I got hooked on it."
+
+#. ID 98, Page 1, Line 20, Pos (49,39)
+msgid ""
+"そのときに色々ありまして、貯金箱100夢、壁紙パズル\n"
+"100%までやり込みました、その際に、ここの先作らない\n"
+"のかな、だとか、すげえこの先気になって、\n"
+"夜も眠れないよ～みたいな感じになりまして・・・"
+msgstr ""
+"At that time, I did various things, like getting 100夢 from the piggy bank\n"
+"and 100%ing the wallpaper puzzle. At that time, I thought, \"I wonder if they wouldn't make\n"
+"anything beyond this,\" or \"Wow, I'm really curious about what's next,\n"
+"and I can't sleep at night~\""
+
+#. ID 98, Page 1, Line 24, Pos (49,39)
+msgid ""
+"そして、何を思ったのか制作に参加したいと\n"
+"思いました(！？)\n"
+"2018年の6月頃ですかね・・・"
+msgstr ""
+"And then, for some reason, I wanted to\n"
+"contribute to the project (!?)\n"
+"around June 2018, I think..."
+
+#. ID 98, Page 1, Line 27, Pos (49,39)
+msgid ""
+"・・・間違って選択肢選んじゃった人のためにここで\n"
+"選択肢だ！優しいだろう？\n"
+""
+msgstr ""
+"...For those who accidentally chose the wrong option,\n"
+"here's another choice! Aren't I nice?"
+
+#. ID 98, Page 1, Line 30, Pos (49,39)
+#. Choice (2 options)
+msgid ""
+"続きを聞く\n"
+"帰る"
+msgstr ""
+"Continue listening\n"
+"I'm leaving"
+
+#. ID 98, Page 1, Line 32, Pos (49,39)
+msgid "続き話すね"
+msgstr "I'll continue then."
+
+#. ID 98, Page 1, Line 33, Pos (49,39)
+msgid ""
+"実は参加した時点では、ドット絵も普通の絵も描いたこ\n"
+"とがなかったんです\n"
+"大丈夫だったんですかね～？"
+msgstr ""
+"Actually, when I joined, I hadn't drawn pixel art or regular art\n"
+"before. I wonder if it was fine~?"
+
+#. ID 98, Page 1, Line 36, Pos (49,39)
+msgid ""
+"当初のドット絵は《地底草原》にちらほら残ってるはず\n"
+"です\n"
+"一部リメイクしてるけど\n"
+"多分見た感じわかるかな・・・？"
+msgstr ""
+"The original pixel art should still be scattered around the Strange Plants World\n"
+"emphasis on \"should\"\n"
+"I've remade some of them, but\n"
+"you can probably tell by looking...?"
+
+#. ID 98, Page 1, Line 40, Pos (49,39)
+msgid ""
+"という風に、自分の世界が深くなるに連れてドット絵が\n"
+"だんだん上手くなっていくという面白い(？)事に\n"
+"なってるんです"
+msgstr ""
+"As my world deepens, the pixel art gets better\n"
+"and better, which is an interesting (?) thing\n"
+"that happened."
+
+#. ID 98, Page 1, Line 43, Pos (49,39)
+msgid "書くの飽きたので気が向いたらまた何か書きますね！"
+msgstr "I'm tired of writing, so I'll write something again when I feel like it!"
+
+#. ID 98, Page 1, Line 52, Pos (49,39)
+msgid ""
+"ええと、《地底草原》含めてその先全部です\n"
+"今のところはね\n"
+"ver0.108a時点では最奥地は《海底神殿》だよ\n"
+"辿り着けたかな？"
+msgstr ""
+"Um, it's everything beyond the Strange Plants World\n"
+"for now\n"
+"As of ver0.108a, the deepest place is the Undersea Temple\n"
+"Have you reached it?"
+
+#. ID 98, Page 1, Line 56, Pos (49,39)
+msgid ""
+"あと、そのルートとは別に\n"
+"《拒絶》、《賭博》とかですね\n"
+"《顔と腕の通路》からいけるよ！"
+msgstr ""
+"Also, aside from that route\n"
+"it's also reachable from Despair, The Poker Zone\n"
+"and the Broken Faces Area!"
+
+#. ID 98, Page 1, Line 61, Pos (49,39)
+msgid ""
+"うーん、\n"
+"《駐車場》、《高速道路》、《Cosmic》\n"
+"が好きですねえ"
+msgstr ""
+"Hmm,\n"
+"I like Parking Lot, Highway, and Cosmic World."
+
+#. ID 98, Page 1, Line 64, Pos (49,39)
+msgid ""
+"自分の世界だと《廃籠》が気に入ってます\n"
+"ですが、重いらしいです"
+msgstr ""
+"Among my worlds, I like Riverside Waste Facility\n"
+"but it's a heavy one."
+
+#. ID 98, Page 1, Line 68, Pos (49,39)
+#. Choice (4 options)
+msgid ""
+"好きな食べ物は？\n"
+"最近どう？\n"
+"なんでそんな姿なの？\n"
+">次のページへ"
+msgstr ""
+"What's your favorite food?\n"
+"What's up?\n"
+"Why do you look like that?\n"
+">Next page"
+
+#. ID 98, Page 1, Line 70, Pos (49,39)
+msgid ""
+"やはり「納豆」ですね！\n"
+"ねばねばと食感がたまらないね！"
+msgstr ""
+"Of course, it's natto!\n"
+"The sticky texture is irresistible!"
+
+#. ID 98, Page 1, Line 74, Pos (49,39)
+msgid ""
+"微妙な感じ、もっと作りたいし更新したい！\n"
+"忙しいので仕方ないね！"
+msgstr ""
+"I'm feeling meh, I want to make more and update!\n"
+"I'm busy, so it can't be helped!"
+
+#. ID 98, Page 1, Line 78, Pos (49,39)
+msgid ""
+"なんでか昔こういうキャラが好きだったんです\n"
+"いつかグラフィックを描き直したいと思ってる"
+msgstr ""
+"I used to like this kind of character for some reason\n"
+"I'm thinking of redrawing the art someday"
+
+#. ID 98, Page 1, Line 101, Pos (49,39)
+msgid "またね～～～！"
+msgstr "See you later~~~!"
+
+#. ID 98, Page 1, Line 110, Pos (49,39)
+#. Choice (2 options)
+msgid ""
+"消\n"
+"     . ./      ,."
+msgstr ""
+"Delete\n"
+"     . ./      ,."
+
+#. ID 98, Page 2, Line 2, Pos (49,39)
+msgid "デバッグ捨てて探索しろ～～～～～～～～～"
+msgstr "Stop debugging and go explore~~~~~~~"
+
+#. ID 99, Page 2, Line 1, Pos (40,52)
+msgid "\\s[3]やっとここに来たな、うろつき。"
+msgstr "\\s[3]You finally made it here, Urotsuki."
+
+#. ID 99, Page 2, Line 2, Pos (40,52)
+msgid ""
+"\\s[3]今までたくさんのことを見たうちに、 \n"
+"お前は何か感じたことはなかったのか。"
+msgstr ""
+"\\s[3]You've seen a lot of things up until now,\n"
+"haven't you felt anything?"
+
+#. ID 99, Page 2, Line 4, Pos (40,52)
+msgid ""
+"\\s[3]内面で自分自身が\n"
+"多かったようだっただろう？"
+msgstr ""
+"\\s[3]It seems like there was\n"
+"a lot of sides to yourself, right?"
+
+#. ID 99, Page 2, Line 6, Pos (40,52)
+msgid "\\s[3]そう、お前の正体は。。。"
+msgstr "\\s[3]Yes, your true identity is..."
+
+#. ID 99, Page 2, Line 9, Pos (40,52)
+msgid ""
+"いや、今更特に必要のない話だろう。\n"
+"もう答えを知っているからさ。"
+msgstr ""
+"Nah, we don't really need to talk about that now.\n"
+"I already know the answer."
+
+#. ID 99, Page 2, Line 13, Pos (40,52)
+msgid "Nulsdodageです。よろしくお願いしますよ。"
+msgstr "I'm Nulsdodage. Nice to meet you."
+
+#. ID 99, Page 2, Line 14, Pos (40,52)
+msgid ""
+"ここまで来てくださって、ご苦労さまでした。\n"
+"夢はいいぞ。"
+msgstr ""
+"Thank you for coming here.\n"
+"Dreams are wonderful."
+
+#. ID 99, Page 2, Line 16, Pos (40,52)
+msgid "さって、何が気になりますか？"
+msgstr "So, what's on your mind?"
+
+#. ID 99, Page 2, Line 18, Pos (40,52)
+#. Choice (4 options)
+msgid ""
+"お前は何者だ\n"
+"何を作ったんだ\n"
+"なぜ作った\n"
+"->"
+msgstr ""
+"Who are you?\n"
+"What did you make?\n"
+"Why did you make it?\n"
+"->"
+
+#. ID 99, Page 2, Line 20, Pos (40,52)
+msgid ""
+"私について知りたいことですね。\n"
+"分かりました。"
+msgstr ""
+"You want to know about me.\n"
+"Got it."
+
+#. ID 99, Page 2, Line 22, Pos (40,52)
+msgid "私は0.109cパッチ4から参加しました。"
+msgstr "I joined from 0.109c patch 4."
+
+#. ID 99, Page 2, Line 23, Pos (40,52)
+msgid ""
+"最初はバグ修正とSR分室\n"
+"アップデートだけして\n"
+"引退しようとしたんですが。。。"
+msgstr ""
+"At first, I was just fixing bugs and updating\n"
+"the SR Room. I was going to retire after that..."
+
+#. ID 99, Page 2, Line 26, Pos (40,52)
+msgid ""
+"なんだかんだで\n"
+"マップと音楽も作るようになりました。"
+msgstr ""
+"Before I knew it,\n"
+"I started making maps and music too."
+
+#. ID 99, Page 2, Line 31, Pos (40,52)
+msgid ""
+"MAP訪問判定チェックシステム、\n"
+"メニュータイプ、マップ、曲、\n"
+"そして効果音を作りました。"
+msgstr ""
+"I made the map completion system,\n"
+"menu types, maps, music,\n"
+"and sound effects."
+
+#. ID 99, Page 2, Line 37, Pos (40,52)
+msgid "最初はショートカットを制作する目的でした。"
+msgstr "At first, it was to create shortcuts."
+
+#. ID 99, Page 2, Line 38, Pos (40,52)
+msgid ""
+"初めてマップを作ってみたら、\n"
+"興味が湧きました。\n"
+"そして他のマップも作るようになりました。"
+msgstr ""
+"When I tried making a map for the first time,\n"
+"I became interested.\n"
+"And I started making other maps too."
+
+#. ID 99, Page 2, Line 44, Pos (40,52)
+#. Choice (3 options)
+msgid ""
+"どうでもいいよ。あたしは行くから\n"
+"気になることがない。\n"
+"<-"
+msgstr ""
+"I don't care. I'm leaving\n"
+"I'm not interested.\n"
+"<-"
+
+#. ID 99, Page 2, Line 47, Pos (40,52)
+msgid "ひどいよ。。。"
+msgstr "Don't be mean..."
+
+#. ID 99, Page 2, Line 50, Pos (40,52)
+#. ID 99, Page 2, Line 53, Pos (40,52)
+msgid "まぁ、仕方がないですね。"
+msgstr "Well, it can't be helped."
+
+#. ID 99, Page 2, Line 61, Pos (40,52)
+msgid ""
+"今まで本当にありがとうございました。\n"
+"それでは、さようなら。"
+msgstr ""
+"Thank you very much for everything.\n"
+"Well then, goodbye."
+
+#. ID 101, Page 3, Line 1, Pos (18,67)
+#. ID 101, Page 4, Line 1, Pos (18,67)
+msgid "\\s[3]やっとここに来たな、うろつ。。。"
+msgstr "\\s[3]You finally made it here, Urot..."
+
+#. ID 101, Page 3, Line 3, Pos (18,67)
+#. ID 101, Page 4, Line 3, Pos (18,67)
+msgid "あ、またあなたですか。"
+msgstr "Oh, it's you again."
+
+#. ID 101, Page 3, Line 5, Pos (18,67)
+#. ID 101, Page 4, Line 5, Pos (18,67)
+msgid ""
+"なぜ私がここにいるのかと\n"
+"お聞きになりましたか？"
+msgstr ""
+"Have you come to ask\n"
+"why I'm here?"
+
+#. ID 101, Page 3, Line 7, Pos (18,67)
+#. ID 101, Page 4, Line 7, Pos (18,67)
+msgid "前にも言ったように、曲も作ったことがあるし。"
+msgstr "As I said before, I've also made music."
+
+#. ID 101, Page 3, Line 8, Pos (18,67)
+#. ID 101, Page 4, Line 8, Pos (18,67)
+msgid "好きな曲を選んでください。"
+msgstr "Please choose your favorite track."
+
+#. ID 101, Page 3, Line 9, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 4, Line 9, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 1, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 6, Line 1, Pos (18,67)
+#. Choice (4 options)
+msgid ""
+"Nuls_01-dtslm\n"
+"Nuls_02-Debug\n"
+"Nuls_03-dbwld\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 3, Line 20, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 4, Line 20, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 12, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 6, Line 12, Pos (18,67)
+#. Choice (4 options)
+msgid ""
+"Nuls_04-dgtmn\n"
+"Nuls_05-nuvod\n"
+"Nuls_06_split\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 3, Line 31, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 4, Line 31, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 23, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 6, Line 23, Pos (18,67)
+#. Choice (4 options)
+msgid ""
+"Nuls_08-Dtdbr\n"
+"Nuls_08b-dscom\n"
+"Nuls_09_Data_Tech\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 3, Line 42, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 4, Line 42, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 34, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 6, Line 34, Pos (18,67)
+#. Choice (4 options)
+msgid ""
+"nuls_10_Coup_de_Grace(tunnel)\n"
+"nuls_11_Turning_Point\n"
+"nuls_12_Prelude\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 3, Line 53, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 4, Line 53, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 45, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 6, Line 45, Pos (18,67)
+#. Choice (4 options)
+msgid ""
+"nuls_xx_Coup_de_Grace\n"
+"Nuls_xx_GB_Remastered\n"
+"nuls_xx_insengmusang\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 3, Line 64, Pos (18,67)
+#. Choice (4 options)
+msgid ""
+"Nuls_xx_lastwave_reduced\n"
+"Nuls_xx_Town\n"
+"Nuls_xx_town_retro\n"
+"X"
+msgstr ""
+
+#. ID 101, Page 4, Line 64, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 56, Pos (18,67)
+#. Choice (4 options)
+#. ID 101, Page 6, Line 56, Pos (18,67)
+#. Choice (4 options)
+msgid ""
+"Nuls_xx_lastwave_reduced\n"
+"Nuls_xx_Town\n"
+"Nuls_xx_town_retro\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 4, Line 75, Pos (18,67)
+#. Choice (3 options)
+#. ID 101, Page 5, Line 67, Pos (18,67)
+#. Choice (3 options)
+#. ID 101, Page 6, Line 67, Pos (18,67)
+#. Choice (3 options)
+msgid ""
+"Nuls_09_Data_Tech\n"
+"Nuls_Commentary_Version_2\n"
+"X"
+msgstr ""
+
+#. ID 102, Page 1, Line 2, Pos (52,58)
+msgid ""
+"こんばんは、軟体と申します。\n"
+"ちょっと場違いな気もしますが、せっかくなので\n"
+"この製作者部屋に来てみました。"
+msgstr ""
+"Good evening, I'm Nantai.\n"
+"I feel a bit out of place, but since I'm here,\n"
+"I thought I'd visit this developer's room."
+
+#. ID 102, Page 1, Line 6, Pos (52,58)
+#. Choice (4 options)
+msgid ""
+"誰ですか？\n"
+"なぜ製作しようと？\n"
+"お気に入りの自作マップは？\n"
+"→その他の質問へ"
+msgstr ""
+"Who are you?\n"
+"Why did you decide to create?\n"
+"What's your favorite map that you've made?\n"
+"→Other questions"
+
+#. ID 102, Page 1, Line 8, Pos (52,58)
+msgid ""
+"２０１９年の終わり頃からゆめ２っき製作に参加して、\n"
+"いくつか世界や本を作っています。\n"
+"ナインタイルからいける世界はだいたい私が作りました。"
+msgstr ""
+"I've been participating in Yume 2kki's development\n"
+"since the end of 2019,\n"
+"and I've created several worlds and books.\n"
+"I made most of the worlds that can be accessed from Rainbow Tiles Maze."
+
+#. ID 102, Page 1, Line 14, Pos (52,58)
+msgid ""
+"ゆめ２っきとはかなり長い付き合いで、\n"
+"まだverが0.1になる前からプレイしていました。\n"
+""
+msgstr ""
+"I've been playing Yume 2kki for quite a long time,\n"
+"even before the version number reached 0.1.\n"
+""
+
+#. ID 102, Page 1, Line 17, Pos (52,58)
+msgid ""
+"その頃から製作に参加したいなとは思っていたのですが、\n"
+"敷居が高く感じてしまって、気おくれしていました。\n"
+"(実はナインタイルはそのころに作ったマップです。)"
+msgstr ""
+"I've been thinking about participating in the development since then,\n"
+"but I felt that the barrier was too high and hesitated.\n"
+"(Actually, Rainbow Tiles Maze is a map I made back then.)"
+
+#. ID 102, Page 1, Line 20, Pos (52,58)
+msgid ""
+"それから数年経った、２０１９年末に\n"
+"なんだかんだあって(適当)ようやく参加した感じです。"
+msgstr ""
+"Several years passed, and at the end of 2019,\n"
+"after various things happened (nonchalantly), I finally joined."
+
+#. ID 102, Page 1, Line 25, Pos (52,58)
+msgid "もちろんナインタイルです。"
+msgstr "Of course, Rainbow Tiles Maze."
+
+#. ID 102, Page 1, Line 29, Pos (52,58)
+#. Choice (3 options)
+msgid ""
+"何かいいBGMない？\n"
+"バグ発見したよ。\n"
+"さようなら。"
+msgstr ""
+"Do you have any good BGM?\n"
+"I found a bug.\n"
+"Goodbye."
+
+#. ID 102, Page 1, Line 31, Pos (52,58)
+msgid ""
+"…いいＢＧＭかは分かりませんが、\n"
+"自作のBGMの中から、ランダムで１つ流しますね。\n"
+"それではどうぞ。"
+msgstr ""
+"...I don't know if it's good BGM, but\n"
+"I'll play one of my original BGMs at random.\n"
+"Here you go."
+
+#. ID 102, Page 1, Line 77, Pos (52,58)
+msgid ""
+"…え、本当ですか？\n"
+"それは大変失礼いたしました。"
+msgstr ""
+"...Huh, really?\n"
+"I'm terribly sorry."
+
+#. ID 102, Page 1, Line 79, Pos (52,58)
+msgid ""
+"もしバグを見つけた場合、\n"
+"ゆめ２っきwikiのスレに報告してください。\n"
+"気付きしだい、すぐに修正いたします。"
+msgstr ""
+"If you find a bug,\n"
+"please report it on the Yume 2kki wiki thread.\n"
+"As soon as I notice it, I'll fix it right away."
+
+#. ID 102, Page 1, Line 82, Pos (52,58)
+msgid "(ツクール初心者ですので…すいません。)"
+msgstr "(I'm a beginner at RPG Maker... I'm sorry.)"
+
+#. ID 102, Page 1, Line 86, Pos (52,58)
+msgid "では、さようなら。"
+msgstr "Well then, goodbye."
+
+#. ID 103, Page 1, Line 1, Pos (53,50)
+msgid "どうも、Kontentsuです"
+msgstr "Hello, I'm Kontentsu."
+
+#. ID 103, Page 1, Line 2, Pos (53,50)
+msgid "目になりました。"
+msgstr "Nice to meet you."
+
+#. ID 103, Page 1, Line 3, Pos (53,50)
+msgid ""
+"よくここまで来た！えらいぞ\n"
+" (K -△-)"
+msgstr ""
+"You've come this far! Good job\n"
+"(K -△-)"
+
+#. ID 105, Page 1, Line 1, Pos (38,61)
+msgid ""
+"プレイお疲れ様です。\n"
+"自分も色々お話させてもらおうかな。"
+msgstr ""
+"Thank you for playing.\n"
+"Let me tell you a few things."
+
+#. ID 105, Page 1, Line 4, Pos (38,61)
+#. Choice (4 options)
+msgid ""
+"自己紹介\n"
+"制作関連の話\n"
+"好きな夢世界（※ネタバレ注意）\n"
+"口を閉じやがれ"
+msgstr ""
+"Self-intro\n"
+"About the project\n"
+"Favorite dream world (※spoiler warning)\n"
+"Shut up"
+
+#. ID 105, Page 1, Line 6, Pos (38,61)
+msgid ""
+"natlと申します。\n"
+"ver0.104から参加しているツクラーです。\n"
+"マップデザインの一部を担当しました。"
+msgstr ""
+"This is natl.\n"
+"I'm a creator who joined from ver0.104.\n"
+"I was in charge of some of these maps' design."
+
+#. ID 105, Page 1, Line 11, Pos (38,61)
+msgid "クソデカカクテルが置かれている世界や"
+msgstr "Like one where the huge cocktail is placed"
+
+#. ID 105, Page 1, Line 14, Pos (38,61)
+msgid "メキシコみたいな世界など"
+msgstr "Or one that looks like Mexico"
+
+#. ID 105, Page 1, Line 17, Pos (38,61)
+msgid "その周辺の制作を担当させていただきました。"
+msgstr "I was in charge of the project around those areas."
+
+#. ID 105, Page 1, Line 20, Pos (38,61)
+msgid ""
+"制作で一番好きなのはドットを打つ作業です。\n"
+"絵を描くのが好きなので。\\!\n"
+"キャラやらオブジェやら、つい沢山作ってしまいます。"
+msgstr ""
+"My favorite part of the project is drawing pixel art.\n"
+"I like drawing pictures.\\!\n"
+"I end up making a lot of characters and objects."
+
+#. ID 105, Page 1, Line 23, Pos (38,61)
+msgid ""
+"…逆に苦手なのはツクールでイベントを組む作業です。\n"
+"簡単なイベントを作るだけでも時間がかかってしまい\n"
+"よくパソコンの前で発狂しています。"
+msgstr ""
+"...On the other hand, I'm not good at setting up events in RPG Maker.\n"
+"Even making simple events takes a lot of time,\n"
+"and I often go crazy in front of the computer."
+
+#. ID 105, Page 1, Line 26, Pos (38,61)
+msgid ""
+"どの世界も全力で作っているので\n"
+"楽しんでいただけたらとても嬉しいです。\n"
+"それでは。"
+msgstr ""
+"I'm putting all my effort into creating each world,\n"
+"so I'd be very happy if you enjoyed them.\n"
+"Well then."
+
+#. ID 105, Page 1, Line 32, Pos (38,61)
+msgid ""
+"自分が制作に参加するきっかけですが、\n"
+"「ゆめ２っきが凄く好きだったから」です。\n"
+"単純な理由ですね。"
+msgstr ""
+"The reason I decided to participate in the project\n"
+"is because I really liked Yume 2kki.\n"
+"It's a simple reason."
+
+#. ID 105, Page 1, Line 35, Pos (38,61)
+msgid ""
+"それまではツクール未経験、\n"
+"ドット絵も殆ど打ったことが無かったです。\n"
+"（でも未経験から２っき制作者になった方は\n"
+"　意外と多いみたいなんですよね）"
+msgstr ""
+"Until then, I had no experience with RPG Maker,\n"
+"and I had hardly drawn any pixel art.\n"
+"(But it seems that there are quite a few people\n"
+"who became Yume 2kki creators from zero.)"
+
+#. ID 105, Page 1, Line 39, Pos (38,61)
+msgid ""
+"一ファンから制作者側になったことが\n"
+"正解だったのかは今でもよくわかりませんが"
+msgstr ""
+"I still don't know if it was the right decision\n"
+"to go from being a fan to a creator."
+
+#. ID 105, Page 1, Line 41, Pos (38,61)
+msgid ""
+"マップのアイデアを考えたり\n"
+"ドット絵を打ったりしているときは心から「楽しい」と\n"
+"思いますし"
+msgstr ""
+"When I'm coming up with map ideas\n"
+"and drawing pixel art, I truly think it's \"fun\""
+
+#. ID 105, Page 1, Line 44, Pos (38,61)
+msgid ""
+"下手ながらもちゃんとイベントが組めたり、\n"
+"作った世界を好きだと言ってもらえたりしたときは\n"
+"本当に嬉しかったです。"
+msgstr ""
+"Even though I'm not very good, I tried to set up events,\n"
+"and when people said they liked the worlds I made,\n"
+"I was really happy."
+
+#. ID 105, Page 1, Line 47, Pos (38,61)
+msgid ""
+"（そういう言葉の感想って\n"
+"　受け取った側はずっと心に残ってるんですよね）"
+msgstr ""
+"(Those kinds of comments\n"
+"really stay with you in your heart.)"
+
+#. ID 105, Page 1, Line 49, Pos (38,61)
+msgid ""
+"なんかぶっちゃけた話しすぎて恥ずかしくなってきた。\n"
+"制作関連の話は以上になります。"
+msgstr ""
+"I've been talking too frankly and I'm starting to feel embarrassed.\n"
+"That's all for the project talk."
+
+#. ID 105, Page 1, Line 54, Pos (38,61)
+msgid ""
+"好きな夢世界は数えきれないほどあるのですが、\n"
+"一番好きなのは『サーカス団』です。"
+msgstr ""
+"There are countless dream worlds that I like,\n"
+"but my favorite is the \"Forest Carnival.\""
+
+#. ID 105, Page 1, Line 56, Pos (38,61)
+msgid ""
+"穏やかなテント内の空気から一転\n"
+"どんどん静かで不気味な雰囲気に変化していき、\n"
+"ショーイベントで狂気をぶつけてくる…"
+msgstr ""
+"The calm air inside the tent suddenly changes\n"
+"into a quiet and eerie atmosphere,\n"
+"and the show event hits you with madness..."
+
+#. ID 105, Page 1, Line 59, Pos (38,61)
+msgid ""
+"最初のエリアとイベントとのギャップで\n"
+"プレイヤーの精神をぶっ壊しにかかってくるところが\n"
+"とても大好きです。"
+msgstr ""
+"I love the part where the gap between the\n"
+"first area and the event starts to break\n"
+"the player's mind, and it's coming to destroy it."
+
+#. ID 105, Page 1, Line 62, Pos (38,61)
+msgid ""
+"『冥府』世界も好きです。\n"
+"不気味さと可愛らしさを併せ持ったキャラデザや\n"
+"不思議と居心地がいい和ホラーな雰囲気がたまらない。"
+msgstr ""
+"I also like \"Netherworld\".\n"
+"The character design that combines eeriness and cuteness,\n"
+"and the mysteriously cozy Japanese horror atmosphere are irresistible."
+
+#. ID 105, Page 1, Line 65, Pos (38,61)
+msgid ""
+"これ以上話すと長くなりそうなので\n"
+"この話はこの辺で……"
+msgstr ""
+"It seems like it's going to get long if I keep talking,\n"
+"so I'll end this story here..."
+
+#. ID 105, Page 1, Line 71, Pos (38,61)
+msgid "ﾜｰｵ!"
+msgstr "Waow!"
+
+#. ID 105, Page 2, Line 1, Pos (38,61)
+msgid "デバッグお疲れ様です、natlです。"
+msgstr "Thank you for debugging, I'm natl."
+
+#. ID 105, Page 2, Line 2, Pos (38,61)
+msgid ""
+"夢住民達の文化や食生活が\n"
+"気になって仕方がないこの頃です。"
+msgstr ""
+"I'm really curious about the culture and\n"
+"eating habits of the dream residents these days."
+
+#. ID 106, Page 1, Line 2, Pos (39,53)
+msgid ""
+"2i9\n"
+"　ゆめ２っきを楽しんでいただけたなら、\n"
+"　私にとってこれ以上の喜びはありません！"
+msgstr ""
+"2i9\n"
+"  If you enjoyed Yume 2kki,\n"
+"  there is no greater joy for me!"
+
+#. ID 106, Page 1, Line 5, Pos (39,53)
+msgid ""
+"2i9\n"
+"　嬉しくて爆発する！ああもう！"
+msgstr ""
+"2i9\n"
+"  I'm so happy I could explode! Ah, geez!"
+
+#. ID 106, Page 1, Line 21, Pos (39,53)
+msgid ""
+"2i9\n"
+"　この瞬間が一番、生きてるって感じ。"
+msgstr ""
+"2i9\n"
+"  This moment is the most alive I've ever felt."
+
+#. ID 107, Page 1, Line 7, Pos (79,84)
+msgid ""
+"こんにちは！\n"
+"マップや曲を提供しているRioです。"
+msgstr ""
+"Hello!\n"
+"I'm Rio, providing maps and music."
+
+#. ID 107, Page 1, Line 9, Pos (79,84)
+msgid ""
+"日本語は得意ではないので、\n"
+"この文章は親しい人に翻訳を手伝ってもらいました。\n"
+"上手く伝わってるかな。"
+msgstr ""
+"I'm not good at Japanese,\n"
+"so I had a close friend help me translate this text.\n"
+"I wonder if it's coming across well."
+
+#. ID 107, Page 1, Line 13, Pos (79,84)
+#. Contains choice at line 2 (3 options)
+msgid "聞きたいことはある？"
+msgstr "Do you have any questions?"
+
+#. ID 107, Page 1, Line 14, Pos (79,84)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"どうやって制作に参加したの？\n"
+"ゆめ２っきを知ったのはいつから？\n"
+"もう行くね。"
+msgstr ""
+"How did you get involved in the project?\n"
+"When did you first learn about Yume 2kki?\n"
+"Bye."
+
+#. ID 107, Page 1, Line 16, Pos (79,84)
+msgid ""
+"色んな人に支えられて制作に参加できました。\n"
+"本当に感謝しています！"
+msgstr ""
+"I was able to participate in the project with the support of many people.\n"
+"I'm truly grateful!"
+
+#. ID 107, Page 1, Line 18, Pos (79,84)
+msgid ""
+"欧米の人たちをはじめ、\n"
+"shigurin氏、2i9氏、qxy氏も手伝ってくれました。\n"
+"ありがとうございます<3"
+msgstr ""
+"Many people from Europe and the United States,\n"
+"as well as shigurin, 2i9, and qxy, helped me.\n"
+"Thank you <3"
+
+#. ID 107, Page 1, Line 21, Pos (79,84)
+msgid ""
+"もっとお話したいけど、言語の壁もあるし、\n"
+"コミュニケーションは難しいね……"
+msgstr ""
+"I'd like to talk more, but there's also a language barrier,\n"
+"so communication is difficult..."
+
+#. ID 107, Page 1, Line 25, Pos (79,84)
+msgid ""
+"2013年頃からゆめ２っきのことは知っていました。\n"
+"当時は遊び方が分かりませんでした。\n"
+"でも、動画を見てとても感動しました。"
+msgstr ""
+"I've known about Yume 2kki since around 2013.\n"
+"At that time, I didn't know how to play it.\n"
+"But I was very moved when I watched the videos."
+
+#. ID 107, Page 1, Line 28, Pos (79,84)
+msgid ""
+"2018年頃、やっとプレイできるようになって、\n"
+"しばらくずっと、毎日夢中で遊んでいました。"
+msgstr ""
+"Finally, around 2018, I was able to play it,\n"
+"and I was hooked on playing it every day for a while."
+
+#. ID 107, Page 1, Line 30, Pos (79,84)
+msgid ""
+"今、こうして皆さんにも幸せをお届けできて、\n"
+"とても嬉しいです！"
+msgstr ""
+"Now, I'm very happy to be able to bring happiness to everyone like this!"
+
+#. ID 107, Page 1, Line 34, Pos (79,84)
+msgid "それじゃ、またね。がおぉー！"
+msgstr "Well then, see you later. Rawr!"
+
+#. ID 110, Page 1, Line 6, Pos (53,31)
+msgid ""
+"ひそっと、ぷにっと、おじゃまっぷ。v(0 0)v\n"
+"どうも、maptsuki(まっぷつき)でございまっぷ。\n"
+"はじめまして？ それとも、お世話になっております？\n"
+"（次、話題についての選択肢が出ます）"
+msgstr ""
+"Quietly, sneakily, hello there. v(0 0)v\n"
+"Hi, I'm maptsuki.\n"
+"Nice to meet you? Or have we met before?\n"
+"(Next, there will be choices about the topic.)"
+
+#. ID 110, Page 1, Line 11, Pos (53,31)
+#. Choice (4 options)
+msgid ""
+"何をされている方なの？\n"
+"maptsuki更新の歩み\n"
+"プチらんだむ雑談ガチャ(全24種)\n"
+"さようなら～"
+msgstr ""
+"What do you do?\n"
+"maptsuki's update history\n"
+"Small random chat gacha (24 types in total)\n"
+"Goodbye~"
+
+#. ID 110, Page 1, Line 13, Pos (53,31)
+msgid ""
+"しがない夢先案内人、maptsuki(まっぷつき)です。\n"
+"私は2019年にver0.110aの更新で制作に参加しました。\n"
+"マップ以外にも、PC壁紙やパズル絵柄も描いており、\n"
+"いくつかゲーム内に実装してもらいました。感謝。"
+msgstr ""
+"I'm just a humble dream guide, maptsuki.\n"
+"I joined the project with the update to ver0.110a in 2019.\n"
+"In addition to maps, I've also drawn PC wallpapers and puzzle patterns,\n"
+"and some of them have been implemented in the game. Thank you."
+
+#. ID 110, Page 1, Line 17, Pos (53,31)
+msgid ""
+"実は制作以外の面でも、ゆめ２っきに関わっていて…\n"
+"マップ紹介やちょっとした企画など活発に行っていた\n"
+"頃もありました。最近は、特に２っき動画や生配信の\n"
+"視聴・参加が好きで、広くアンテナを張っています。"
+msgstr ""
+"In fact, I've been involved in Yume 2kki in ways other than creating...\n"
+"There was a time when I was actively involved in map showcases and small projects.\n"
+"Lately, I've been particularly fond of watching and participating in 2kki videos and live streams,\n"
+"and I've been casting a wide net."
+
+#. ID 110, Page 1, Line 21, Pos (53,31)
+msgid ""
+"豊富な収集要素のコンプリートを目指すもよし。\n"
+"お気に入りの世界を見つけて入り浸るもよし。\n"
+"様々な楽しみ方ができる「ゆめ２っき」という作品が\n"
+"今後も発展していけばいいなぁと切に願っています。"
+msgstr ""
+"It's fine to be a completionist.\n"
+"It's fine to find your favorite world and immerse yourself in it.\n"
+"I sincerely hope that the work called \"Yume 2kki,\" which can be enjoyed in various ways,\n"
+"will continue to evolve in the future."
+
+
+#. ID 110, Page 1, Line 25, Pos (53,31)
+msgid ""
+"一応ツクラーではありますが、主にプレイヤーとして\n"
+"２っきを楽しんでいる面が強いです。見かけた時には\n"
+"どうぞよろしくお願いします。かしこ。\n"
+"　　　　　　　　　　　　　          2023/09/20 記"
+msgstr ""
+"I'm technically a creator, but I'm mainly a player\n"
+"who enjoys 2kki. I look forward to meeting you\n"
+"in the dreams. Thank you.\n"
+"                                 2023/09/20 Signed"
+
+#. ID 110, Page 1, Line 32, Pos (53,31)
+msgid ""
+"ここでは備忘を兼ねまして、maptsukiが更新したverと\n"
+"その更新日、主な更新内容について紹介していきます。\n"
+"（パッチによる更新は割愛）\n"
+"一緒に私の更新の歩みを振り返ってみましょう。"
+msgstr ""
+"Here, I'll introduce the versions that I've updated,\n"
+"the update dates, and the main updates as a memo.\n"
+"(Updates by patch are omitted)\n"
+"Let's look back on my update history together."
+
+
+#. ID 110, Page 1, Line 36, Pos (53,31)
+msgid ""
+"2019/11/02　ver0.110a\n"
+"ver0.110→ver0.110aがmaptsukiの初更新でした。\n"
+"この後の自世界の中心拠点となる《夢想公園》、\n"
+"そして《夢卓》《虚騒》《風化祠》を追加しました。"
+msgstr ""
+"2019/11/02　ver0.110a\n"
+"ver0.110→ver0.110a was maptsuki's first update.\n"
+"I added the \"Dream Park,\" which would become the central base of my own world,\n"
+"as well as \"Treetops Area,\" \"Shadowy Caves,\" and \"Guardians' Temple.\""
+
+#. ID 110, Page 1, Line 40, Pos (53,31)
+msgid ""
+"2020/01/04　ver0.110i\n"
+"《隠墟祠》を追加しました。(MAP到達率に影響ナシ)\n"
+"この更新で、《風化祠》で見られるあるイベントが\n"
+"一度きりのものではなくなりました。"
+msgstr ""
+"2020/01/04　ver0.110i\n"
+"I added the \"Hidden Shrine.\" (Does not affect map completion rate)\n"
+
+#. ID 110, Page 1, Line 44, Pos (53,31)
+msgid ""
+"2021/02/14　ver0.115c\n"
+"ぷに変身(いわゆる「お面」)イベントを追加しました。\n"
+"オンラインゆめ２っきでは、今もたまに変身している\n"
+"プレイヤーさんを見かけますね。(0 0)←こういうの。"
+msgstr ""
+"2021/02/14　ver0.115c\n"
+"I added the Puni transformation event (the so-called \"mask\").\n"
+"In online Yume 2kki, I still occasionally see players\n"
+"who have transformed. (0 0)←Like this."
+
+#. ID 110, Page 1, Line 48, Pos (53,31)
+msgid ""
+"2021/03/21　ver0.115g\n"
+"《オメデ塔》《オヤスミナ賽》《サヨウ奈落》、\n"
+"そして《ムソウ結界》《起床点》を追加しました。\n"
+"(《起床点》はMAP到達率に影響ナシ)"
+msgstr ""
+"2021/03/21　ver0.115g\n"
+"I added \"Birthday Tower,\" \"Dice World,\" \"Abyss of Farewells,\" and\n"
+"\"Guardians' Realm\" and \"Sacred Crypt.\"\n"
+"(\"Sacred Crypt\" does not affect map completion rate)"
+
+#. ID 110, Page 1, Line 52, Pos (53,31)
+msgid ""
+"2022/06/21　ver0.119\n"
+"《文霧》《音呼鋸》《バターレイン》《クスリマス》、\n"
+"そして《六層ターミナル》を追加しました。\n"
+"上4つと《六層ターミナル》を全て開通できましたか？"
+msgstr ""
+"2022/06/21　ver0.119\n"
+"I added \"Cipher Fog World,\" \"Sound Saws World,\" \"Butter Rain World,\" and \"Sherbet Snowfield.\"\n"
+"And I expanded \"Sixth Terminal.\"\n"
+"Have you visited all of the above and the \"Sixth Terminal\"?"
+
+#. ID 110, Page 1, Line 56, Pos (53,31)
+msgid ""
+"2023/09/20　ver0.121a\n"
+"《成済》を追加、《六層ターミナル》を拡張しました。\n"
+"そしてメニュータイプを初めて実装してみました。\n"
+"もし手に入れられたら使ってみてください～ (0 0)"
+msgstr ""
+"2023/09/20　ver0.121a\n"
+"I added \"False Guardians' Trials\" and expanded \"Sixth Terminal.\"\n"
+"And I tried implementing a menu type for the first time.\n"
+"If you get your hands on it, please try it~ (0 0)"
+
+#. ID 110, Page 1, Line 60, Pos (53,31)
+msgid ""
+"現時点では、更新内容は以上となります。\n"
+"世界名については「ゆめ２っきを楽しむwiki」から。\n"
+"難所もありますが、全ての世界を訪問できましたか？\n"
+"　　　　　　　　　　　　　　　　　　2023/09/20 記"
+msgstr ""
+"At this point, that's all for the updates.\n"
+"For the world names, please refer to the wiki.\n"
+"There are hard-to-reach places, but have you visited all of them?\n"
+"                                 2023/09/20 Signed"
+
+#. ID 110, Page 1, Line 76, Pos (53,31)
+msgid ""
+"エンドコンテンツと言われがちな件も語りたいところ\n"
+"ですが、それはこねて まるめて おいといて。\n"
+"地図があって助かる～ という声をしばしば聞きます。\n"
+"リアルでも広めの公園は迷うので地図が欲しくなる…"
+msgstr ""
+"I want to talk about how my worlds are often called endgame content,\n"
+"but I'll leave that for later.\n"
+"I often hear people say, \"I'm glad there's a map.\"\n"
+"Even in real life, when you get lost in a large park, you want a map..."
+
+#. ID 110, Page 1, Line 90, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　-Tips:《夢想公園》(中央)に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"         -Tips: Reach the \"Dream Park\" (center)-"
+
+#. ID 110, Page 1, Line 106, Pos (53,31)
+msgid ""
+"てんたかく そびえたつくえ ながめよき\n"
+"条件付きでぷにに変身できるスポットでもあります。\n"
+"↑公園周辺と他の世界とをたくさん開通させている\n"
+"ことを示すステータスにもなるみたいですよ。"
+msgstr ""
+"Look at the towering desk in the sky.\n"
+"It's also a spot where you can transform into a Puni under certain conditions.\n"
+"It seems to be a status that indicates that you've opened up\n"
+"a lot of areas around the park and other worlds."
+
+#. ID 110, Page 1, Line 120, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　　　　-Tips:《夢卓》に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　　　　　　-Tips: Reach the \"Treetops Area\"-"
+
+#. ID 110, Page 1, Line 137, Pos (53,31)
+msgid ""
+"から騒ぎ：\n"
+"たいしたことではないのに、やたらに騒ぎたてること。\n"
+"また、騒いだわりに実りのないこと。"
+msgstr ""
+"Making a mountain out of a molehill:\n"
+"Making a fuss about something that isn't a big deal.\n"
+"Also, making a fuss about something for no gain."
+
+#. ID 110, Page 1, Line 150, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　　　　-Tips:《虚騒》に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　　　　　　-Tips: Reach the \"Shadowy Caves\"-"
+
+#. ID 110, Page 1, Line 167, Pos (53,31)
+msgid ""
+"【風化祠】\n"
+"当時、何を思い「風化」という言葉を選び使ったのか。\n"
+"そんな私の記憶は、だんだんと風化していきました。\n"
+"実際、由来が不明瞭で名前だけ残る地名も多いのでは？"
+msgstr ""
+"\"Guardians' Temple\"\n"
+"Why did I choose the word \"weathered\" at the time?\n"
+"Such memories of mine have gradually weathered away.\n"
+"In fact, there are many place names with unclear origins"
+
+#. ID 110, Page 1, Line 181, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　-Tips:《風化祠》に到達する(仕様で再訪問が必要)-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　-Tips: Reach the \"Guardians' Temple\" again-"
+
+#. ID 110, Page 1, Line 197, Pos (53,31)
+msgid ""
+"なんと、この雑談が解放済みとは…！相当やりこみ？\n"
+"結構なMAP数を使った隠し的な世界です。当時は、先の\n"
+"更新を特に考えていなかったので、予約分を贅沢に。\n"
+"何とかしたいとも、あえてこのままでいいかなとも。"
+msgstr ""
+"Wow, all topics are already unlocked...! Aren't you the completionist?\n"
+"It's a kinda-hidden world that uses quite a few map slots. At the time,\n"
+"I didn't have any particular plans for the next update, so I went overboard.\n"
+"I wonder if I should do something about it, or if it's fine as it is."
+
+#. ID 110, Page 1, Line 211, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　-Tips:《隠墟祠》に到達する(仕様で再訪問が必要)-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　-Tips: Reach the \"Hidden Shrine\" again-"
+
+#. ID 110, Page 1, Line 228, Pos (53,31)
+msgid ""
+"おめでとう:\n"
+"めでたい出来事があったときに使うあいさつの言葉。\n"
+"お誕生日なんかにひとこと。-Happy birthday-"
+msgstr ""
+"Congratulations:\n"
+"A greeting used when something happy happens.\n"
+"Say it on someone's birthday. -Happy birthday-"
+
+#. ID 110, Page 1, Line 241, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　-Tips:《オメデ塔》(頂上)に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　-Tips: Reach the \"Birthday Tower\" (top)-"
+
+#. ID 110, Page 1, Line 258, Pos (53,31)
+msgid ""
+"おやすみなさい：\n"
+"就寝のときや、夜に別れるときに使うあいさつの言葉。\n"
+"おつかれさま：\n"
+"相手の労をねぎらうあいさつの言葉。"
+msgstr ""
+"Good night:\n"
+"A greeting used when going to bed or parting at night.\n"
+"Good job:\n"
+"A greeting to commend someone's efforts."
+
+#. ID 110, Page 1, Line 272, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　 -Tips:《オヤスミナ賽》(3の目の奥)に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　 -Tips: Reach the \"Dice World\" (behind the third eye)-"
+
+#. ID 110, Page 1, Line 289, Pos (53,31)
+msgid ""
+"さようなら：\n"
+"別れのときに使うあいさつの言葉。\n"
+"またいつか：\n"
+"機会があればまた…と意味を込めたあいさつの言葉。"
+msgstr ""
+"Goodbye:\n"
+"A greeting used when parting.\n"
+"Until then:\n"
+"A greeting that means \"until then, when there's another chance...\""
+
+#. ID 110, Page 1, Line 303, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　-Tips:《サヨウ奈落》(最深層)に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　-Tips: Reach the \"Abyss of Farewells\" (deepest floor)-"
+
+#. ID 110, Page 1, Line 344, Pos (53,31)
+msgid ""
+"【ムソウ結界】\n"
+"間取りが同じであっても、居着くモノが全く異なれば、\n"
+"その空間の個性も違って現れるのではないでしょうか。\n"
+"そして、\"無\"から\"夢\"へ。\"喪\"から\"想\"へ。"
+msgstr ""
+"\"Guardians' Realm\"\n"
+"Even if the layout is the same, if the things that\n"
+"settled there are completely different, the charac-\n"
+"ter of that space will also be different, won't it?\n"
+"From \"void\" to \"dream.\" From \"loss\" to \"thought.\""
+
+#. ID 110, Page 1, Line 358, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　-Tips:《ムソウ結界》(奥)に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　-Tips: Reach the \"Guardians' Realm\" (inner)-"
+
+#. ID 110, Page 1, Line 375, Pos (53,31)
+msgid ""
+"なんと、この雑談が解放済みとは…！相当やりこみ？\n"
+"楽しむwikiでは《起床点》となっていますが、\n"
+"内部の話に触れると「起床点:結」と名付けています。\n"
+"由来とかは……別に言わなくてもいいですよね？"
+msgstr ""
+"Wow, all topics are already unlocked...! Aren't you the completionist?\n"
+"On the wiki, it's called \"Waking Point,\" but\n"
+"when we're takling about the inside, we call it \"Waking Point: End.\"\n"
+"I don't need to tell you the origin or anything, right?\n"
+
+#. ID 110, Page 1, Line 389, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"-Tips:《起床点》でイベント(仕様で再訪問が必要)-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"       -Tips: See event at \"Sacred Crypt\" again-"
+
+#. ID 110, Page 1, Line 406, Pos (53,31)
+msgid ""
+"【六層ターミナル】:むそうでむそうのターミナル。\n"
+"一層から六層までを移動できますが分かりにくい？\n"
+"ところで「六」は「八」に蓋をしたようなカンジ。\n"
+"蓋されてるだけで、八層くらいまであるのかな…？"
+msgstr ""
+"\"Sixth Terminal\": A terminal of dreams within dreams.\n"
+"You can move from the first floor to the sixth floor, but is it hard to understand?\n"
+"By the way, the character for \"six\" (六) looks like it has a lid on it.\n"
+"Just because it's covered, does that mean there are about eight (八) floors...?"
+
+#. ID 110, Page 1, Line 421, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　-Tips:《六層ターミナル》に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　-Tips: Reach the \"Sixth Terminal\"-"
+
+#. ID 110, Page 1, Line 437, Pos (53,31)
+msgid ""
+"【文霧】:言葉遊びが好きなわたしです。\n"
+"実装初期から若干視界良好になった過去があります。\n"
+"コメントが画面内を流れるやつ。あれ面白いですよね。\n"
+"なんか職人？とかいますよね。"
+msgstr ""
+"\"Cipher Fog World\": I'm someone who likes wordplay.\n"
+"It's known to have improved slightly in visibility since initial implementation.\n"
+"The comments that flow across the screen. That's interesting, isn't it?\n"
+"Like, are these regulars? or something."
+
+#. ID 110, Page 1, Line 451, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　　　　-Tips:《文霧》に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　　　　　　-Tips: Reach the \"Cipher Fog World\"-"
+
+#. ID 110, Page 1, Line 467, Pos (53,31)
+# TODO
+msgid ""
+"【音呼鋸】:言葉遊びが好きなわたしです。\n"
+"鳥のインコは「音呼」という書き方があるようですね。\n"
+"この雑談を引けたということで、1つ覚えて帰ってね。\n"
+"ただ、そのことを全く知らずに世界名は生まれました。"
+msgstr ""
+
+#. ID 110, Page 1, Line 481, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　　　-Tips:《音呼鋸》に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　　　　　-Tips: Reach the \"Sound Saws World\"-"
+
+#. ID 110, Page 1, Line 499, Pos (53,31)
+msgid ""
+"【バターレイン】:言葉遊びが好きなわたしです。\n"
+"降る雨が ぜ～んぶ～♪\n"
+"溶けてるバターなら～ いいのにね♪\n"
+"…わぁ、ベッタベタじゃぁ？！"
+msgstr ""
+"\"Butter Rain World\": I'm someone who likes wordplay.\n"
+"Only if all the rain~♪\n"
+"If it were melting butter~ it would be nice~♪\n"
+"...Wow, that's really buttery, isn't it?!"
+
+#. ID 110, Page 1, Line 515, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　-Tips:《バターレイン》に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　　-Tips: Reach the \"Butter Rain World\"-"
+
+#. ID 110, Page 1, Line 533, Pos (53,31)
+msgid ""
+"【クスリマス】:言葉遊びが好きなわたしです。\n"
+"降る雪が ぜ～んぶ～♪\n"
+"粉のおクスリなら～ いいのにね♪\n"
+"…風邪のときでも困りますよね"
+msgstr ""
+"\"Sherbet Snowfield\": I'm someone who likes wordplay.\n"
+"Only if all the snow~♪\n"
+"If it were powdered medicine~ it would be nice~♪\n"
+"...It's troublesome even when you have a cold, isn't it?"
+
+#. ID 110, Page 1, Line 549, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　-Tips:《クスリマス》に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　　　-Tips: Reach the \"Sherbet Snowfield\"-"
+
+#. ID 110, Page 1, Line 566, Pos (53,31)
+msgid ""
+"成り済ます:\n"
+"すっかりあるものに成り切る。\n"
+"本当にそのものであるようなふりをする。\n"
+"成り済まし：他人のふりをして活動する行為のこと。"
+msgstr ""
+"Masquerade:\n"
+"To completely become something.\n"
+"To pretend to be something as if you really are that thing.\n"
+"Masquerading: The act of pretending to be someone else."
+
+#. ID 110, Page 1, Line 580, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　　-Tips:《成済》(奥)に到達する-"
+msgstr ""
+"Looks like you drew a random chat that hasn't been unlocked yet.\n"
+"You'll be able to read it by meeting the conditions.\n"
+"I hope you'll be able to draw it again after it's unlocked.\n"
+"　　　　　　　　　　-Tips: Reach the \"False Guardians' Trials\" (inner)-"
+
+#. ID 110, Page 1, Line 589, Pos (53,31)
+msgid ""
+"《夢想公園》には、2種類の固有自販機があります。\n"
+"中央＆東西南北・《夢卓》に到達で商品解禁です。\n"
+"黄緑色の自販機が1回150夢。ラインナップは全11種。\n"
+"青色の自販機が1回300夢。ラインナップは全14種。"
+msgstr ""
+"\"Dream Park\" has two unique vending machines.\n"
+"Reaching the center & the cardinal directions and the \"Treetops Area\" unlocks the products.\n"
+"The light green vending machine costs 150夢 per use. The lineup consists of 11 items.\n"
+"The blue vending machine costs 300夢 per use. The lineup consists of 14 items."
+
+#. ID 110, Page 1, Line 596, Pos (53,31)
+msgid ""
+"桃色のぷにを見たことはあるでしょうか？(0 0)\n"
+"何ヵ所かで会えるようですが、レアっぽいです。\n"
+"《夢想公園》地下の《虚騒》には常駐しているとか？\n"
+"出会えたら、いいことあるんじゃないかと思います。"
+msgstr ""
+"Have you ever seen a pink Puni? (0 0) You can see\n"
+"them in several places, but they are rare. They\n"
+"might be in Shadowy Caves in Dream Park\n"
+"If you meet them, good things might happen to you."
+
+#. ID 110, Page 1, Line 603, Pos (53,31)
+msgid ""
+"YNO…オンライン版がどんどん発展してきていますね。\n"
+"DL不要なのと、独自のやりこみ・便利要素が大きい？\n"
+"当初は若干抵抗があったものですが、今ではすっかり\n"
+"楽しんでいます。今後の発展やいかに。2023.09.20 記"
+msgstr ""
+"YNO... The online version is developing rapidly.\n"
+"It is because no downloads are needed, and it has"
+"unique completion and convenience features?\n"
+"I was a little resistant at first, but now I'm really enjoying it.\n"
+"I wonder how it will develop in the future. 2023/09/20 Signed"
+
+#. ID 110, Page 1, Line 610, Pos (53,31)
+msgid ""
+"みなさんは、好きな色はあるでしょうか？\n"
+"私は紫色が好きです。特に小紫や紫紺など少し暗めの。\n"
+"高貴な感じもあれば、神秘的な感じもあって、\n"
+"深みのあるイメージが非常によいですね。"
+msgstr ""
+"Do you all have a favorite color?\n"
+"I like purple. Especially light purple and dark purple.\n"
+"It has a noble feeling, a mysterious feeling, and a deep image.\n"
+"It's a very good color."
+
+#. ID 110, Page 1, Line 617, Pos (53,31)
+msgid ""
+"もしかしてあなたは、ゆめ２っき配信されています？\n"
+"そうであれば、ここに辿り着くまでに一度くらいは\n"
+"お会いしている可能性が高いと思うのですが、いかが\n"
+"でしょう？「No」なら私のサーチ力、まだまだですね。"
+msgstr ""
+"Might you be streaming Yume 2kki? If so, there's a\n"
+"high chance we've met at least once. How about it?\n"
+"If \"No,\" my Google-fu still has a long way to go."
+
+#. ID 110, Page 1, Line 624, Pos (53,31)
+msgid ""
+"《夢想公園》付近…オハ洋,アリガ島 周辺にて、\n"
+"紫色の何らかを目撃したとの情報が入ってきました。\n"
+"ただ、これらがどこにあるのか分からないのですが。\n"
+"- これ以上の詳細不明　Details Unknown -"
+msgstr ""
+"Near the \"Dream Park\"... around the \"Morrow Ocean\" and \"Gratitude Island,\"\n"
+"there have been reports of sightings of something purple.\n"
+"However, it's unknown where these are.\n"
+"- Details Unknown -"
+
+#. ID 110, Page 1, Line 631, Pos (53,31)
+msgid ""
+"《夢想公園》付近…タダイ山,オカエ川 周辺にて、\n"
+"紫色の何らかを目撃したとの情報が入ってきました。\n"
+"ただ、これらがどこにあるのか分からないのですが。\n"
+"- これ以上の詳細不明　Details Unknown -"
+msgstr ""
+"Near the \"Dream Park\"... around the \"Mount Present\" and \"Return River,\"\n"
+"there have been reports of sightings of something purple.\n"
+"However, it's unknown where these are.\n"
+"- Details Unknown -"
+
+#. ID 110, Page 1, Line 638, Pos (53,31)
+msgid ""
+"《夢想公園》付近…ダイッキ雷雲,ナカナ檻 周辺にて、\n"
+"紫色の何らかを目撃したとの情報が入ってきました。\n"
+"ただ、これらがどこにあるのか分からないのですが。\n"
+"- これ以上の詳細不明　Details Unknown -"
+msgstr ""
+"Near the \"Dream Park\"... around the \"Scornful Thunderclouds\" and \"Median Cage,\"\n"
+"there have been reports of sightings of something purple.\n"
+"However, it's unknown where these are.\n"
+"- Details Unknown -"
+
+#. ID 110, Page 1, Line 647, Pos (53,31)
+msgid ""
+"話しかけてくれてどうもありがとう！\n"
+"今後も良いゆめ２っきライフをお楽しみください～\n"
+"\n"
+"それでは…… い い ゆ め み て ね"
+msgstr ""
+"Thank you for talking to me!\n"
+"Please continue to enjoy your Yume 2kki life~\n"
+"\n"
+"Well then... S w e e t  d r e a m s"
+
+#. ID 111, Page 1, Line 3, Pos (30,86)
+msgid ""
+"こんにちは、\\.\\.こんばんは！\\.\\.\n"
+"もんもんです！\\.\\.\\.…じゃなくて「やわらか」と申します。\n"
+"もんもんの姿をお借りしまして、失礼致します。\\!\n"
+"もんもん大好き！(ξっ´ω`c)ﾓﾌﾓﾝ!"
+msgstr ""
+"Hello, \\.\\.good evening! \\.\\.\n"
+"I'm Monmon! \\.\\.\\....No, I'm \"Yawaraka.\"\n"
+"I'm borrowing Monmon's appearance, so I apologize.\\!\n"
+"I love Monmon! (ξっ´ω`c)ﾓﾌﾓﾝ!"
+
+#. ID 111, Page 1, Line 7, Pos (30,86)
+msgid ""
+"ここにいらっしゃるという事は、\n"
+"ゆめ２っきを相当やり込んでいるという証拠！\\!\n"
+"ゲームをやり込むのって良いよね(ξっ´ω`c)ﾓﾌ ｹﾞ-ﾑ"
+msgstr ""
+"Being here is proof that\n"
+"you're quite deep into Yume 2kki!\\!\n"
+"Isn't it great to be a completionist?\n"
+"(ξっ´ω`c)ﾓﾌ ｹﾞ-ﾑ"
+
+#. ID 111, Page 1, Line 10, Pos (30,86)
+msgid ""
+"生放送を通してゆめ２っきをプレイしている内に\n"
+"色々な方とお会いして話をしていく傍ら、\n"
+"「音職人の部屋が非常に寂しい。」という会話になり、\n"
+"此処に設置をお願いしようかな…？と思ったんです。"
+msgstr ""
+"By live-streaming Yume 2kki, I've met various folks\n"
+"and one of the conversions we had was, \"the sound\n"
+"staff room is very lonely.\" I thought, \"Should I\n"
+"put myself in there too...?\""
+
+#. ID 111, Page 1, Line 14, Pos (30,86)
+msgid ""
+"「設置をお願いしよう。」と感じたキッカケとしては、\n"
+"プレイヤーの方々は基本的にマップ更新を期待している\n"
+"と思います。\\!なので、自身がこの為だけに更新をする\n"
+"となると、落胆させてしまうという懸念が強い…と。"
+msgstr ""
+"What led me to do that, is that fundamentally\n"
+"players only look forward to map updates. \\!If I\n"
+"only updated just to put myself in the game, it\n"
+"would cause a lot of disappointment... or such."
+
+#. ID 111, Page 1, Line 18, Pos (30,86)
+msgid ""
+"そう思ったのでこの部屋への配置に関しましては、\n"
+"「ナビサエ」さんの更新時にお願いする事にしました。\n"
+"この場を借りまして、改めて感謝(ξっ´ω`c)ﾓﾌｻｴ ｻﾝ\n"
+"ありがとうございます！"
+msgstr ""
+"So, regarding my place in this room, I decided to\n"
+"ask \"Nabisae\" when they updated. I'd like to\n"
+"take this opportunity to express my gratitude\n"
+"again. Thank you! (ξっ´ω`c)ﾓﾌｻｴ ｻﾝ"
+
+#. ID 111, Page 1, Line 22, Pos (30,86)
+msgid ""
+"話を音楽面の方に移行しまして提供BGMなのですが、\n"
+"実は思い切って一気に100曲も作ってUPしていました。\\!\n"
+"少しだと物足りないかもと思ってしまった結果でして、\n"
+"自身の悪いクセ(良いクセ…？)が出ていますね……。"
+msgstr ""
+"Moving to the topic of music, the BGM I provided,\n"
+"I actually made 100 songs at once and uploaded\n"
+"them.\\! I thought it might be a little unsatisfy-\n"
+"ing, so my bad habit (good habit...?) is showing..."
+
+#. ID 111, Page 1, Line 27, Pos (30,86)
+msgid ""
+"過去の更新を確認してみたのですが、\n"
+"どうやら最初に採用して頂けたのはこのBGMでした！\n"
+"spelude(幻想)さんの《srom》(「生命の樹」エリア緑)\n"
+"で流れるBGMですね。"
+msgstr ""
+"I checked the past updates and it seems that\n"
+"the first one that was adopted was this BGM!\n"
+"It's the BGM that plays in spelude's \"Blood Cell\n"
+"Sea\" (\"Tree of Life\" area, green)."
+
+#. ID 111, Page 1, Line 33, Pos (30,86)
+msgid ""
+"ちなみに元々の音は高さはこのようになっています。\\!\n"
+"ある程度、高めでした。"
+msgstr ""
+"By the way, the original sound was this high.\\!\n"
+"It was somewhat high."
+
+#. ID 111, Page 1, Line 35, Pos (30,86)
+msgid ""
+"作曲の際はうろつきさんの各エフェクトの姿を見つつ\n"
+"作っていたのですが、このBGMの他の構成案としては\n"
+"「安全に暮らせる明るい宇宙があったら……。」という\n"
+"イメージも同時に浮かべて作曲してみたBGMとなります。"
+msgstr ""
+"When composing, I made it while looking at\n"
+"Urotsuki's various effects. As for other\n"
+"compositions for this BGM, I composed it while ima-\n"
+"gining \"If there was a bright universe where you\n"
+"could live safely...\""
+
+#. ID 111, Page 1, Line 39, Pos (30,86)
+msgid ""
+"他に採用して頂けたBGMに関しましては……。\\.\\.\\.\\.\\.\n"
+"あまり話が長くなりすぎると良くないので、\n"
+"自身の話はこの辺にしておこうと思います…！\n"
+"(SR分室でファイル名を確認出来るの優しいですよね。)"
+msgstr ""
+"As for the other BGM that was adopted...\\.\\.\\.\\.\\. It's not\n"
+"good if the conversation gets too long, so I'll\n"
+"wrap up my story here...!\n"
+"(It's nice you can check file names in the SR.)"
+
+#. ID 111, Page 1, Line 45, Pos (30,86)
+msgid ""
+"お話を聴いて頂き、ありがとうございました。\n"
+"今後もゆめ２っきで沢山モフモフ！(ξっ´ω`c)ﾓﾌﾓﾌ\\!\n"
+"\n"
+"それでは、今後も良いゆめ２っきライフを！"
+msgstr ""
+"Thank you for listening to my story.\n"
+"Let's have lots of fun in Yume 2kki! (ξっ´ω`c)ﾓﾌﾓﾌ\\!\n"
+"\n"
+"Well then, have a good Yume 2kki life!"
+
+#. ID 112, Page 1, Line 1, Pos (43,31)
+msgid ""
+"spelude\n"
+"こんにちは。\n"
+"こっちの私は、その他のあれこれを話します。\n"
+"ほとんど雑談というか、個人の呟きやポエムですね。"
+msgstr ""
+"spelude\n"
+"Hello.\n"
+"I'll talk about other things here.\n"
+"It's mostly random chatter, personal musings, or poems."
+
+#. ID 112, Page 1, Line 6, Pos (43,31)
+msgid ""
+"0～14までの番号を入力してください。\n"
+"それに応じて色々話します。"
+msgstr ""
+"Please enter a number from 0 to 14.\n"
+"I'll talk about various things based on that."
+
+#. ID 112, Page 1, Line 10, Pos (43,31)
+msgid ""
+"私もマップも浮き沈みが激しいので、\n"
+"マップの行き方がよく変わったりします\n"
+"常に試行錯誤中"
+msgstr ""
+"Both the map and I have a lot of ups and downs,\n"
+"so the way the map goes often changes.\n"
+"I'm always experimenting."
+
+#. ID 112, Page 1, Line 16, Pos (43,31)
+msgid ""
+"運は偏りがち\n"
+"夢見荘にUFOが何度も来たり、雨の森に雨が降ったり…\n"
+"そのせいか、タコ風船には好かれていない模様"
+msgstr ""
+"Luck tends to be biased.\n"
+"UFOs come to the Apartments many times, and it\n"
+"rains in the Blue Forest...\n"
+"Maybe that's why I'm not liked by the Takofuusen."
+
+#. ID 112, Page 1, Line 22, Pos (43,31)
+msgid ""
+"私はその時によって言う事がころころ変わるので、\n"
+"考察してもまた違う考察が思い浮かぶのです\n"
+"もし私の作る世界に何かを見出したなら\n"
+"それは貴方の導きだした答えです"
+msgstr ""
+"My words change depending on the situation,\n"
+"so even if you ask, different things come to mind.\n"
+"If you find something in the worlds I created,\n"
+"that's the answer you've guided yourself towards."
+
+#. ID 112, Page 1, Line 26, Pos (43,31)
+msgid ""
+"答えを私に求めたとしても、作った私は過去の私\n"
+"私自身でさえそんな事を忘れ、変化し続けていく\n"
+"貴方が忘れない限り、きっと消えた世界も\n"
+"どこかで生き続けるのかもしれませんね"
+msgstr ""
+"Even if you seek an answer from me, the me who\n"
+"created it lived in the past. Even I forget and\n"
+"continue to change, as long as you don't forget,\n"
+"the world that disappeared might live on somewhere."
+
+#. ID 112, Page 1, Line 33, Pos (43,31)
+msgid ""
+"なぜ人は記憶するのか、できるのか\n"
+"夢は何のために存在するのか\n"
+"とても興味深く、またそれがあるからこそ、\n"
+"今の私たちがあるんでしょうね"
+msgstr ""
+"Why do people remember? How can they do it?\n"
+"Why do dreams exist?\n"
+"It's very interesting, and because of that,\n"
+"I think that's why we are here now."
+
+#. ID 112, Page 1, Line 41, Pos (43,31)
+msgid ""
+"旋律を辿り終えたようですね。お疲れ様です\n"
+"…なんのことか分からない？\n"
+"黄色、赤、白、青の音符を辿ったでしょう？\n"
+"その音の行く先は、新たな音の始まりなのです"
+msgstr ""
+"It seems you've followed the melody to the end.\n"
+"Good job. ...Don't know what I'm talking about?\n"
+"You followed the yellow, red, white, and blue\n"
+"notes, right? Where the sounds lead is the beginning of a new sound."
+
+#. ID 112, Page 1, Line 47, Pos (43,31)
+msgid "音はいつも、記憶と共に"
+msgstr "Sound is always with memory"
+
+#. ID 112, Page 1, Line 53, Pos (43,31)
+msgid ""
+"最近の私はどうにも色々失ってるようです\n"
+"何が好きで何が楽しくて何を目的に生きるのか\n"
+"過去を見つめすぎて未来を失わないように\n"
+"夢はいつでも希望を届けてくれます"
+msgstr ""
+"Lately, it seems like I've lost a lot of things.\n"
+"What I like, what I enjoy, and what I live for.\n"
+"I don't want to lose the future by looking too much at the past.\n"
+"Dreams always bring hope."
+
+#. ID 112, Page 1, Line 60, Pos (43,31)
+msgid ""
+"「好き」って言葉、実は苦手です\n"
+"だって、「好き」と言ったら、多くの人は\n"
+"「何が好き？どこが好き？」と聞いてくるんです\n"
+"なんとなく気に入っている、それだけでいいのに"
+msgstr ""
+"I'm actually not good with the word \"like.\"\n"
+"Because when you say \"like,\" many people ask,\n"
+"\"What do you like? In what way?\" It should be\n"
+"fine to like something without any special reason."
+
+#. ID 112, Page 1, Line 64, Pos (43,31)
+msgid ""
+"だから私は「すこ」とか「いいと思う」とか、\n"
+"あまり重くない好感の言葉が便利だな、と思うのです\n"
+"そう、ゆめ２っきすこ"
+msgstr ""
+"So I think words like \"I fw\" or \"I vibe with\"\n"
+"are convenient, non-commital expressions of\n"
+"affection. Yes, I fw Yume 2kki."
+
+#. ID 112, Page 1, Line 70, Pos (43,31)
+msgid ""
+"そこに確かにあるのに、取り戻せないもどかしさ\n"
+"失われた記憶に手が届きそうなのに\n"
+"穢れたこの心では辿り着けない\n"
+"願いを継げる誰かをずっと待ち続けて"
+msgstr ""
+"Right where it was left, an agony beyond reclaim.\n"
+"Though memories past lay just within hand's reach,\n"
+"they shan't be touched by this leaden heart.\n"
+"So I patiently pray for another to inherit my wish."
+
+#. ID 112, Page 1, Line 74, Pos (43,31)
+msgid ""
+"\n"
+"…いつか、誰かの「好き」が\n"
+"また見られる日が来ると信じて"
+msgstr ""
+"\n"
+"...I believe that one day,\n"
+"I'll be able to hear someone's \"like\" again."
+
+#. ID 112, Page 1, Line 80, Pos (43,31)
+msgid ""
+"記憶の音、というのは\n"
+"案外心にずっと残っているものです\n"
+"ふと自分に寄り添ってくれる\n"
+"そんな音楽が私は好みです"
+msgstr ""
+"The sound of memory\n"
+"surprisingly lingers in the heart.\n"
+"I like music that comforts me,\n"
+"gentle yet without caution."
+
+#. ID 112, Page 1, Line 87, Pos (43,31)
+msgid ""
+"本家のEDの音楽が心に残りすぎて、\n"
+"無意識に自分の曲のコード進行に取り入れがち\n"
+"ゆめ２っきで私が作っている曲も、\n"
+"同じメロディーを転用できたりします"
+msgstr ""
+"The music from the original game's ending is too\n"
+"iconic, so I unconsciously incorporated its chord\n"
+"progression into my own tracks. In the tracks I make\n"
+"for Yume 2kki, I can reuse the same melody."
+
+#. ID 112, Page 1, Line 94, Pos (43,31)
+msgid ""
+"誰が誰の世界って、意外と認識していないものです\n"
+"楽しむwikiとか、他のマップとの類似を見て、\n"
+"ああこの人だなって思ったりするわけです\n"
+"そして気が付けば、貯金箱の金額が減っていく"
+msgstr ""
+"It's kinda hard to know whose world is whose.\n"
+"When I see similarities between the wiki and other\n"
+"maps, I think, \"Oh, this person made this.\"\n"
+"And without realizing, my piggy bank had shrunk."
+
+#. ID 112, Page 1, Line 101, Pos (43,31)
+msgid ""
+"同じマップなのに、見え方が違えば思う所も\n"
+"変わってくるんじゃないか？なんて思いながら。\n"
+"同じような曲でも、ピアノアレンジと\n"
+"オルゴールアレンジで雰囲気がガラリと変わるように"
+msgstr ""
+"Even if it's the same map, if you see if different-\n"
+"ly, won't your thoughts change too? Even with the\n"
+"same song, the atmosphere changes drastically\n"
+"between the piano and the music box arrangement."
+
+#. ID 112, Page 1, Line 108, Pos (43,31)
+msgid ""
+"私の作るBGMは特徴的なメロディが多いので、\n"
+"あまりゆめにっきっぽくはないかもしれません\n"
+"でも、夢の世界もその表現が多様化していますし、\n"
+"１つぐらいはそういうのがあっても…だめ？"
+msgstr ""
+"Since the BGM I make has many distinctive melodies,\n"
+"it might not be very Yume Nikki-like.\n"
+"But the expression of dream worlds has diversified,\n"
+"so isn't it fine to have at least one like that...?"
+
+#. ID 112, Page 1, Line 115, Pos (43,31)
+msgid ""
+"ノスタルジア、という音楽ゲームが好きでした。\n"
+"ピアノをモチーフとしていて、徐々に音を集めて\n"
+"記憶を辿る、そんなお話。"
+msgstr ""
+"I liked the music game \"Nostalgia.\"\n"
+"It's a story about gradually collecting sounds\n"
+"and chasing memories, with the piano as the motif."
+
+#. ID 112, Page 1, Line 118, Pos (43,31)
+msgid ""
+"言葉のない、音と映像だけの物語。\n"
+"人に多くを伝える事はできないけれど、\n"
+"心に何らかの余韻を残していく。\n"
+"そんなイベントを、私も作れたらいいな、と思うなど。"
+msgstr ""
+"A story with no words, only sound and images.\n"
+"It can't convey much to people, but it leaves some\n"
+"kind of resonance in the heart. I think it would\n"
+"be nice if I could create such an event."
+
+#. ID 112, Page 1, Line 125, Pos (43,31)
+msgid ""
+"星座となっている星には、色々な名前があります。\n"
+"有名なのは、やはり夏の大三角でしょうか。\n"
+"デネブ、ベガ、アルタイル\n"
+"他にはおとめ座のスピカ、とか。"
+msgstr ""
+"There are many names for stars that make up the\n"
+"constellations. The most famous is likely the\n"
+"Summer Triangle. Deneb, Vega, Altair. Or Spica in\n"
+"Virgo, for example."
+
+#. ID 112, Page 1, Line 129, Pos (43,31)
+msgid ""
+"ゆめ２っきの星座は架空のものもいくつかありますが、\n"
+"もしもそれらの星に名前を付けるとしたら、\n"
+"貴方はどんな名前を付けますか？"
+msgstr ""
+"There are some fictional constellations in Yume\n"
+"2kki, and if you were to name those stars, what\n"
+"names would you give them?"
+
+#. ID 112, Page 1, Line 135, Pos (43,31)
+msgid ""
+"14までって言ったでしょ？\n"
+"これ以上を入力しても今は何も話せる事がないよ"
+msgstr ""
+"I said up to 14, right?\n"
+"I can't talk about anything else right now."
+
+#. ID 112, Page 1, Line 140, Pos (43,31)
+msgid ""
+"…と言いたいところですが、この数字をわざわざ\n"
+"指定してくるということは、きっとあのマップを\n"
+"ご存じなのでしょう。そう、94nd0r4と呼ばれる\n"
+"あのマップを。"
+msgstr ""
+"...I'd like to say that, but the fact that you\n"
+"specifically entered this number means you must\n"
+"know that map. Yes, that map called 94nd0r4."
+
+#. ID 112, Page 1, Line 144, Pos (43,31)
+msgid ""
+"こういうわけのわからないものがあった方が夢らしい\n"
+"なんて思いながら作りました。プレイヤーの誰かが\n"
+"偶然辿り着いて、困惑のまま起きてほしい、と。"
+msgstr ""
+"I made it while thinking that having something\n"
+"unintelligible like this also makes it dream-like.\n"
+"I hope that someone will stumble upon it by chance\n"
+"and wake up in confusion."
+
+#. ID 112, Page 1, Line 147, Pos (43,31)
+msgid ""
+"ただ、楽しむwikiに書かれてしまったので、さすがに\n"
+"そういうコンセプトを維持するのが困難になりました。\n"
+"なので、初めの１回は確実に行けるようにしました。\n"
+"そして、今この瞬間も。"
+msgstr ""
+"However, since it was written on the wiki,\n"
+"it became difficult to maintain that concept.\n"
+"So, I made sure you could definitely go there the first time.\n"
+"And even now, at this moment."
+
+#. ID 113, Page 1, Line 2, Pos (32,65)
+msgid ""
+"spelude\n"
+"こんにちは。\n"
+"こっちの私は、作った音楽について喋ります。\n"
+"ほぼ楽しむwikiのマップ名、キャラ名が出てきます。"
+msgstr ""
+"spelude\n"
+"Hello. I'll talk about the music I made.\n"
+"Mostly, names of maps and characters from the wiki\n"
+"will come up."
+
+#. ID 113, Page 1, Line 6, Pos (32,65)
+msgid ""
+"0～28までの番号を入力してください。\n"
+"それに応じて色々話します。まだ訪れていないマップ\n"
+"の場合は、話せない事もあるかもしれません。"
+msgstr ""
+"Please enter a number from 0 to 28.\n"
+
+#. ID 113, Page 1, Line 10, Pos (32,65)
+#. Choice (3 options)
+msgid ""
+"数字を入力する\n"
+"ランダムで\n"
+"また今度"
+msgstr ""
+"Enter a number\n"
+"Random\n"
+"Later"
+
+#. ID 113, Page 1, Line 26, Pos (32,65)
+msgid ""
+"「spelude-5」\n"
+"絵本の表で流れるBGM。\n"
+"実は表と裏は同じマップだったりします。\n"
+"イベントの敷き詰めって意外と大変(メタい)"
+msgstr ""
+"\"spelude-5\"\n"
+"The BGM that plays on the front of the picture\n"
+"book. Actually, the front and back are the same\n"
+"map. Event placement is surprisingly hard (meta)."
+
+#. ID 113, Page 1, Line 32, Pos (32,65)
+msgid ""
+"「spelude-5」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"扉部屋からはそこまで遠くないので、ぜひ探して\n"
+"みてくださいね。"
+msgstr ""
+"\"spelude-5\"\n"
+"It seems you haven't visited where this\n"
+"plays yet. It's not far from the door room, so\n"
+"please look for it."
+
+#. ID 113, Page 1, Line 43, Pos (32,65)
+msgid ""
+"「spelude-8」\n"
+"文字平原で夜の時に流れるBGM。\n"
+"そういえば最近、文字で構成された世界が増えましたね\n"
+"文字で表せる世界、私は好きです。"
+msgstr ""
+"\"spelude-8\"\n"
+"The BGM that plays in the Character Plains at night.\n"
+"Come to think of it, recently, the number of worlds composed of text has increased.\n"
+"I like worlds that can be expressed in text."
+
+#. ID 113, Page 1, Line 49, Pos (32,65)
+msgid ""
+"「spelude-8」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"文字イベントを「あり」にしないと行けない場所なので\n"
+"もし抵抗がなければぜひ。"
+msgstr ""
+"\"spelude-8\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"You must set text events to \"yes\" to go there.\n"
+"If you don't mind, please do visit it."
+
+#. ID 113, Page 1, Line 60, Pos (32,65)
+msgid ""
+"「spelude-8-1」\n"
+"文字平原が昼の時に流れるBGM。\n"
+"日の光がほわぁっと射すようなイメージです。\n"
+"元々は別の場所で使っていた曲だったり…。"
+msgstr ""
+"\"spelude-8-1\"\n"
+"The BGM that plays in the Character Plains during the day.\n"
+"It has an image of the sun shining softly.\n"
+"It was originally used in another place..."
+
+#. ID 113, Page 1, Line 66, Pos (32,65)
+msgid ""
+"「spelude-8-1」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"文字イベントを「あり」にしないと行けない場所なので\n"
+"もし抵抗がなければぜひ。"
+msgstr ""
+"\"spelude-8-1\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"You must set text events to \"yes\" to go there.\n"
+"If you don't mind, please do visit it."
+
+#. ID 113, Page 1, Line 77, Pos (32,65)
+msgid ""
+"「spelude-13」\n"
+"赤い空の崖で流れるBGM。\n"
+"この曲は､なんとなく鍵盤で弾いていたらビビっときた\n"
+"メロディだったりします。"
+msgstr ""
+"\"spelude-13\"\n"
+"The BGM that plays on the Red Sky Cliff.\n"
+"This track is a melody that came to me\n"
+"when I was playing the keyboard."
+
+#. ID 113, Page 1, Line 83, Pos (32,65)
+msgid ""
+"「spelude-13」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"彼岸花の九尾が関係しているとか…？"
+msgstr ""
+"\"spelude-13\"\n"
+"It seems you haven't visited where this\n"
+"plays yet. Might it be related to the red spider\n"
+"lilies and the nine-tailed fox...?"
+
+#. ID 113, Page 1, Line 93, Pos (32,65)
+msgid ""
+"「spelude-13-1」\n"
+"ハザマで流れるBGM、spelude-13の単音バージョン。\n"
+"赤い空の崖から行ける世界ということもあり、\n"
+"旋律的な関連性があったほうがいいなぁ、などと…。"
+msgstr ""
+"\"spelude-13-1\"\n"
+"The BGM that plays in the Splash Streetway, a single-note version of spelude-13.\n"
+"Since it's a world reachable from the Red Sky Cliff,\n"
+"I thought it would be better if there was a melodic connection..."
+
+#. ID 113, Page 1, Line 99, Pos (32,65)
+msgid ""
+"「spelude-13-1」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"もし既に聞いたよ！という場合は、別の行き方を\n"
+"試してみてくださいね。"
+msgstr ""
+"\"spelude-13-1\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"You might've already heard it! In that case, try\n"
+"another way to get there."
+
+#. ID 113, Page 1, Line 110, Pos (32,65)
+msgid ""
+"「spelude-16」\n"
+"shigurin氏のマップ、森屋敷で流れるBGM。\n"
+"ふわふわと浮かんでいるあの生き物たち、\n"
+"可愛くてけっこうお気に入り。"
+msgstr ""
+"\"spelude-16\"\n"
+"The BGM that plays in the Spirit Mansion, shigurin's map.\n"
+"The creatures floating gently in the air,\n"
+"they're cute and quite a favorite of mine."
+
+#. ID 113, Page 1, Line 116, Pos (32,65)
+msgid ""
+"「spelude-16」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"深い夢の奥へ行く事があれば、聴く事ができるかも\n"
+"しれませんね。"
+msgstr ""
+"\"spelude-16\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you go deep into the dream, you might be able\n"
+"to hear it."
+
+#. ID 113, Page 1, Line 127, Pos (32,65)
+msgid ""
+"「spelude-18」\n"
+"裏絵本で流れるBGM。\n"
+"表も裏も、オルゴールの曲にしようと意識してました。\n"
+"そして絵本の中は…。"
+msgstr ""
+"\"spelude-18\"\n"
+"The BGM that plays in the back Picture Book. I was\n"
+"self-conscious about making both the front and\n"
+"back music box songs. And inside the picture book..."
+
+#. ID 113, Page 1, Line 133, Pos (32,65)
+msgid ""
+"「spelude-18」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"もし既に絵本の世界へ入った事があるのなら、\n"
+"ある事をしてみると…？"
+msgstr ""
+"\"spelude-18\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you've already entered the Picture Book, try a\n"
+"certain action...?"
+
+#. ID 113, Page 1, Line 144, Pos (32,65)
+msgid ""
+"「spelude-23」\n"
+"ケレウスで流れるBGM。\n"
+"アルファベットで書くと「cereus」。ラテン語で\n"
+"「ろうそく」という意味を持つ言葉を引用しました。"
+msgstr ""
+"\"spelude-23\"\n"
+"The BGM that plays in the Neon Candle World.\n"
+"When written in the alphabet, it's \"cereus.\"\n"
+"In Latin, it means \"candle.\""
+
+#. ID 113, Page 1, Line 150, Pos (32,65)
+msgid ""
+"「spelude-23」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"空の上から落ちてみたり、青いオーブを探したり…\n"
+"壁紙もあるので、ぜひ見つけてみて下さいね。"
+msgstr ""
+"\"spelude-23\"\n"
+"It seems you haven't visited where this\n"
+"plays yet. Try falling from the sky, looking for\n"
+"blue orbs... There's a wallpaper too."
+
+#. ID 113, Page 1, Line 161, Pos (32,65)
+msgid ""
+"「spelude-24」\n"
+"shigurin氏のマップ、夢孤島の奥地で流れるBGM。\n"
+"個人的にBGMの使われ方にびっくり、そうきたか！と。\n"
+"長い旅の果てに、とても優しい雰囲気のマップ…よき"
+msgstr ""
+"\"spelude-24\"\n"
+"The BGM that plays deep within Rainy Docks, shigurin's map.\n"
+"I was personally surprised by how the BGM was used.\n"
+"At the end of a long journey, a map with a very gentle atmosphere... nice."
+
+#. ID 113, Page 1, Line 167, Pos (32,65)
+msgid ""
+"「spelude-24」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"深い夢の奥へ行く事があれば、聴く事ができるかも\n"
+"しれませんね。"
+msgstr ""
+"\"spelude-24\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you go deep into the dream, you might be able\n"
+"to hear it."
+
+#. ID 113, Page 1, Line 178, Pos (32,65)
+msgid ""
+"「spelude-24full」\n"
+"とあるイベントを見ると、絵本の中で流れるBGM。\n"
+"夢孤島の奥地で流れるあの曲のピアノアレンジです。\n"
+"大元は5分近くのしっかりした曲だったり…。"
+msgstr ""
+"\"spelude-24full\"\n"
+"When you see a certain event, the BGM that plays in the picture book.\n"
+"It's a piano arrangement of the song that plays deep within Rainy Docks.\n"
+"The original was a fleshed-out track of nearly five minutes..."
+
+#. ID 113, Page 1, Line 184, Pos (32,65)
+msgid ""
+"「spelude-24full」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"もし似たような曲を聞いた事があれば、\n"
+"羊のいるピアノに関係のある場所で…？"
+msgstr ""
+"\"spelude-24full\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you've heard a similar song,\n"
+"it might be related to the piano with the sheep..."
+
+#. ID 113, Page 1, Line 195, Pos (32,65)
+msgid ""
+"「spelude-25」\n"
+"maptsuki氏のマップ、成済の最奥で流れるBGM。\n"
+"避けゲーが苦手な私は、攻略に何度も躓きました…。\n"
+"メニュータイプ、皆さんはもう試してみましたか？"
+msgstr ""
+"\"spelude-25\"\n"
+"The BGM that plays deep within False Guardians' Trials, maptsuki's map.\n"
+"I'm not good at dodge games, so I stumbled many times in the process...\n"
+"Have you all tried the menu type yet?"
+
+#. ID 113, Page 1, Line 201, Pos (32,65)
+msgid ""
+"「spelude-25」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"複数の場所から行ける、でもその様相も色々。\n"
+"ぷにでおなじみの世界を知っているなら、その先に。"
+msgstr ""
+"\"spelude-25\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"It's reachable from many places, but its appear-\n"
+"ance is also varied. It's beyond the world of Puni."
+
+#. ID 113, Page 1, Line 212, Pos (32,65)
+msgid ""
+"「spelude-28」\n"
+"ノクターンである事をすると流れるBGM。\n"
+"元々は絵本の中で流れていた曲でしたが、そちらは\n"
+"hibinegaとしてlong版にしました。"
+msgstr ""
+"\"spelude-28\"\n"
+"The BGM that plays when you perform the nocturne.\n"
+"It was originally played in the picture book,\n"
+"but I made a long version of it as hibinega."
+
+#. ID 113, Page 1, Line 218, Pos (32,65)
+msgid ""
+"「spelude-28」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"絵本の中から始まる４つの音を集めると…？"
+msgstr ""
+"\"spelude-28\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you collect the four sounds, starting from\n"
+"inside the picture book...?"
+
+#. ID 113, Page 1, Line 240, Pos (32,65)
+msgid ""
+"「spelude-30」\n"
+"雲の小部屋で流れるBGM。\n"
+"入る度に３種類のどれかの部屋へと入る事ができます。\n"
+"実はとあるエフェクトで部屋の指定ができたり…。"
+msgstr ""
+"\"spelude-30\"\n"
+"The BGM that plays in the Tricolor Room. Each time\n"
+"you can enter one of three rooms. In fact, you can\n"
+"choose which room with a certain effect..."
+
+#. ID 113, Page 1, Line 246, Pos (32,65)
+msgid ""
+"「spelude-30」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"うろつきの部屋とよく似た建物内を歩いていると…？"
+msgstr ""
+"\"spelude-30\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you walk inside a building that's similar to\n"
+"Urotsuki's room...?"
+
+#. ID 113, Page 1, Line 256, Pos (32,65)
+msgid ""
+"「spelude-32」\n"
+"aediorugap氏のマップ、月風鳥花で流れるBGM。\n"
+"マップの雰囲気ともよく合っていて、正に和！\n"
+"和繋がりで、あるマップを接続させてもらっていたり…"
+msgstr ""
+"\"spelude-32\"\n"
+"The BGM played in Cherry Blossom Park, aediorugap's\n"
+"map. Fits well the atmosphere of the map, truly Ja-\n"
+"panese! Has a Japanese connection with another map..."
+
+#. ID 113, Page 1, Line 262, Pos (32,65)
+msgid ""
+"「spelude-32」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"季節によっては、少し遠いかもしれませんね。\n"
+"或いは、玩具の汽車の旅の先で…？"
+msgstr ""
+"\"spelude-32\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"Depending on the season, it might be a little far.\n"
+"Or perhaps, at the end of the toy train journey...?"
+
+#. ID 113, Page 1, Line 273, Pos (32,65)
+msgid ""
+"「spelude33」\n"
+"maptsuki氏のマップ、風化祠で流れるBGM。\n"
+"荘厳な雰囲気に意味深なイベント。\n"
+"攻略は大変ですが、なかなか深い場所で好みです。"
+msgstr ""
+"\"spelude33\"\n"
+"The BGM that plays in the Guardians' Temple, maptsuki's map.\n"
+"A solemn atmosphere with a significant event.\n"
+"It's difficult to clear, but it's quite deep and to my liking."
+
+#. ID 113, Page 1, Line 279, Pos (32,65)
+msgid ""
+"「spelude33」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"ぷにのいる公園を色々巡っていると…？"
+msgstr ""
+"\"spelude33\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you wander around the park where Puni is...?"
+
+#. ID 113, Page 1, Line 289, Pos (32,65)
+msgid ""
+"「spelude34」\n"
+"絵本の中であるイベントを起こすと流れるBGM。\n"
+"絵本の中はピアノの音色で統一しよう、と思い、\n"
+"この曲を選びました。ちなみに、外へ出ると…？"
+msgstr ""
+"\"spelude34\"\n"
+"The BGM played by an event in Picture Book. I want-\n"
+"ed to unify the piano sounds in the Picture Book,\n"
+"so I chose this. Also, when you go outside...?"
+
+#. ID 113, Page 1, Line 295, Pos (32,65)
+msgid ""
+"「spelude34」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"絵本の中で、ある事をしてみると…？"
+msgstr ""
+"\"spelude34\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you do something in the Picture Book...?"
+
+#. ID 113, Page 1, Line 305, Pos (32,65)
+msgid ""
+"「spelude-34m」\n"
+"セレナーデで流れるBGM。\n"
+"spelude34を明るい調に変えたバージョン。基本の旋律\n"
+"がほとんど同じでも、だいぶ雰囲気変わりますよね。"
+msgstr ""
+"\"spelude-34m\"\n"
+"The BGM that plays in Serenade.\n"
+"A version of spelude34 with a bright tone.\n"
+"Even though the basic melody is almost the same, the atmosphere changes a lot."
+
+#. ID 113, Page 1, Line 311, Pos (32,65)
+msgid ""
+"「spelude-34m」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"絵本の中で、ある事をしてみると…？\n"
+"また、その時の季節が春や夏だと…？"
+msgstr ""
+"\"spelude-34m\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you do something in the picture book...?\n"
+"Also, if the season is spring or summer...?"
+
+#. ID 113, Page 1, Line 322, Pos (32,65)
+msgid ""
+"「spelude-34mo」\n"
+"小夜曲で流れるBGM。\n"
+"セレナーデで流れている曲のオルゴールバージョン。\n"
+"どことなく、懐かしさをイメージできたらな、と。"
+msgstr ""
+"\"spelude-34mo\"\n"
+"The BGM that plays in Nocturne.\n"
+"A music box version of the BGM played in Serenade.\n"
+"I hope you can imagine a sense of nostalgia in it."
+
+#. ID 113, Page 1, Line 328, Pos (32,65)
+msgid ""
+"「spelude-34mo」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"４つの音を巡った先に到達できる部屋があります。\n"
+"そこを、あるエフェクトで調べると…？"
+msgstr ""
+"\"spelude-34mo\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"There's a room after collecting the four sounds.\n"
+"Try using a certain effect there...?"
+
+#. ID 113, Page 1, Line 339, Pos (32,65)
+msgid ""
+"「spelude-40」\n"
+"たまごで流れるBGM。\n"
+"実は湖底で流れるあの場所を意識していたり…。\n"
+"たまごおわつたそのさきに"
+msgstr ""
+"\"spelude-40\"\n"
+"The BGM played in Scrambled Egg World.\n"
+"I was aware of where this is played, at the bottom\n"
+"of the lake... Beyond the scrambled egg."
+
+#. ID 113, Page 1, Line 345, Pos (32,65)
+msgid ""
+"「spelude-40」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"ぷにのいる公園を色々巡っていると…？"
+msgstr ""
+"\"spelude-40\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"If you wander around the park where Puni is...?"
+
+#. ID 113, Page 1, Line 355, Pos (32,65)
+msgid ""
+"「spelude-132」\n"
+"うさぎ星で流れるBGM。\n"
+"ﾎﾟﾝｯﾎﾟﾝｯと跳ねるイメージ｡うさみみに合わせた４色の\n"
+"うさぎが、新たなマップの入口にならないかな、なんて"
+msgstr ""
+"\"spelude-132\"\n"
+"The BGM that plays in Lapine Forest. A bouncing\n"
+"image. I wonder if the four colors of rabbits match-\n"
+"ing the rabbit ears form the entrance to a new map."
+
+#. ID 113, Page 1, Line 361, Pos (32,65)
+msgid ""
+"「spelude-132」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"少しわかりにくい場所にありますが、星座の世界から\n"
+"とあるパネルをうさみみで踏むと…？"
+msgstr ""
+"\"spelude-132\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"It's in a slightly hard-to-understand place, but\n"
+"if you step on a certain panel...?\n"
+
+#. ID 113, Page 1, Line 372, Pos (32,65)
+msgid ""
+"「spelude-30l」\n"
+"ノクターンで流れるBGM。\n"
+"無垢夢で流れるあの旋律です。他マップでもいくつか\n"
+"流用しているフレーズなので、ぜひ探してみて下さいね"
+msgstr ""
+"\"spelude-30l\"\n"
+"The BGM that plays in Nocturne.\n"
+"It's that melody that plays in Innocent Dream.\n"
+"It's a phrase that's been reused in several other maps, so please look for it."
+
+#. ID 113, Page 1, Line 378, Pos (32,65)
+msgid ""
+"「spelude-30l」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"４つの音を巡った先で…？"
+msgstr ""
+"\"spelude-30l\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"After collecting the four sounds...?"
+
+#. ID 113, Page 1, Line 388, Pos (32,65)
+msgid ""
+"「spelude-30a」\n"
+"雲の小部屋で流れるBGM。\n"
+"spelude-30に無垢夢のフレーズを組み合わせたもの。\n"
+"ノクターンから出入りすると、聴くことが出来ます。"
+msgstr ""
+"\"spelude-30a\"\n"
+"The BGM that plays in the Tricolor Room. A mix of\n"
+"phrases from spelude-30 and Innocent Dream. You\n"
+"can hear it when you go in and out of Nocturne."
+
+#. ID 113, Page 1, Line 394, Pos (32,65)
+msgid ""
+"「spelude-30a」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"４つの音を巡った先で…？\n"
+"そしてその部屋から出た時に確率で…？"
+msgstr ""
+"\"spelude-30a\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"After collecting the four sounds...?\n"
+"Then, when you leave that room and with luck...?"
+
+#. ID 113, Page 1, Line 405, Pos (32,65)
+msgid ""
+"「spelude-7-2」\n"
+"絵本の中でピアニストに話しかけると流れるBGM。\n"
+"偶然鍵盤に手を置いていたら閃いた旋律です。\n"
+"そして完成形は…23を入力してくださいね。"
+msgstr ""
+"\"spelude-7-2\"\n"
+"The BGM played by the pianist in the picture book.\n"
+"It came to me when I placed hands on the keyboard.\n"
+"And the completed form is... please input 23."
+
+#. ID 113, Page 1, Line 411, Pos (32,65)
+msgid ""
+"「spelude-7-2」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"絵本の中で、ピアニストに話しかけると…？"
+msgstr ""
+"\"spelude-7-2\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"Try talking to the pianist in the picture book...?"
+
+#. ID 113, Page 1, Line 421, Pos (32,65)
+msgid ""
+"「spelude-7-3」\n"
+"蛍で流れるBGM。\n"
+"spelude-7-2にコーラスとカリンバを追加して豪華に。\n"
+"ちなみにカリンバの旋律をよく聴いて見ると…？"
+msgstr ""
+"\"spelude-7-3\"\n"
+"The BGM that plays in Firefly World.\n"
+"I added chorus and kalimba to spelude-7-2 to make it harmonious.\n"
+"By the way, if you listen carefully to the melody of the kalimba...?"
+
+#. ID 113, Page 1, Line 427, Pos (32,65)
+msgid ""
+"「spelude-7-3」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"絵本の中で、ピアニストに話しかけると…？\n"
+"その後、絵本の中の壁を調べると…？"
+msgstr ""
+"\"spelude-7-3\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"When you talk to the pianist in the picture book..?\n"
+"Then, try examining the picture book walls...?"
+
+#. ID 113, Page 1, Line 438, Pos (32,65)
+msgid ""
+"「spelude-hibinega」\n"
+"絵本の中で流れるBGM。\n"
+"同マップで聴けるBGMの中で、唯一１人では絶対に\n"
+"弾けない曲。hibinegaは「響く願い」の略だったり"
+msgstr ""
+"\"spelude-hibinega\"\n"
+"The BGM played in the Picture Book. Of the BGMs in\n"
+"that map, it's the only one you absolutely can't\n"
+"play alone. hibinega is short for \"echoing wish.\""
+
+#. ID 113, Page 1, Line 444, Pos (32,65)
+msgid ""
+"「spelude-hibinega」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"扉部屋からはそこまで遠くないので、ぜひ探して\n"
+"みてくださいね。"
+msgstr ""
+"\"spelude-hibinega\"\n"
+"It seems you haven't visited where this\n"
+"plays yet. It's not that far from the door room,\n"
+"so please try to find it."
+
+#. ID 113, Page 1, Line 455, Pos (32,65)
+msgid ""
+"「spelude-inks」\n"
+"祈願で流れるBGM。\n"
+"ある旋律の和風バージョン。月風鳥花から来た時と\n"
+"星座から来た時で、テンポや音が少し変わります。"
+msgstr ""
+"\"spelude-inks\"\n"
+"The BGM that plays in the Fox Temple. A Japanese-\n"
+"style version of a certain melody. The track slight-\n"
+"ly changes if you enter from Constellation World."
+
+#. ID 113, Page 1, Line 461, Pos (32,65)
+msgid ""
+"「spelude-inks」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"季節によっては、少し遠いかもしれませんね。\n"
+"或いは、玩具の汽車の旅の先で…？"
+msgstr ""
+"\"spelude-inks\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"Depending on the season, it might be a bit far. Or\n"
+"perhaps, at the end of the toy train journey...?"
+
+#. ID 113, Page 1, Line 472, Pos (32,65)
+msgid ""
+"「spelude-kodou」\n"
+"sromで流れるBGM。\n"
+"重苦しい中に何かの蠢きを感じる、そんな感じを\n"
+"イメージしました。音のこもり具合にも拘っていたり"
+msgstr ""
+"\"spelude-kodou\"\n"
+"The BGM that plays in the Blood Cell Sea. I imag-\n"
+"ined something stirring amidst a heavy atmosphere.\n"
+"I was pretty particular about the reverb."
+
+#. ID 113, Page 1, Line 478, Pos (32,65)
+msgid ""
+"「spelude-kodou」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"赤い鼓動の響く世界の先で…？"
+msgstr ""
+"\"spelude-kodou\"\n"
+"It seems you haven't visited where this\n"
+"plays yet. At the end of the world where the red\n"
+"pulses echo...?"
+
+#. ID 113, Page 1, Line 488, Pos (32,65)
+msgid ""
+"「spelude-senritu2」\n"
+"無垢夢で流れるBGM。聴いていてピンとくる方も\n"
+"いるかもしれませんが、これは逆再生です。\n"
+"逆再生の曲は、遡るような感じで使う事が多いです。"
+msgstr ""
+"\"spelude-senritu2\"\n"
+"The BGM that plays in Innocent Dream.\n"
+"Some of you may feel a sense of familiarity when listening to it,\n"
+"but this is a reverse playback.\n"
+"Reverse playback songs are often used in a retro-like way."
+
+#. ID 113, Page 1, Line 494, Pos (32,65)
+msgid ""
+"「spelude-senritu2」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"４つの音を巡った先で…？"
+msgstr ""
+"\"spelude-senritu2\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"After collecting the four sounds...?"
+
+#. ID 113, Page 1, Line 504, Pos (32,65)
+msgid ""
+"「spelude-namima」\n"
+"アルレシャで流れるBGM。\n"
+"元々は、浜辺をお散歩するTRPGのシナリオがきっかけ\n"
+"で生まれた楽曲だったりします。"
+msgstr ""
+"\"spelude-namima\"\n"
+"The BGM that plays in the Beach.\n"
+"It was originally a song that was born from a TRPG scenario\n"
+"where you take a walk on the beach."
+
+#. ID 113, Page 1, Line 510, Pos (32,65)
+msgid ""
+"「spelude-namima」\n"
+"これが聴ける場所へ、まだ訪れていないようです。\n"
+"星座の中で、２匹の魚を繋ぐ紐。\n"
+"その星を、ぜひ探してみてください"
+msgstr ""
+"\"spelude-namima\"\n"
+"It seems you haven't visited where this plays yet.\n"
+"In Constellation World, a string connects two fish.\n"
+"Please try to find that star."
+
+#. ID 113, Page 1, Line 521, Pos (32,65)
+msgid ""
+"「spelude-37」\n"
+"74726…94nd0r4で流れるBGM。よく見つけましたね。\n"
+"74726という数字に特に理由はないのですが、なぜか\n"
+"馴染みがあるんですよね…不思議。"
+msgstr ""
+"\"spelude-37\"\n"
+"The BGM that plays in 74726...94nd0r4. You did well\n"
+"to find it. There's no reason for 74726, but some-\n"
+"how I feel familiar with it... Most strange."
+
+#. ID 113, Page 1, Line 528, Pos (32,65)
+msgid ""
+"28までって言ったでしょ？\n"
+"これ以上を入力しても今は何も話せる事がないよ"
+msgstr ""
+"I told you up to 28, right?\n"
+"Even if you input anything else, there's nothing\n"
+"more I can tell you right now."
